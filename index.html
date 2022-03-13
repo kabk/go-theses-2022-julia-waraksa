@@ -1,1 +1,37 @@
-<p style="font-size: 400pt; font-family: Arial, Helvetica, sans-serif;">Yeehoo</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Julia Waraksa Thesis</title>
+    <link rel="stylesheet" href="styles/index.css" />
+    <link rel="stylesheet" href="styles/content.css" />
+    <link rel="stylesheet" href="styles/footnotes.css" />
+    <script src="https://unpkg.com/vue@3"></script>
+    <script src="https://unpkg.com/markdown-it/dist/markdown-it.js"></script>
+    <script src="https://unpkg.com/markdown-it-footnote@3.0.3/dist/markdown-it-footnote.js"></script>
+    <script type="module" src="scripts/index.js"></script>
+  </head>
+
+  <body>
+    <div id="app">
+      <nav>
+        <div class="progress" :style="{ width: `${Navigator.scrollProgress}%` }">
+        </div>
+      </nav>
+      <header>
+        {{ Navigator.currentChapterTitle }}
+      </header>
+      <main>
+        <article v-for="(chapter, index) in Content.chapters" :index="index">
+          <span v-html="chapter.html"> </span>
+        </article>
+      </main>
+      <footer v-if="Footnotes.isFootnoteVisible" @click="Footnotes.hideFootnote()">
+        <span v-html="Footnotes.visibleFootnote.text">
+
+        </span>
+      </footer>
+    </div>
+  </body>
+</html>

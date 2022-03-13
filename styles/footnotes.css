@@ -1,0 +1,26 @@
+/* Hide standard rendering of footnote links and texts */
+.footnotes,
+.footnotes-sep,
+.footnote-backref {
+  display: none;
+}
+
+/* Footnote container */
+#app > footer {
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  z-index: 100000;
+  background-color: silver;
+  padding: 8px;
+  border-top: solid silver 2px;
+  box-shadow: 0 0 8px gray;
+  cursor: pointer;
+}
+
+/* Footnote text */
+#app > footer span {
+  flex: 1;
+}
