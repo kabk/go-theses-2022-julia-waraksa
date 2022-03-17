@@ -1,0 +1,50 @@
+.image-popup-overlay {
+  position: absolute;
+  z-index: 10000000;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background-color: white;
+  opacity: 1;
+}
+
+.image-popup {
+  position: absolute;
+  z-index: 10000001;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  opacity: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-popup img {
+  max-width: 75vw;
+  max-height: 75vh;
+}
+
+figure {
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  color: orangered;
+}
+
+.image-data {
+  margin: 0;
+  padding: 8px;
+  list-style: none;
+}
+
+.image-data .title {
+  font-weight: bold;
+}
+
+.image-data .details {
+  font-style: italic;
+}

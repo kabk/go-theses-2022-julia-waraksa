@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="styles/index.css" />
     <link rel="stylesheet" href="styles/content.css" />
     <link rel="stylesheet" href="styles/footnotes.css" />
+    <link rel="stylesheet" href="styles/images.css" />
     <script src="https://unpkg.com/vue@3"></script>
     <script src="https://unpkg.com/markdown-it/dist/markdown-it.js"></script>
     <script src="https://unpkg.com/markdown-it-footnote@3.0.3/dist/markdown-it-footnote.js"></script>
@@ -15,6 +16,7 @@
 
   <body>
     <div id="app">
+      <!-- navigation bar -->
       <nav>
         <div class="progress" :style="{ width: `${Navigator.scrollProgress}%` }">
         </div>
@@ -22,16 +24,46 @@
       <header>
         {{ Navigator.currentChapterTitle }}
       </header>
+
+      <!-- content pages -->
       <main>
         <article v-for="(chapter, index) in Content.chapters" :index="index">
           <span v-html="chapter.html"> </span>
         </article>
       </main>
-      <footer v-if="Footnotes.isFootnoteVisible" @click="Footnotes.hideFootnote()">
-        <span v-html="Footnotes.visibleFootnote.text">
 
-        </span>
+
+      <!-- footnotes popup -->
+        <footer @click="Footnotes.hideFootnote()">
+          <div v-html="Footnotes.footnote.text">
+          </div>
       </footer>
+      <div id="footer-helper">
+          <span v-html="Footnotes.footnote.text">
+          </span>
+      </div>
+
+      <!-- image popup -->
+      <section class="image-popup-overlay" v-if="Images.isVisible" @click="Images.hide()">
+        <ul class="image-data">
+            <li class="title">
+                {{ Images.image.name }}
+            </li>
+            <li class="details" v-for="line in Images.image.text">
+                {{ line }}
+            </li>
+        </ul>
+      </section>
+      <section class="image-popup" v-if="Images.isVisible" @click="Images.hide()">
+        <img :src="Images.imageUrl">
+      </section>
+
+
+      <!-- application loading overlay -->
+      <section class="loading-overlay" v-if="isLoading && showLoadingProgress">
+        Loading ... 
+      </section>
     </div>
+
   </body>
 </html>

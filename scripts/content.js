@@ -9,7 +9,7 @@ export const Content = reactive({
   chapters: [
     { title: 'Introduction', file: '00-introduction.md', html: '' },
     { title: 'Formation of Memory', file: '01-formation-of-memory.md', html: '' },
-    { title: 'Case Study - Babyn Yar', file: '02-babyn-yar.md', html: '' }
+    { title: 'Case Study - Babyn Yar', file: '02-babyn-yar.md', html: '' },
   ],
 
   // Chapter count
@@ -18,12 +18,12 @@ export const Content = reactive({
   },
 
   // First chapter
-  get firstChapter () {
+  get firstChapter() {
     return this.chapters[0]
   },
 
   // Last chapter
-  get lastChapter () {
+  get lastChapter() {
     return this.chapters[this.chapters.length - 1]
   },
 
@@ -35,7 +35,7 @@ export const Content = reactive({
     const text = await response.text()
     const markdown = markdownit({
       html: true,
-      linkify: true
+      linkify: true,
     })
     markdown.use(markdownitFootnote)
     chapter.html = markdown.render(text)
@@ -43,12 +43,18 @@ export const Content = reactive({
   },
 
   // Loads the content of all chapters
-  async initialize() {
+  // onProgress: callback used to notify about the progress of initialization
+  async initialize(onProgress) {
     const all = []
     for (let i = 0; i < this.count; i++) {
       const chapter = await this.loadChapter(i)
       all.push(chapter)
+
+      // Notify about the progress
+      if (onProgress) {
+        await onProgress(this)
+      }
     }
     return all
-  }
+  },
 })

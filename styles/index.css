@@ -44,3 +44,19 @@ html, body {
   flex-direction: column;
   overflow: auto;
 }
+
+.loading-overlay {
+  position: absolute;
+  z-index: 10000001;
+  background-color: white;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  opacity: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-size: 48px;
+}
