@@ -11,7 +11,6 @@ export const Application = {
       isLoading: true,
       // Set this to true to display loading overlay
       showLoadingProgress: false,
-
       // Application services
       Content,
       Navigator,

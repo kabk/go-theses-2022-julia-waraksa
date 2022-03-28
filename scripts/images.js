@@ -4,17 +4,16 @@ const { reactive } = window.Vue
  * Service handling image popups
  */
 export const Images = reactive({
-  // Available images
   images: [
     {
       name: 'Figure 1',
       file: '00-image.jpg',
-      text: ['Bla bla bla', '2009', '(c) Bob Marley'],
+      text: ['Caption', '2009'],
     },
     {
       name: 'Figure 2',
       file: '01-cat.jpg',
-      text: ['Ble ble ble', '2019', '(c) Sjonnie'],
+      text: ['Caption', '2019'],
     },
   ],
 
