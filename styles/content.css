@@ -1,8 +1,9 @@
 #app > main > article {
-  padding: 8px;
+  padding:  50px;
   display: flex;
   flex-direction: row;
 }
+
 
 #app > main > article span {
   flex: 1;
@@ -15,11 +16,77 @@
   flex-basis: 50%;
 }
 
+
+
+.full-height {
+  flex: 1;
+  flex-basis: 100%;
+  flex-direction: row;
+  display: flex;
+  min-height: 95vh;
+  padding: 7.5% 20% 7.5% 20%;
+  margin: 0;
+}
+
+.half-height {
+  flex: 1;
+  flex-basis: 100%;
+  flex-direction: row;
+  display: flex;
+  min-height: 50vh;
+  padding: 0;
+  margin: 0;
+}
+
+.title {
+    /* background-color: red; */
+    flex: 1;
+    flex-basis: 100%;  
+    display: flex;
+}
+
+
+.centered {
+  justify-content: center;
+  align-items: center; 
+}
+
+.separator {
+  border-bottom: 1px solid black;
+}
+
+.centered {
+  justify-content: center;
+  align-items: center;
+  /* background-color: rgb(0, 183, 255); */
+  flex: 1;
+  flex-direction: column;
+  flex-basis: 100%;  
+  display: flex;
+}
+
+
+.note {
+  justify-content: center;
+  align-items: center;
+  /* background-color: rgb(0, 183, 255); */
+  flex: 1;
+  flex-direction: column;
+  flex-basis: 100%;  
+  display: flex;
+}
+
+span .quote {
+  padding: 2% 8% 2% 8%;
+}
+
+
 .column {
   flex: 1;
   width: 50%;
   display: flex;
   flex-direction: column;
+  padding: 10px;
 }
 
 .two-columns {
@@ -27,6 +94,7 @@
   flex-basis: 100%;
   display: flex;
   flex-direction: row;
+  padding: 10px;
 }
 
 .two-columns .left, 
@@ -34,6 +102,7 @@
   flex: 1;
   display: flex;
   flex-direction: column;
+  padding: 0;
 }
 
 #app > main > article img {

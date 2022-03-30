@@ -8,6 +8,8 @@
     <link rel="stylesheet" href="styles/content.css" />
     <link rel="stylesheet" href="styles/footnotes.css" />
     <link rel="stylesheet" href="styles/images.css" />
+    <link rel="stylesheet" href="styles/fonts.css" />
+    <link rel="stylesheet" href="styles/mobile.css" />
     <script src="https://unpkg.com/vue@3"></script>
     <script src="https://unpkg.com/markdown-it/dist/markdown-it.js"></script>
     <script src="https://unpkg.com/markdown-it-footnote@3.0.3/dist/markdown-it-footnote.js"></script>
@@ -22,7 +24,12 @@
         </div>
       </nav>
       <header>
-        {{ Navigator.currentChapterTitle }}
+        <div class="two-columns">
+          <div class="left">
+        {{ Navigator.currentChapterTitle }} 
+          </div>
+      
+        </div>
       </header>
 
       <!-- content pages -->
@@ -43,6 +50,7 @@
           </span>
       </div>
 
+
       <!-- image popup -->
       <section class="image-popup-overlay" v-if="Images.isVisible" @click="Images.hide()">
         <ul class="image-data">
@@ -61,7 +69,7 @@
 
       <!-- application loading overlay -->
       <section class="loading-overlay" v-if="isLoading && showLoadingProgress">
-        Loading ... 
+          Loading ... 
       </section>
     </div>
 

@@ -7,9 +7,13 @@ const { markdownit, markdownitFootnote } = window
 export const Content = reactive({
   // Content chapters
   chapters: [
-    { title: 'Introduction', file: '00-introduction.md', html: '' },
-    { title: 'Formation of Memory', file: '01-formation-of-memory.md', html: '' },
-    { title: 'Case Study - Babyn Yar', file: '02-babyn-yar.md', html: '' },
+    { title: 'Topography of Violence', file: '00-title.md', html: '' },
+    { title: 'Abstract', file: '01-abstract.md', html: '' },
+    { title: 'Introduction', file: '02-introduction.md', html: '' },
+    { title: 'Formation of Memory', file: '03-formation-of-memory.md', html: '' },
+    { title: 'Case Study - Babyn Yar', file: '04-babyn-yar.md', html: '' },
+    { title: 'Conclusion', file: '05-conclusion.md', html: '' },
+    { title: 'Bibliography', file: '06-bibliography.md', html: '' },
   ],
 
   // Chapter count

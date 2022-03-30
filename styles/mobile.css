@@ -1,0 +1,13 @@
+
+@media screen and (max-width: 600px) {
+
+  #app > main {
+  padding: 0;
+  }
+
+  .full-height {
+    padding: 2%;
+  }
+  
+
+}
