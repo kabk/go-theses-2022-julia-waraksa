@@ -1,7 +1,7 @@
 .chapter {
   display: flex;
   flex-direction: column;
-  padding: 7.5% 20% 7.5% 20%;
+  padding: 15% 20% 15% 20%;
 }
 
 .chapter.no-padding {
@@ -80,24 +80,35 @@ background-position: bottom  , 4px 0;
   max-width: 100%;
   max-height: 100%;
   flex: 1;
-  padding: 0 5% 0 5%;
+  padding: 0 0 2.5% 0;
+  align-self: center;
 }
 
-.chapter .images-container {
+.chapter .img-container {
   flex: 1;
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
+  padding: 5% 10% 5% 10%;
+  object-fit: contain;
 }
 
 .chapter .img-caption {
   padding: 0 100px 0 0;
-  display: inline-block;
   font-size: 10pt;
   line-height: 13pt;
   font-family: 'ITC Mendoza Roman', Times, serif;
   margin: 0;
-  padding: 0 5% 15% 5%;
+  padding: 0;
+}
+
+.chapter .full-width-img {
+  flex: 1;
+  background-size:cover; 
+  background-image: url(../content/images/04-babyn-yar-map.jpg);
+}
+
+.chapter .padding {
+  padding: 5% 20% 5% 20%;
 }
 
 /* Amended styling for mobile browsers */

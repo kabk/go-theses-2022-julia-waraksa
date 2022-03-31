@@ -33,10 +33,9 @@ a:hover {
   flex: 0;
   display: flex;
   font-family: 'ITC Mendoza Roman', Times, serif;
-  font-size: 15px;
-  padding: 10px;
+  padding: 28px;
   padding-left: 20px;
-  padding-bottom: 15px;
+  padding-bottom: 20px;
 }
 
 
@@ -50,7 +49,7 @@ a:hover {
 #app > nav > .progress {
   height: 1px;
   background-color: var(--black);
-  margin-top: 20px;
+  margin-top: 34px;
   transition: all ease-in-out 0.2s;
 }
 

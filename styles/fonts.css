@@ -10,8 +10,8 @@
 
 @font-face {
   font-family: 'Suisse Neue';
-  src: url('SuisseNeue-Regular.woff2') format('woff2'),
-      url('SuisseNeue-Regular.woff') format('woff');
+  src: url('../fonts/SuisseNeue-Regular.woff2') format('woff2'),
+      url('../fonts/SuisseNeue-Regular.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -19,8 +19,8 @@
 
 @font-face {
   font-family: 'Suisse Works';
-  src: url('SuisseWorks-Book.woff2') format('woff2'),
-      url('SuisseWorks-Book.woff') format('woff');
+  src: url('../fonts/SuisseWorks-Book.woff2') format('woff2'),
+      url('../fonts/SuisseWorks-Book.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -28,12 +28,32 @@
 
 @font-face {
   font-family: 'Suisse Works Italic';
-  src: url('SuisseWorks-BookItalic.woff2') format('woff2'),
-      url('SuisseWorks-BookItalic.woff') format('woff');
+  src: url('../fonts/SuisseWorks-BookItalic.woff2') format('woff2'),
+      url('../fonts/SuisseWorks-BookItalic.woff') format('woff');
   font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'Serapion OSF';
+  src: url('../fonts/SerapionOSF.woff2') format('woff2'),
+      url('../fonts/SerapionOSF.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Serapion';
+  src: url('../fonts/Serapion-Italic.woff2') format('woff2'),
+      url('../fonts/Serapion-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+
 
 /* https://fluidtypography.com/#app-get-started */
 
@@ -42,7 +62,7 @@ html, body {
   -webkit-font-smoothing: antialiased; */
   font-family: 'ITC Mendoza Roman', Times, serif;
   font-size: 16.85px;
-  line-height: 21.5px;
+  line-height: 21.75px;
   font-weight: normal;
   letter-spacing: -0.005em;
   color:var(--black);
@@ -56,13 +76,13 @@ h1 {
   letter-spacing: 0.05em;
   text-align: center;
   line-height: 0;
+  margin-bottom: 25px;
 }
 
 h2 {
   font-family: 'ITC Mendoza Roman', Times, serif;
   font-size: 17px;
   font-weight: normal;
-  margin-bottom: -17px;
 }
 
 .text-left {

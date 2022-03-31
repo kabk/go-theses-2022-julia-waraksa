@@ -8,7 +8,7 @@ export const Content = reactive({
   // Content chapters
   chapters: [
     { title: 'Topography of Violence', file: '00-title.md', text: '', chapterClass: 'full-height center text-center' },
-    { title: 'Abstract', file: '01-abstract.md', text: '', chapterClass: 'full-height center' },
+    { title: 'Abstract', file: '01-abstract.md', text: '', chapterClass: 'center' },
     { title: 'Introduction', file: '02-introduction.md', text: '', chapterClass: 'separator' },
     { title: 'Formation of Memory', file: '03-formation-of-memory.md', text: '', chapterClass: 'separator' },
     { title: 'Case Study - Babyn Yar', file: '04-babyn-yar.md', text: '', chapterClass: 'separator center no-padding' },
