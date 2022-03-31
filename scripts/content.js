@@ -7,32 +7,40 @@ const { markdownit, markdownitFootnote } = window
 export const Content = reactive({
   // Content chapters
   chapters: [
-    { title: 'Topography of Violence', file: '00-title.md', html: '' },
-    { title: 'Abstract', file: '01-abstract.md', html: '' },
-    { title: 'Introduction', file: '02-introduction.md', html: '' },
-    { title: 'Formation of Memory', file: '03-formation-of-memory.md', html: '' },
-    { title: 'Case Study - Babyn Yar', file: '04-babyn-yar.md', html: '' },
-    { title: 'Conclusion', file: '05-conclusion.md', html: '' },
-    { title: 'Bibliography', file: '06-bibliography.md', html: '' },
+    { title: 'Topography of Violence', file: '00-title.md', text: '', chapterClass: 'full-height center text-center' },
+    { title: 'Abstract', file: '01-abstract.md', text: '', chapterClass: 'full-height center' },
+    { title: 'Introduction', file: '02-introduction.md', text: '', chapterClass: 'separator' },
+    { title: 'Formation of Memory', file: '03-formation-of-memory.md', text: '', chapterClass: 'separator no-padding' },
+    { title: 'Case Study - Babyn Yar', file: '04-babyn-yar.md', text: '', chapterClass: 'separator center no-padding' },
+    { title: 'Conclusion', file: '05-conclusion.md', text: '', chapterClass: 'separator' },
+    { title: 'Bibliography', file: '06-bibliography.md', text: '', chapterClass: 'separator' },
   ],
-
+  
   // Chapter count
-  get count() {
+  get count () {
     return this.chapters.length
   },
 
   // First chapter
-  get firstChapter() {
+  get firstChapter () {
     return this.chapters[0]
   },
 
   // Last chapter
-  get lastChapter() {
+  get lastChapter () {
     return this.chapters[this.chapters.length - 1]
   },
 
+  // Returns custom CSS classes for the specified chapter
+  getCustomClass (chapter) {
+    const classText = (this.chapters[chapter].chapterClass || '')
+    return classText
+      .split(' ')
+      .reduce((all, item) => ({ ...all, [item]: true }), {})
+  },
+
   // Loads HTML-ized content of the specified chapter
-  async loadChapter(index) {
+  async loadChapter (index) {
     const chapter = this.chapters[index]
     const url = `content/${chapter.file}`
     const response = await fetch(url)
@@ -42,13 +50,13 @@ export const Content = reactive({
       linkify: true,
     })
     markdown.use(markdownitFootnote)
-    chapter.html = markdown.render(text)
+    chapter.text = markdown.render(text)
     return chapter
   },
 
   // Loads the content of all chapters
   // onProgress: callback used to notify about the progress of initialization
-  async initialize(onProgress) {
+  async initialize (onProgress) {
     const all = []
     for (let i = 0; i < this.count; i++) {
       const chapter = await this.loadChapter(i)

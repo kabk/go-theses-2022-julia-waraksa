@@ -1,23 +1,31 @@
-<div class="full-height">
-  <div class="title centered">
+<div class="chapter half-height">
 
+# I
 # Formation of Memory
 
-  </div>
 </div>
 
 <div class="two-columns">
 <div class="left">
-It is less than a century ago that we, as humankind, vowed never again to embody the ideals that led to the atrocities of World War II. These memories now seem to belong to the previous century, as if the turning of the millennium marked the turning of a new page. The linear passing of time permits us to speak of the “past” as a fixed entity; we presume that the troubles of the past have resolved as the memory is long laid to rest. The memory becomes settled, buried in facts, cemented in memorials and national days of remembrance. But the farther the memory regresses and the farther we allocate it to a certain site, shape or form – and therefore consider its sociopolitical conditions exclusive to its historical circumstances – the more we diminish its significance in the active forming of our present. Past remains past, as we turn our eyes towards the present and the future. But one cannot exist without the other. One render the past as singular, for that allows for the formation of false narratives. As Simone Weil writes in The Need for Roots, 
 
-<span class="quote">
-  It would be useless to turn one’s back on the past in order simply to concentrate on the future. It is a dangerous illusion to believe that such a thing is even possible. The opposition of future to past or past to future is absurd. The future brings us nothing, gives us nothing; it is we who in order to build it have to give it everything, our very life. But to be able to give, one has to possess; and we possess no other life, no other living sap, than the treasures stored up from the past and digested, assimilated and created afresh by us. Of all the human soul’s needs, none is more vital than this one of the past. (Weil 48)
-</span>
-  
+## Individual Memory
+Memory, on the individual level, is the processing of physical sensations into cognition. From the point of departure of our body, memory sets us against who we were in the past and defines us into who we are in the present.  But memory formation also alters us on a physical level. The study of engrams  reveals memories not only as something ephemeral, but rather as something physical that is stored in the brain or in the body. Metaphorically speaking memories are inscribed into the material tissue of our brain structures, its cells and its cognitive system. But beyond that memories are inscribed into a body memory, on a synaptic level.  Controversial animal trials have shown that even in instances where the brain was unrecognizably altered, meaning that the synapses in the brain were erased completely, the body still held on to associations of previously encountered danger. Fight or flight responses were literally encoded in their body. Similarly, systematically oppressed people show signs of intergenerational trauma  through symptoms of heightened alert systems, increased anxiety, hypervigilance and psychiatric disorders. Consequently, these biological symptoms translate themselves into learnt and ingrained behaviors, beliefs and patterns, allowing the trauma to continue as it takes on a subconscious position in the brain. 
+
+## To alter a Memory
+The Eye Movement Desensitization and Reprocessing (EMDR) technique is a renowned approach to overcoming subconscious traumatic responses, which express themselves in both emotional and physical upheaval. While other treatments concentrate on altering the emotional response of a trauma, EMDR concentrates directly on the memory, with the intention to change the manner that it is stored in the brain. With EMDR, the person is asked to evoke a traumatic memory, whilst simultaneously tapping a part of the body or moving the eyes left to right. This technique triggers a bilateral system in the brain. The conscious connecting of the trauma with physical action, such as for example a rhythmic tapping onto a part of the body, deposits the memory externally. It rewires the engram and deposits it into conscious motoric movement. Over the course of this treatment, this process of externalizing the memory allows it to become a memory of the past, one which no longer effectively haunts the present. 
+
+In the acclaimed book Black Skin, White Masks, Frantz Fanon wrote “I am not a prisoner of History. I must not look for the meaning of my destiny in that direction,” and further,” I show solidarity with humanity provided I can go one step further.”  Fanon, writing from the perspective of the oppressed, sees the formation of an emancipated future only if the chain of the past is broken. Release the history, but remember the violence inflicted. Memory, to be empowering rather than crippling to one’s identity, must harbor this duality; a colonized people must remember grievance and act upon the affect of rage, but they must also be able to forget the grievances produced by the violence, which stifles and frightens them in action. 
+
+How does individual memory run parallel to the landscape of our collective memory?  Does trauma ingrain itself on physical site, the same way it ingrains itself within our bodies? What then constitutes of a “conscious” disposal of a collective trauma, one that would allow for “effective closure” – a closure that is not leaned on forgetting but on remembering?
+
+## Monumental Memory
+Traditionally, memorial sites are official narrations of immaterial history, produced by an authoritative party. Memorials resist the renewal of states, politics and power. They exist as a basis upon which a common identity is formed, “cementing” the history, and therefore the identity of a nation or of a people. They are designed to shoulder the weight of the individual memory’s burden by forming generalizations and abstractions that often signify a common fate; essentially, they can be seen as “deposits” of memory. Observing memorials in West Germany, it is noticeable that after the war, many inscriptions were expanded from honoring those who had been in service to the country, to include civilian deaths and later even those who had died in concentration camps. It is here when war and terror became memorized in conjunction, bringing together different identities whose commonality was a shared despairing meaningless. In a spiritual shift of consciousness after the war, memorials gained the purpose of expressing the sympathies towards the loss of a collective identity, rather than the establishment of it.  
+
+
 </div>
+
 <div class="right">
-
-</div>
+    <img src="./images/00-image.jpg"></img>
 </div>
 
 

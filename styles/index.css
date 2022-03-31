@@ -11,6 +11,12 @@ html, body {
   overflow: hidden;
 }
 
+:root {
+  --interactive: rgb(184, 184, 184);
+  --black: rgb(57, 57, 57);
+}
+
+
 #app {
   flex: 1;
   display: flex;
@@ -21,17 +27,25 @@ html, body {
 #app > header {
   flex: 0;
   display: flex;
+  font-family: 'ITC Mendoza Roman', Times, serif;
+  font-size: 15px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-bottom: 15px;
 }
 
 
 #app > nav {
   flex: 0;
-  background-color: #d0d0d0;
+  background-color: #ffffff;
+  width: 97.25%;
+  align-self: center;
 }
 
 #app > nav > .progress {
-  height: 2px;
-  background-color: black;
+  height: 1px;
+  background-color: var(--black);
+  margin-top: 20px;
   transition: all ease-in-out 0.2s;
 }
 

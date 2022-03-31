@@ -1,3 +1,4 @@
+/* General typography */
 @font-face {
   font-family: 'ITC Mendoza Roman';
   src: url('../fonts/MendozaRoman-Book.woff2') format('woff2'),
@@ -36,24 +37,19 @@
 
 /* https://fluidtypography.com/#app-get-started */
 
-#app > header {
-  font-family: 'ITC Mendoza Roman', Times, serif;
-  font-size: 15px;
-
-}
-
-.centered-text {
-  text-align: center;
-}
-
 html, body {
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
+  /* text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased; */
   /* font-family: 'Suisse Works', Times, serif; */
   font-size: 19px;
   line-height: 24px;
   font-weight: normal;
   letter-spacing: -0.005em;
+  color:var(--black);
+}
+
+body a:hover {
+  color:var(--black);
 }
 
 h1 {
@@ -62,16 +58,26 @@ h1 {
   font-size: 17px;
   font-weight: normal;
   letter-spacing: 0.05em;
-}
-
-.main-title {
-  font-size: 15pt;
   text-align: center;
-  line-height: 2.0;
+  line-height: 0;
 }
 
-.footnote-ref {
+h2 {
   font-family: 'ITC Mendoza Roman', Times, serif;
-  font-size: 15px;
-  line-height: .7;
+  font-size: 17px;
+  font-weight: normal;
+  margin-bottom: -17px;
 }
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
+

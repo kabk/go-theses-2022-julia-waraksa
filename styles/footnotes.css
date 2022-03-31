@@ -5,40 +5,62 @@
   display: none;
 }
 
-
-
-/* Footnote container */
-#app > footer {
-  position: fixed;
-  bottom: 0px;
-  height: 0px;
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  z-index: 100000;
-  background-color: silver;
-  border-top: solid silver 2px;
-  box-shadow: 0 0 8px gray;
-  cursor: pointer;
-  transition: all ease-out 0.3s;
+/* Footnote link */
+.footnote-ref a {
+  text-decoration: none;
+  font-weight: bold;
+  color:var(--interactive);
+  font-family: 'ITC Mendoza Roman', Times, serif;
+  font-size: 12px;
+  margin: 0;
+  padding: 0;
 }
 
-#app > footer > div {
-  padding: 8px;
+  
+
+.footnote-ref {
+  line-height: 0.5;
 }
 
-/* Hidden placeholder for footnotes, used to evaluate the height of dynamically changing text */
-#footer-helper {
-  opacity: 0;
-  position: fixed;
-  bottom: -1000px;
-  width: 100%;
+/* Footnotes container under the chapter */
+.chapter-footnotes {
+  padding: 0;
+  margin: 0;
+}
+
+/* List of footnotes */
+.chapter-footnotes ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* Single footnote */
+.chapter-footnotes li {
   display: flex;
-  flex-direction: column;
-  padding: 8px;
+  flex-direction: row;
+  margin-bottom: 16px;
+}
+
+.chapter-footnotes a {
+  color:var(--interactive);
+  text-decoration: none;
+}
+
+/* Footnote number */
+.chapter-footnotes li .number {
+  font-size: 11pt;
+  line-height: 13pt;
+  font-family: 'ITC Mendoza Roman', Times, serif;
+  margin-right: 8px;
+  padding: 0 20px 0 60px;
 }
 
 /* Footnote text */
-#app > footer span {
-  flex: 1;
+.chapter-footnotes p {
+  padding: 0 100px 0 0;
+  display: inline-block;
+  font-size: 11pt;
+  line-height: 13pt;
+  font-family: 'ITC Mendoza Roman', Times, serif;
+  margin: 0;
 }

@@ -35,8 +35,6 @@ export const Navigator = reactive({
   // Scroller percentage
   get scrollProgress() {
     if (this.container) {
-      const shownHeight = this.container.scrollTop + this.container.clientHeight
-      const totalHeight = this.container.scrollHeight
       return Math.ceil(100 * (this.scrollPosition / this.container.scrollHeight))
     }
   },
@@ -48,7 +46,7 @@ export const Navigator = reactive({
     this.container = document.querySelector('main')
     let options = {
       root: this.container,
-      threshold: 0.1,
+      threshold: 0.3,
     }
 
     this.observer = new IntersectionObserver((entries) => this.onChapterShown(entries), options)

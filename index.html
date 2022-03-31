@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="styles/content.css" />
     <link rel="stylesheet" href="styles/footnotes.css" />
     <link rel="stylesheet" href="styles/images.css" />
+    <link rel="stylesheet" href="styles/tooltips.css" />
     <link rel="stylesheet" href="styles/fonts.css" />
     <link rel="stylesheet" href="styles/mobile.css" />
     <script src="https://unpkg.com/vue@3"></script>
@@ -23,33 +24,29 @@
         <div class="progress" :style="{ width: `${Navigator.scrollProgress}%` }">
         </div>
       </nav>
+
       <header>
         <div class="two-columns">
           <div class="left">
-        {{ Navigator.currentChapterTitle }} TESTING
+            {{ Navigator.currentChapterTitle }}
           </div>
-      
         </div>
       </header>
 
       <!-- content pages -->
       <main>
-        <article v-for="(chapter, index) in Content.chapters" :index="index">
-          <span v-html="chapter.html"> </span>
+        <article v-for="(chapter, index) in Content.chapters" class="chapter" :class="Content.getCustomClass(index)" :index="index">
+          <div class="chapter-text" v-html="chapter.text"> </div>
+          <div class="chapter-footnotes" :id="`chapter-${index}-footnotes`" v-if="Footnotes.chapterHasFootnotes(index)">
+            <ul>
+              <li v-for="footnote in Footnotes.getChapterFootnotes(index)">
+                <span class="number">{{ footnote.number }}.</span>
+                <span v-html="footnote.text"></span>
+              </li>
+            </ul>
+          </div>
         </article>
       </main>
-
-
-      <!-- footnotes popup -->
-        <footer @click="Footnotes.hideFootnote()">
-          <div v-html="Footnotes.footnote.text">
-          </div>
-      </footer>
-      <div id="footer-helper">
-          <span v-html="Footnotes.footnote.text">
-          </span>
-      </div>
-
 
       <!-- image popup -->
       <section class="image-popup-overlay" v-if="Images.isVisible" @click="Images.hide()">
@@ -62,6 +59,7 @@
             </li>
         </ul>
       </section>
+
       <section class="image-popup" v-if="Images.isVisible" @click="Images.hide()">
         <img :src="Images.imageUrl">
       </section>
@@ -69,7 +67,7 @@
 
       <!-- application loading overlay -->
       <section class="loading-overlay" v-if="isLoading && showLoadingProgress">
-          Loading ... 
+          Loading ...
       </section>
     </div>
 

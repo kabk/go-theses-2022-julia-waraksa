@@ -1,0 +1,5 @@
+a[href="#tooltip"] {
+  color: var(--black);
+  text-decoration: dotted underline;
+  cursor: pointer;
+}

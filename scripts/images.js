@@ -22,9 +22,10 @@ export const Images = reactive({
   async initialize(onProgress) {
     // find all <figure> element and link onclick event,
     // to show image popups
-    const figures = document.querySelectorAll('figure')
+    //const figures = document.querySelectorAll('figure')
+    const figures = document.querySelectorAll('a[href="#figure"]')
     for (const figure of Array.from(figures)) {
-      const name = figure.getAttribute('name')
+      const name = figure.getAttribute('title')
       figure.addEventListener('click', () => {
         this.show(name)
       })

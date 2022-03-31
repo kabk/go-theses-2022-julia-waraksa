@@ -1,87 +1,51 @@
-#app > main > article {
-  padding:  50px;
-  display: flex;
-  flex-direction: row;
-}
-
-
-#app > main > article span {
-  flex: 1;
+.chapter {
   display: flex;
   flex-direction: column;
-}
-
-#app > main > article span > p {
-  flex: 1;
-  flex-basis: 50%;
-}
-
-
-
-.full-height {
-  flex: 1;
-  flex-basis: 100%;
-  flex-direction: row;
-  display: flex;
-  min-height: 95vh;
   padding: 7.5% 20% 7.5% 20%;
-  margin: 0;
 }
 
-.half-height {
-  flex: 1;
-  flex-basis: 100%;
-  flex-direction: row;
-  display: flex;
+.chapter.no-padding {
+  padding: 7.5% 0 7.5% 0;
+}
+
+.chapter.full-height {
+  min-height: 95vh;
+}
+
+.chapter.half-height {
   min-height: 50vh;
-  padding: 0;
-  margin: 0;
 }
 
-.title {
-    /* background-color: red; */
-    flex: 1;
-    flex-basis: 100%;  
-    display: flex;
-}
-
-
-.centered {
-  justify-content: center;
-  align-items: center; 
-}
-
-.separator {
-  border-bottom: 1px solid black;
-}
-
-.centered {
+.chapter.center {
+  flex-direction: column;
+  flex-basis: 100%;
+  display: flex;
   justify-content: center;
   align-items: center;
-  /* background-color: rgb(0, 183, 255); */
-  flex: 1;
-  flex-direction: column;
-  flex-basis: 100%;  
+}
+
+/* Chapter separator line, on top */
+.chapter.separator {
+  background-image: linear-gradient(var(--black), var(--black));
+background-repeat: no-repeat;
+background-size: 97.25% 1px, calc(90% - 1px) 100%;
+background-position: bottom  , 4px 0;
+}
+
+
+/* Chapter text container **/
+.chapter-text {
   display: flex;
-}
-
-
-.note {
-  justify-content: center;
-  align-items: center;
-  /* background-color: rgb(0, 183, 255); */
-  flex: 1;
   flex-direction: column;
-  flex-basis: 100%;  
-  display: flex;
 }
 
-span .quote {
-  padding: 2% 8% 2% 8%;
+/* Quotes inside chapter text */
+.chapter .quote {
+  padding: 25px 90px 25px 90px;
 }
 
-
-.column {
+/* Column layouts inside chapters */
+.chapter .column {
   flex: 1;
   width: 50%;
   display: flex;
@@ -89,7 +53,7 @@ span .quote {
   padding: 10px;
 }
 
-.two-columns {
+.chapter .two-columns {
   flex: 1;
   flex-basis: 100%;
   display: flex;
@@ -97,28 +61,31 @@ span .quote {
   padding: 10px;
 }
 
-.two-columns .left, 
-.two-columns .right {
+.chapter .two-columns .left,
+.chapter .two-columns .right {
   flex: 1;
   display: flex;
   flex-direction: column;
   padding: 0;
+  padding-left: 1%;
 }
 
-#app > main > article img {
+/* Images inside chapters */
+.chapter img {
   max-width: 100%;
   max-height: 100%;
   flex: 1;
 }
 
+/* Amended styling for mobile browsers */
 @media (max-width: 960px) {
 
-  .column {
+  .chapter .column {
     width: 100%;
   }
 
-  .two-columns {
+  .chapter .two-columns {
     flex-direction: column;
   }
-  
+
 }
