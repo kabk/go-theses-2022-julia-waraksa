@@ -40,22 +40,18 @@
 html, body {
   /* text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased; */
-  /* font-family: 'Suisse Works', Times, serif; */
-  font-size: 19px;
-  line-height: 24px;
+  font-family: 'ITC Mendoza Roman', Times, serif;
+  font-size: 16.85px;
+  line-height: 21.5px;
   font-weight: normal;
   letter-spacing: -0.005em;
-  color:var(--black);
-}
-
-body a:hover {
   color:var(--black);
 }
 
 h1 {
   font-family: 'ITC Mendoza Roman', Times, serif;
   text-transform: uppercase;
-  font-size: 17px;
+  font-size: 16.5px;
   font-weight: normal;
   letter-spacing: 0.05em;
   text-align: center;

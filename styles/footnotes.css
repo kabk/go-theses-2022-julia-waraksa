@@ -9,11 +9,15 @@
 .footnote-ref a {
   text-decoration: none;
   font-weight: bold;
-  color:var(--interactive);
+  color: var(--black);
   font-family: 'ITC Mendoza Roman', Times, serif;
   font-size: 12px;
   margin: 0;
   padding: 0;
+}
+
+.footnote-ref a:hover {
+  color: var(--interactive);
 }
 
   
@@ -39,16 +43,22 @@
   display: flex;
   flex-direction: row;
   margin-bottom: 16px;
+  cursor: pointer;
 }
 
+
 .chapter-footnotes a {
-  color:var(--interactive);
+  color:var(--black);
   text-decoration: none;
+}
+
+.chapter-footnotes a:hover {
+  color:var(--interactive);
 }
 
 /* Footnote number */
 .chapter-footnotes li .number {
-  font-size: 11pt;
+  font-size: 10pt;
   line-height: 13pt;
   font-family: 'ITC Mendoza Roman', Times, serif;
   margin-right: 8px;

@@ -39,7 +39,7 @@
           <div class="chapter-text" v-html="chapter.text"> </div>
           <div class="chapter-footnotes" :id="`chapter-${index}-footnotes`" v-if="Footnotes.chapterHasFootnotes(index)">
             <ul>
-              <li v-for="footnote in Footnotes.getChapterFootnotes(index)">
+              <li v-for="footnote in Footnotes.getChapterFootnotes(index)" @click="Footnotes.backToLink(footnote)">
                 <span class="number">{{ footnote.number }}.</span>
                 <span v-html="footnote.text"></span>
               </li>

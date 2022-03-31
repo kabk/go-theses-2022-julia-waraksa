@@ -61,6 +61,11 @@ background-position: bottom  , 4px 0;
   padding: 10px;
 }
 
+.chapter .vertical-align {
+  justify-content: center;
+  align-items: center;
+}
+
 .chapter .two-columns .left,
 .chapter .two-columns .right {
   flex: 1;
@@ -75,6 +80,24 @@ background-position: bottom  , 4px 0;
   max-width: 100%;
   max-height: 100%;
   flex: 1;
+  padding: 0 5% 0 5%;
+}
+
+.chapter .images-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.chapter .img-caption {
+  padding: 0 100px 0 0;
+  display: inline-block;
+  font-size: 10pt;
+  line-height: 13pt;
+  font-family: 'ITC Mendoza Roman', Times, serif;
+  margin: 0;
+  padding: 0 5% 15% 5%;
 }
 
 /* Amended styling for mobile browsers */

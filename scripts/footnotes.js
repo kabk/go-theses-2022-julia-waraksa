@@ -73,6 +73,7 @@ export const Footnotes = reactive({
         link.innerHTML = footnote.number
         link.href = `#chapter-${chapter}-footnotes`
       }
+      
     }
 
     console.log('Footnotes', this.footnotes)
@@ -90,7 +91,12 @@ export const Footnotes = reactive({
       return element.innerHTML
     }
   },
-
+  
+  // Navigates back to footnote link from clicked footnote
+  backToLink (footnote) {
+    window.location = `#fnref${footnote.number}`
+  },
+  
   // Hides the displayed footnote
   hideFootnote () {
     this.footnote.isVisible = false

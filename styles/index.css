@@ -11,6 +11,11 @@ html, body {
   overflow: hidden;
 }
 
+a:hover {
+  color:var(--interactive);
+}
+
+
 :root {
   --interactive: rgb(184, 184, 184);
   --black: rgb(57, 57, 57);
