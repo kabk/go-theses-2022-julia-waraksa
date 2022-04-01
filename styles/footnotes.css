@@ -53,6 +53,7 @@
 }
 
 .chapter-footnotes a:hover {
+  text-decoration: underline;
   color:var(--interactive);
 }
 
@@ -73,4 +74,8 @@
   line-height: 13pt;
   font-family: 'ITC Mendoza Roman', Times, serif;
   margin: 0;
+}
+
+.chapter-footnotes p:hover {
+  color: var(--interactive);
 }
