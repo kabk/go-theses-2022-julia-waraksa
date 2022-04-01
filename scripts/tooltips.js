@@ -38,6 +38,8 @@ export const Tooltips = reactive({
     // Find all elements with tooltips
     const elementsWithTooltip = document.querySelectorAll('*[title]')
     for (const element of Array.from(elementsWithTooltip)) {
+      // Skip figures and other elements also using 'title'
+      if (element.getAttribute('href') == '#figure') continue
       // Get tooltip text and remove 'title' attribute
       // so that default tooltip isn't shown by the browser
       const tooltip = element.getAttribute('title')

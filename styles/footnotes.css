@@ -42,7 +42,7 @@
 .chapter-footnotes li {
   display: flex;
   flex-direction: row;
-  margin-bottom: 10px;
+  margin-bottom: 8px;
   cursor: pointer;
 }
 
@@ -63,12 +63,12 @@
   line-height: 13pt;
   font-family: 'ITC Mendoza Roman', Times, serif;
   margin-right: 8px;
-  padding: 0 20px 0 60px;
+  padding: 0 0px 0 0px;
 }
 
 /* Footnote text */
 .chapter-footnotes p {
-  padding: 0 100px 0 0;
+  padding: 0 125px 0 100px;
   display: inline-block;
   font-size: 11pt;
   line-height: 13pt;

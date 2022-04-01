@@ -49,6 +49,14 @@ background-size: 97.25% 1px, calc(90% - 1px) 100%;
 background-position: bottom  , 4px 0;
 }
 
+.chapter .separator {
+  background-image: linear-gradient(var(--black), var(--black));
+background-repeat: no-repeat;
+background-size: 97.25% 1px, calc(90% - 1px) 100%;
+background-position: bottom  , 4px 0;
+}
+
+
 
 /* Chapter text container **/
 .chapter-text {
@@ -56,9 +64,17 @@ background-position: bottom  , 4px 0;
   flex-direction: column;
 }
 
+.chapter .centered-text {
+  text-align: center;
+}
+
 /* Quotes inside chapter text */
 .chapter .quote {
   padding: 25px 90px 25px 90px;
+}
+
+.chapter .quote-no-padding {
+  padding: 0px 90px 15px 90px;
 }
 
 /* Column layouts inside chapters */
@@ -108,6 +124,8 @@ background-position: bottom  , 4px 0;
   padding: 5% 13% 5% 13%;
   object-fit: contain;
 }
+
+
 
 .chapter .img-container-full-width {
   flex: 0;

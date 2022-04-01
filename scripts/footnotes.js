@@ -34,20 +34,21 @@ export const Footnotes = reactive({
 
     // Collect all footnotes within each chapter
     const chaptersElements = document.querySelectorAll('.chapter')
+    let number = 1
     for (const chapterElement of Array.from(chaptersElements)) {
       const chapter = parseInt(chapterElement.getAttribute('index'))
       const chapterFootnotes = chapterElement.querySelectorAll('.footnotes .footnote-item')
 
       // Re-number the footnotes, so they have unique identifiers within the chapter.
       // This allows us to start from 1. for each chapter
-      for (let number = 1; number <= chapterFootnotes.length; number++) {
-        const footnoteElement = chapterFootnotes[number - 1]
+      for (const footnoteElement of Array.from(chapterFootnotes)) {
         const originalId = footnoteElement.getAttribute('id')
         const id = `fn-${chapter}-${number}`
         footnoteElement.setAttribute('id', id)
         const text = footnoteElement.innerHTML
         const footnote = { chapter, number, id, text, originalId }
         this.footnotes.push(footnote)
+        number++
       }
 
       // Get footnote links

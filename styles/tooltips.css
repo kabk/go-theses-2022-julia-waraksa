@@ -6,16 +6,17 @@ a[href="#tooltip"] {
 
 a[href="#tooltip"]:hover {
   color: var(--black);
-  cursor: pointer;
+  cursor: help;
   background-color: white;
 }
 
 .tooltip {
   position: absolute;
-  padding: 12px;
-  background-color: #fff8f5;
+  padding: 1px 5px 1px 5px;
+  background-color: rgb(231, 231, 231);
   border: gray;
-  box-shadow: 0 0 8px gray;
-  border-radius: 7px;
-  transition: opacity 0.1s ease-out;
+  max-width: 400px;
+  /* box-shadow: 0 0 5px white; */
+  /* border-radius: 7px; */
+  /* transition: opacity 0.1s ease-out; */
 }
