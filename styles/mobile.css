@@ -39,4 +39,8 @@
     margin-bottom: 30px;
   }
 
+  .chapter .img-container {
+    padding: 1% 2% 1% 2%;
+  }
+
 }
