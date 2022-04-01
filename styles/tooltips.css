@@ -9,3 +9,13 @@ a[href="#tooltip"]:hover {
   cursor: pointer;
   background-color: white;
 }
+
+.tooltip {
+  position: absolute;
+  padding: 12px;
+  background-color: #fff8f5;
+  border: gray;
+  box-shadow: 0 0 8px gray;
+  border-radius: 7px;
+  transition: opacity 0.1s ease-out;
+}

@@ -1,6 +1,7 @@
 import { Content } from './content.js'
 import { Navigator } from './navigator.js'
 import { Footnotes } from './footnotes.js'
+import { Tooltips } from './tooltips.js'
 import { Images } from './images.js'
 import { delay } from "./utilities.js"
 
@@ -15,6 +16,7 @@ export const Application = {
       Content,
       Navigator,
       Footnotes,
+      Tooltips,
       Images
     }
   },
@@ -23,15 +25,16 @@ export const Application = {
     // Initializes the application and services
     async initialize () {
       this.isLoading = true
-      
+
       await this.Content.initialize(this.progress)
       await this.Navigator.initialize(this.progress)
       await this.Footnotes.initialize(this.progress)
+      await this.Tooltips.initialize(this.progress)
       await this.Images.initialize(this.progress)
-      
+
       this.isLoading = false
     },
-    
+
     // Reports initialization progress
     async progress () {
       if (this.showLoadingProgress) {

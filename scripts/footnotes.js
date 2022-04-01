@@ -1,14 +1,9 @@
 const { reactive } = window.Vue
-import { queryParent } from './utilities.js'
 
 /**
  * Handles all things related to displaying footnotes
  */
 export const Footnotes = reactive({
-  // UI elements where footnotes are shown
-  footerElement: null,
-  footerHelper: null,
-
   // All footnotes
   footnotes: [],
 
@@ -18,11 +13,6 @@ export const Footnotes = reactive({
   // Returns true if there is a footnote visible
   get isVisible () {
     return this.footnote.id != null && this.footnote.isVisible
-  },
-
-  // Height of the current footnote
-  get height () {
-    return this.footerHelper.clientHeight
   },
 
   // Returns true if the specified chapter has any footnotes
@@ -40,8 +30,6 @@ export const Footnotes = reactive({
   // the footnotes the way and place we want them to be
   // onProgress: callback used to notify about the progress of initialization
   async initialize (onProgress) {
-    this.footerElement = document.querySelector('footer')
-    this.footerHelper = document.querySelector('#footer-helper')
     this.footnotes = []
 
     // Collect all footnotes within each chapter
@@ -73,10 +61,8 @@ export const Footnotes = reactive({
         link.innerHTML = footnote.number
         link.href = `#chapter-${chapter}-footnotes`
       }
-      
-    }
 
-    console.log('Footnotes', this.footnotes)
+    }
 
     // Notify about the progress
     if (onProgress) {
@@ -84,33 +70,8 @@ export const Footnotes = reactive({
     }
   },
 
-  // Retrieves the text of the specified footnote
-  getFootnote (id) {
-    const element = document.querySelector(`li[id=${id}]`)
-    if (element) {
-      return element.innerHTML
-    }
-  },
-  
   // Navigates back to footnote link from clicked footnote
   backToLink (footnote) {
     window.location = `#fnref${footnote.number}`
-  },
-  
-  // Hides the displayed footnote
-  hideFootnote () {
-    this.footnote.isVisible = false
-    this.footerElement.style.height = '0px'
-  },
-
-  // Displays the specified footnote
-  showFootnote (id) {
-    // Render footnote text
-    const text = this.getFootnote(id)
-    this.footnote = { id, text, isVisible: text != null }
-    // After a while, its height is known, so slide out the footnote container
-    setTimeout(() => {
-      this.footerElement.style.height = `${this.height}px`
-    }, 100)
-  },
+  }
 })

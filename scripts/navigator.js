@@ -46,7 +46,7 @@ export const Navigator = reactive({
     this.container = document.querySelector('main')
     let options = {
       root: this.container,
-      threshold: 0.3,
+      threshold: 0.1,
     }
 
     this.observer = new IntersectionObserver((entries) => this.onChapterShown(entries), options)
@@ -68,6 +68,7 @@ export const Navigator = reactive({
 
   // Triggered when chapter comes in view
   onChapterShown(entries) {
+    console.log(entries)
     const visibleChapter = entries.find((e) => e.isIntersecting)
 
     if (visibleChapter) {
