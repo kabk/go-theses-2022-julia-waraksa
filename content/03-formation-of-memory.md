@@ -1,4 +1,4 @@
-<div class="chapter half-height">
+<div class="half-height">
 
 # I
 # Formation of Memory

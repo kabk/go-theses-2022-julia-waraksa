@@ -1,19 +1,27 @@
 .chapter {
   display: flex;
   flex-direction: column;
-  padding: 15% 20% 15% 20%;
+  padding: 2% 20% 10% 20%;
 }
 
-.chapter.no-padding {
+.chapter .no-padding {
   padding: 7.5% 0 7.5% 0;
+}
+
+.chapter .full-height {
+  min-height: 95vh;
 }
 
 .chapter.full-height {
   min-height: 95vh;
 }
 
-.chapter.half-height {
+.chapter .half-height {
   min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .chapter.center {

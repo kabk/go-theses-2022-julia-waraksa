@@ -1,4 +1,4 @@
-<div class="chapter half-height">
+<div class="full-height">
 
 # II
 
@@ -11,11 +11,10 @@
 
 </div>
 
-<div class="chapter full-height full-width-img">
-
+<div class="full-height full-width-img">
 </div>
 
-<div class="chapter half-height separator">
+<div class="full-height separator">
 
 # MARCH 3, 2022
 
