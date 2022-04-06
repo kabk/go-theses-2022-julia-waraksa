@@ -22,9 +22,8 @@ In the acclaimed book <u>Black Skin, White Masks</u>, Frantz Fanon wrote “I am
 ## Monumental Memory
 Traditionally, memorial sites are official narrations of immaterial history, produced by an authoritative party. Memorials resist the renewal of states, politics and power. They exist as a basis upon which a common identity is formed, “cementing” the history, and therefore the identity of a nation or of a people. They are designed to shoulder the weight of the individual memory’s burden by forming generalizations and abstractions that often signify a common fate; essentially, they can be seen as “deposits” of memory. Observing memorials in the Federal Republic of Germany, it is noticeable that after the war, many inscriptions were expanded from honoring those who had been in service to the country, to include civilian deaths and later even those who had died in concentration camps. It is here when war and terror became memorized in conjunction, bringing together different identities whose commonality was a shared despairing meaningless. In a spiritual shift of consciousness after the war, memorials gained the purpose of expressing the sympathies towards the loss of a collective identity, rather than the establishment of it.[^11]
 
-
 <div class="img-container">
-<img class="align-self" src="content/images/00-image.jpg">
+<img class="align-self" src="content/images/02-stolpersteine-berlin-3.jpg">
           <div class="img-caption">
           
  Figure 1 Stolpersteine
@@ -33,6 +32,8 @@ Traditionally, memorial sites are official narrations of immaterial history, pro
 </div>
 
 But there is a drawback. The less we experience their memory internally, the more the memory begins to exist externally. “The memorial’s new vocation is to record: delegating to the [lieu de memoire](#tooltip "place of memory (French)") the responsibility of remembering, it sheds its signs upon depositing them there, as a snake sheds its skin.” (Nora 13) Consequently, the memorial stirs up not feelings of embodied violence but rather feelings of distant sympathy. When one can feel only this sympathy, it becomes a signifier of one’s safety: there is no need to fear that one may meet the same fate. And so far as we feel this distant sympathy for the other, we become accomplice to the cause of the suffering, because to set aside this sympathy means to call for a critical reflection of how our privilege is located on the same map of their suffering. In other words, how our sympathy may be linked to their suffering in the same way “as the wealth of some may imply the destitution of others.” (Sontag 55) 
+
+
 
 In his essay on what it means to come to terms with the past, the German philosopher Theodor W. Adorno reflects on the troubled post-war memorial culture of Germany. He concludes that “the past will have been worked through only when the causes of what happened then have been eliminated. Only because the causes continue to exist does the captivating spell of the past remain to this day unbroken.” (Adorno 103) By his belief, to come to terms with the past is essentially a matter of how the past is called up and made present: whether it stops at reproach and the use of [euphemism](#tooltip "a mild and indirect expression substituted for one considered to be too harsh when referring to something unpleasant or embarrassing."), or whether its horrors are endured. The latter requires a certain strength that challenges the cognitive biases and racial prejudices that pave way for otherwise harmful ideologies.[^12]
 
@@ -47,9 +48,9 @@ The [historicity](#tooltip "the quality of being part of history instead of bein
 
 
 <div class="img-container">
-<img class="align-self" src="content/images/00-image.jpg">
+<img class="align-self" src="content/images/02-wall-of-sorrow-in-moscow.jpg">
           <div class="img-caption">
-          <u>Figure 1</u> The Wall of Sorrow in Moscow, erected in 2017 on the initiative of Russian President Vladimir Putin, commemorates the victims of Soviet repressions. Several words are incised on two big stone slabs standing behind the bronze wall. On one of them are the words “REMEMBER” and “BE AWARE”, and on the other, the words “CONDEMN” and “FORGIVE.” The president’s reasoning for erecting the monument is that “the events must never be forgotten” and “let it be a lesson to future generations”. However, the inscription of “FORGIVE” has garnished intense criticism especially in light of the President recent claims that Stalin’s rule has wrongly been exaggerated; his crimes against humanity were supposedly “not as severe as portrayed” and can therefore be “forgiven” in the light of moving on and learning from one’s mistakes. The monument is popularly slandered as hypocritical as it mildens the societal impact of Soviet repressions. Who must forgive who exactly, and more importantly, why with such haste?
+          <u>Figure 1</u> The artist Georgy Frangulyan in front of his “Wall of Sorrow,” a government-sponsored work commemorating victims of political repression that was unveiled in 2017. Several words are incised on two big stone slabs standing behind the bronze wall. On one of them are the words “REMEMBER” and “BE AWARE”, and on the other, the words “CONDEMN” and “FORGIVE.” The president’s reasoning for erecting the monument is that “the events must never be forgotten” and “let it be a lesson to future generations”. However, the inscription of “FORGIVE” has garnished intense criticism especially in light of the President recent claims that Stalin’s rule has wrongly been exaggerated; his crimes against humanity were supposedly “not as severe as portrayed” and can therefore be “forgiven” in the light of moving on and learning from one’s mistakes. The monument controversially serves to milden the societal impact of Soviet repressions by framing it as "a thing of the past", while repressions are still actively equipped by the present regime.
           </div>
 </div>
 

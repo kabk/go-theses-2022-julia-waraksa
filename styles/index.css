@@ -6,12 +6,14 @@ html, body {
   width: 100%;
   height: 100%;
   margin: 0;
+  padding: 0;
   display: flex;
   flex-direction: column;
-  overflow: hidden;
+  overflow-x: hidden;
+
 }
 
-a:hover {
+body a:hover {
   color:var(--interactive);
 }
 

@@ -21,9 +21,9 @@ export const Images = reactive({
       text: ['Caption', '2019'],
     },
     {
-      name: 'Kurenivka Disaster',
-      file: '04-kurenivka-mudslide.jpg',
-      text: ['Caption', '2019'],
+      name: 'Aftermath of the Kurenivka mudslide',
+      file: '04-kurenivka-mudslide-2.jpg',
+      text: ['Caption', '1961'],
     },
     {
       name: 'The Road by Oskar Hansen',
@@ -45,6 +45,18 @@ export const Images = reactive({
       file: '04-ravines-of-babyn-yar.jpg',
       text: ['Caption', '2019'],
     },
+    {
+      name: "Monument to Soviet citizens and prisoners of war",
+      file: '04-babyn-yar-soviet-memorial-2.jpg',
+      text: ['Caption', '2019'],
+    },
+    {
+      name: "The Soviet memorial at Babyn Yar in December",
+      file: '04-babyn-yar-december.jpg',
+      text: ['Caption', '2019'],
+    }
+    
+    
   ],
 
   // Initializes the images

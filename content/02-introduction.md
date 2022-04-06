@@ -14,10 +14,9 @@ To rob a people of their past is an act of the highest violence imaginable. The 
 
 In this paper, I will investigate instances of forced migration and cultural genocide by drawing an analogy between memory and site. In order to put face to the discussion, I will investigate the geography and the memory of [Babyn Yar](#tooltip "grandmother's ravine (Ukrainian)"), the site of the massacre that took place in the year 1941 in Ukraine. For 80 years its memory had been suppressed, misrepresented and re-narrated in the ultimate aim for its crimes to be forgotten and its socio-political significance to be diminished. Attempts to retrieve its buried history have brought the topic of its commemoration to the disjointed, politically- and emotionally-laden discussion that still surrounds the site today. Through this site and through the discussion surrounding it, I will investigate how one may engage with the trauma of a collective past, and its effect on collective memory. Centrally I pose the question, how may a memorial site bring to terms the past that it represents? Is forgiveness possible after the fact?
 
-
-</div>
-
 [^1]: Mulvey, Stephen. <u>The Long Echo of WW2 Trauma</u>. BBC News, BBC, 7 June 2019, <bbc.com/news/stories-48528841> 
 [^2]: Honderich, Holly. <u>Why Canada Is Mourning the Deaths of Hundreds of Children</u>. BBC News, 15 July 2021. <bbc.com/news/world-us-canada-57325653>
 [^3]: A concept explored by Edward Said in <u>Orientalism</u>, 1985. Orientalism consists of the European representation that is far from accurate or objective of the Orient itself – the ‘rational’ West versus the ‘irrational’ East. But the study of Orientalism is not entirely exclusive to former colonies: the act of “Othering” is crucial to the self-establishment of the oppressor. It is the framework for colonial and military conquest, oppression and occupation of the inferior culture. It is a radical shift in representation conducted by the dominant culture, who speaks for and in place of the Other, replacing any values that may have been established with their own interpretations.
 [^4]: The term [diaspora](#tooltip "from diaspeirein ‘disperse’, from dia ‘across’ + speirein ‘scatter’ (Greek)") was earliest used in describing the expulsion of the Jews from Babylon. Historically it has been used to refer to people forced into exile such as Jews, Kurds, former Yugoslavians, Palestinians and so forth, but nowadays it is also popularly used to describe any community which identify strongly with a "homeland", while living outside of it. 
+
+</div>

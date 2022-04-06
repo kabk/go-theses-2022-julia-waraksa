@@ -68,6 +68,12 @@ html, body {
   color:var(--black);
 }
 
+html, body a {
+  text-decoration: none;
+  color: var(--black);
+}
+
+
 h1 {
   font-family: 'ITC Mendoza Roman', Times, serif;
   text-transform: uppercase;
@@ -95,5 +101,9 @@ h2 {
 
 .text-right {
   text-align: right;
+}
+
+.sans-serif {
+  font-family: Arial, Helvetica, sans-serif;
 }
 

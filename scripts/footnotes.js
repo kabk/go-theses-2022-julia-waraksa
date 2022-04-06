@@ -59,6 +59,7 @@ export const Footnotes = reactive({
 
         // Change footnote link text to sequential number within the chapter.
         // When clicked, make it jump to the chapter footnotes section.
+        link.id = `fnref${footnote.number}`
         link.innerHTML = footnote.number
         link.href = `#chapter-${chapter}-footnotes`
       }
