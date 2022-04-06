@@ -52,13 +52,15 @@ a[href="#figure"]:hover {
 .image-data {
   margin: 0;
   padding: 8px;
+  padding-left: 20px;
+  padding-top: 20px;
   list-style: none;
 }
 
 .image-data .title {
-  font-weight: bold;
+  padding-bottom: 22px;
 }
 
 .image-data .details {
-  font-style: italic;
+ 
 }

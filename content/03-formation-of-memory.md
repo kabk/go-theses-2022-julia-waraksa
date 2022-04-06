@@ -65,7 +65,7 @@ Therefore, the challenging of our biases in public space is potentially synonymo
 
 
 
-[^5]: Zlotnik, Gregorio, and Aaron Vansintjan. <u>Memory: An Extended Definition</u>. Frontiers, 1 Jan. 1AD, <frontiersin.org/articles/10.3389/fpsyg.2019.02523/full#B29>
+[^5]: Zlotnik, Gregorio, and Aaron Vansintjan. <u>Memory: An Extended Definition</u>. Frontiers, 1 Jan. 1AD, [Web](frontiersin.org/articles/10.3389/fpsyg.2019.02523/full#B29).
 
 [^6]: First termed by Richard Sermon in 1904, an engram is a hypothetical change in the brain that accounts for the existence of memory. Engrams can be silent or dormant – when reactivated, they may induce memory retrieval. 
 
@@ -73,7 +73,7 @@ Therefore, the challenging of our biases in public space is potentially synonymo
 
 [^8]: The theory that trauma may permanently alter how a gene functions. Originating from the field of epigenetics, which is the study of how environment or behavior alters the genes.
 
-[^9]: <u>Eye Movement Desensitization and Reprocessing (EMDR) Therapy</u>. American Psychological Association, American Psychological Association, <apa.org/ptsd-guideline/treatments/eye-movement-reprocessing>
+[^9]: <u>Eye Movement Desensitization and Reprocessing (EMDR) Therapy</u>. American Psychological Association, American Psychological Association. [Web](apa.org/ptsd-guideline/treatments/eye-movement-reprocessing).
 
 [^10]: Fanon, Frantz. <u>Black Skin, White Masks</u>. Translation by Richard Philcrox. New York: Grove Press, 2008. Print. 204.
 
@@ -83,5 +83,5 @@ Therefore, the challenging of our biases in public space is potentially synonymo
 
 [^13]: Termed by the Polish Architect Oskar Hansen, the anti-monument involves the theory of open form. “Open form indicates the inclusion of individuality in the collective, allowing seemingly opposite elements to permeate each other, between objective, socio-collective elements and subjective, individual elements.” Hansen, Oskar. <u>Forma otwarta w architekturze. Sztuka wielkiej liczby</u>. [Trans: Open Form in Architecture. The art of the greater number.] <u>Wobec Formy Otwartej Oskara Hansena. Idea - utopia – reinterpretacja</u>. Lachowski, Marcin, Magdalena Linkowska and Zbigniew Sobczuk. Sztuka Nowa 6, 2009. Pp. 15-16.
 
-[^14]: Benjamin, Walter. <u>On the Concept of History.</u> Frankfurt School: On the Concept of History by Walter Benjamin, <marxists.org/reference/archive/benjamin/1940/history.html> 
+[^14]: Benjamin, Walter. <u>On the Concept of History.</u> Frankfurt School: On the Concept of History by Walter Benjamin, [Web](marxists.org/reference/archive/benjamin/1940/history.html)
 
