@@ -20,6 +20,8 @@
   align-items: center;
 }
 
+
+
 .chapter.full-height {
   min-height: 95vh;
   
@@ -37,6 +39,13 @@
   flex-direction: column;
   flex-basis: 100%;
   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.chapter  .center {
+  text-align: center;
   justify-content: center;
   align-items: center;
 }
@@ -70,7 +79,7 @@ background-position: bottom  , 4px 0;
 
 /* Quotes inside chapter text */
 .chapter .quote {
-  padding: 25px 90px 25px 90px;
+  padding: 25px 110px 25px 110px;
 }
 
 .chapter .quote-no-padding {
@@ -195,4 +204,12 @@ width: 60%;
     flex-direction: column;
   }
 
+}
+
+.bibliography {
+  padding: 0 25% 0 25%;
+}
+
+.mobile-hidden {
+  display: none;
 }

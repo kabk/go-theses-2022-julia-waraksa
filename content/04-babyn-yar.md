@@ -85,14 +85,13 @@ The master plan was to drain the waste in order for the remaining mud and pulp t
 
 The landscape of Babyn Yar was once a natural and undisturbed site formed over thousands of years by the movements of the earth. But within the span of a mere 20 years, its geographic processes had repeatedly been hastened by human interference, impelled by violence. Excavations, fires, pumping of water and subsequent displacement of mud, soil, shrubs, bushes and trees. Each of these stages were documented not in the earth’s strata, for it happened too fast and too violently to be inscribed into the earth, but in the archives of human memory. 
 
-<div class="half-height">
+<div class="half-height center">
 
-# And he said, What hast thou done?  
-# The voice of thy brother's blood is crying to me from the ground. 
+And he said, What hast thou done?  
+The voice of thy brother's blood is crying to me from the ground. <br><br>
 [Genesis 4:10](#figure "A stone inscription at the site of Babyn Yar")
 
 </div>
-
 Invisible to the eye, the memory of the site had been formally neglected up until 1966 when a series of protests erupted in demand for a memorial. It took a decade until later the Soviets acquiesced and erected a national monument. But it was not to serve the minorities. The inscription on the monument reads: “For the commemoration of the ‘Kyiv residents and prisoners of war’ murdered by the ‘German fascists invaders’” – an umbrella term. Moreover, the monument stands not on the approximate site of the former ravine, but in a small park in a carved-out hill that is separated from the former ravines by a busy road. Observing the monument, people standing in front of the statue become mere miniatures. The statue itself impresses only by its sheer size, for it is a fact that the people who died here did not live to become part of the Soviet Union. Whose citizens then are we commemorating here? [Monument to Soviet citizens and prisoners of war executed by the firing squad in Babyn Yar](#figure "Monument to Soviet citizens and prisoners of war"). The oppression of the Soviet Union sought to rewrite the history, to reclaim the past, of both of the living and the deceased.
 
 <div class="img-container">
@@ -172,11 +171,11 @@ But can the human interference of geographic site be reverted from destruction a
 [^22]: "The true death toll was concealed by the authorities. A later study in 2012 estimates a more accurate count, which is based on the amount of houses destroyed and persons reported missing, to approximately 1,500 victims." Harran, Marilyn. "Epilogue: The Aftermath". <U>The Holocaust Chronicle (1st ed.)</u>. Publications International, 2000. pp. 655–698.
 [^23]: Dzhulay, Dmytro. <u>Babyn Yar's 'Revenge'? the Deadly Mudslide the KGB Tried to Cover Up</u>. Radio Free Europe, 16 Mar. 2021, <rferl.org/a/ukraine-kurenivka-1961-babyn-yar-mudslide-deaths/31151981.html> 
 [^24]: Koselleck, Reinhart, Sean Franzel, and Stefan-Ludwig Hoffmann. <u>Sediments of Time: On Possible Histories</u>. Stanford University Press, 2020. Print. 218. 
-[^25]: Dean, Martin. <u>Explaining the Location of the Mass Shootings at Babyn Yar on September 29-30, 1941</u>. 28 September, 2020. Babyn Yar Holocaust Memorial Centre (BHYMC). <https://babynyar.org/storage/main/c8/ca/c8caa28de0c4d05ae26829b2e0d85150a772b7465d3fd5d6df08083108f0db97.pdf
+[^25]: Dean, Martin. <u>Explaining the Location of the Mass Shootings at Babyn Yar on September 29-30, 1941</u>. 28 September, 2020. Babyn Yar Holocaust Memorial Centre (BHYMC). [Explaining the Location of the Mass Shootings at Babyn Yar](https://babynyar.org/storage/main/c8/ca/c8caa28de0c4d05ae26829b2e0d85150a772b7465d3fd5d6df08083108f0db97.pdf)
 [^26]: “The construction of the synagogue was approved to take place on the land of the Kirillov Orthodox cemetery. Bones were found during the excavations. Later they said that they were “moved to the garbage, in order to make way for the construction of the synagogue.” Suprun, Maria. <u>“Crystal Wailing Wall” and "Mound of Memory" will be opened in Babyn Yar</u>. Big Kyiv, 16 June, 2021. <bigkyiv.com.ua/u-babynomu-yaru-kryshtalevu-stina-plachu-ta-kurgan-pamyati-foto>
 [^27]: Babyn Yar Masterplan Open Ideas Competition. <babynyarmasterplan.com>
 [^28]: Petrovsky-Shtern, Johanan. <u>The new Babyn Yar Holocaust Memorial Centre is a Trojan horse for Putin’s hybrid war: an interview by Aleksander Palikot and Jerzy Sobotta</u>. The Road to PAX Caucasia, New Eastern Europe Magazine No.6 (XLIX) November–December, 2021. The Jan Nowak-Jeziorański College of Eastern Europe in Wrocław, 2021. Print.
 [^29]: The agreement of dividing the territories of Eastern-Europe between two oppressors (Nazi Germany and the Soviet Union) essentially established a double occupation, which allowed for a double destruction. This destruction rendered the territories in-between a “void” – a “black hole” in which was permitted the use of extreme violence and where mass murder, under the harrowing conditions of the occupations, became feasible.
 [^30]: It is interesting that for the city of Kyiv, the TV tower is located on the site of the massacre. Was the tower built there precisely to divert away from the memory of the tragedy, and instead allocate the site to industrial purposes? 
 [^31]: The plaque specifies that the bullets used to make the “gun wounds” are of the same caliber used by the Nazis during the executions.
-[^32]: Stojanovic, Branimir. “Sacrificing the Victim,” <u>The Case of the Belgrade Monument</u.>. 2002.
+[^32]: Stojanovic, Branimir. “Sacrificing the Victim,” <u>The Case of the Belgrade Monument</u>. 2002.

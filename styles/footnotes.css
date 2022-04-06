@@ -59,8 +59,8 @@
 
 /* Footnote number */
 .chapter-footnotes li .number {
-  font-size: 10pt;
-  line-height: 13pt;
+  font-size: 13.5px;
+  line-height: 16px;
   font-family: 'ITC Mendoza Roman', Times, serif;
   margin-right: 8px;
   padding: 0 0px 0 0px;
@@ -68,10 +68,10 @@
 
 /* Footnote text */
 .chapter-footnotes p {
-  padding: 0 125px 0 100px;
+  padding: 0 125px 0 90px;
   display: inline-block;
-  font-size: 11pt;
-  line-height: 13pt;
+  font-size: 13.5px;
+  line-height: 16px;
   font-family: 'ITC Mendoza Roman', Times, serif;
   margin: 0;
 }

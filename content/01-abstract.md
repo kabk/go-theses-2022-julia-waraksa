@@ -1,5 +1,5 @@
 
-<div class="full-height">
+<div class="full-height center">
 
 
 
