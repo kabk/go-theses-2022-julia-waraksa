@@ -40,16 +40,16 @@ The Wretched of the Earth. Translation by Richard Philcrox. 60th Anniversary Edi
 ## Essays/Articles
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<u>Benjamin, Walter</u> • On the Concept of History. Frankfurt School: On the Concept of History by Walter Benjamin</u>. <marxists.org/reference/archive/benjamin/1940/history.html> 
+<u>Benjamin, Walter</u> • On the Concept of History. Frankfurt School: On the Concept of History by Walter Benjamin</u>. <marxists.org/reference/archive/benjamin/1940/history.html> [Accessed January 12, 2022]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<u>Mulvey, Stephen</u> • The Long Echo of WW2 Trauma. BBC News, BBC, 7 June 2019, <bbc.com/news/stories-48528841> 
+<u>Mulvey, Stephen</u> • The Long Echo of WW2 Trauma. BBC News, BBC, 7 June 2019, <bbc.com/news/stories-48528841> [Accessed March 28, 2022]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<u>Honderich, Holly</u> • Why Canada Is Mourning the Deaths of Hundreds of Children. BBC News, 15 July 2021. <bbc.com/news/world-us-canada-57325653>
+<u>Honderich, Holly</u> • Why Canada Is Mourning the Deaths of Hundreds of Children. BBC News, 15 July 2021. <bbc.com/news/world-us-canada-57325653> [Accessed January 12th, 2022]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<u>Dzhulay, Dmytro</u> • Babyn Yar's 'Revenge'? the Deadly Mudslide the KGB Tried to Cover Up. Radio Free Europe, 16 Mar. 2021, https://www.rferl.org/a/ukraine-kurenivka-1961-babyn-yar-mudslide-deaths/31151981.html. [Accessed January 17th, 2022.]
+<u>Dzhulay, Dmytro</u> • Babyn Yar's 'Revenge'? the Deadly Mudslide the KGB Tried to Cover Up. Radio Free Europe, 16 Mar. 2021, https://www.rferl.org/a/ukraine-kurenivka-1961-babyn-yar-mudslide-deaths/31151981.html. [Accessed January 17, 2022]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<u>Petrovsky-Shtern, Johanan</u> • The new Babyn Yar Holocaust Memorial Centre is a Trojan horse for Putin’s hybrid war: an interview by Aleksander Palikot and Jerzy Sobotta. The Road to PAX Caucasia, New Eastern Europe Magazine No.6 (XLIX) November–December, 2021. The Jan Nowak-Jeziorański College of Eastern Europe in Wrocław, 2021. <neweasterneurope.eu/2021/12/02/the-new-babyn-yar-holocaust-memorial-centre-is-a-trojan-horse-for-putins-hybrid-war>
+<u>Petrovsky-Shtern, Johanan</u> • The new Babyn Yar Holocaust Memorial Centre is a Trojan horse for Putin’s hybrid war: an interview by Aleksander Palikot and Jerzy Sobotta. The Road to PAX Caucasia, New Eastern Europe Magazine No.6 (XLIX) November–December, 2021. The Jan Nowak-Jeziorański College of Eastern Europe in Wrocław, 2021. <neweasterneurope.eu/2021/12/02/the-new-babyn-yar-holocaust-memorial-centre-is-a-trojan-horse-for-putins-hybrid-war>  [Accessed January 17, 2022]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<u>Evans, Gareth</u>. Lessons from the Cambodia Genocide. Global Centre for the Responsibility to Protect, 28 July 2020. <globalr2p.org/publications/lessons-from-the-cambodia-genocide>
+<u>Evans, Gareth</u>. Lessons from the Cambodia Genocide. Global Centre for the Responsibility to Protect, 28 July 2020. <globalr2p.org/publications/lessons-from-the-cambodia-genocide>  [Accessed January 25th, 2022.]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<u>Stojanovic, Branimir</u>. Sacrificing the Victim – The Case of the Belgrade Monument. 2002. <yumpu.com/en/document/view/33159594/branimir-stojanovic-the-case-of-a-belgrade-monument-dedicated-to->
+<u>Stojanovic, Branimir</u>. Sacrificing the Victim – The Case of the Belgrade Monument. 2002. <yumpu.com/en/document/view/33159594/ branimir-stojanovic-the-case-of-a-belgrade-monument-dedicated-to-> [Accessed January 25, 2022]

@@ -13,38 +13,9 @@
     padding: 2%;
   }
 
-  .chapter {
-    padding: 5%;
-  }
-
-  .chapter .quote {
-    padding: 2% 10% 2% 10%;
-  }
-
-  .chapter-footnotes li .number {
-    font-size: 10pt;
-    line-height: 13pt;
-    font-family: 'ITC Mendoza Roman', Times, serif;
-    margin-right: 8px;
-    padding: 0 10px 0 20px;
-  }
-  
-  /* Footnote text */
-  .chapter-footnotes p {
-    padding: 0 20px 0 0;
-    display: inline-block;
-    font-size: 11pt;
-    line-height: 13pt;
-    font-family: 'ITC Mendoza Roman', Times, serif;
-    margin: 0;
-  }
-
   #app > header {
     margin-bottom: 30px;
   }
 
-  .chapter .img-container {
-    padding: 1% 2% 1% 2%;
-  }
 
 }

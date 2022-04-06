@@ -20,3 +20,12 @@ a[href="#tooltip"]:hover {
   /* border-radius: 7px; */
   /* transition: opacity 0.1s ease-out; */
 }
+
+@media (max-width: 600px) {
+
+  .tooltip {
+  max-width: 200px;
+  }
+
+  
+}

@@ -54,3 +54,18 @@
 .chapter-footnotes p:hover {
   cursor: alias;
 }
+
+/* Amended styling for mobile browsers */
+@media (max-width: 960px) {
+
+  /* Footnote text */
+.chapter-footnotes p {
+  padding: 0;
+  display: inline-block;
+  font-size: 13.5px;
+  line-height: 16px;
+  font-family: 'ITC Mendoza Roman', Times, serif;
+  margin: 0;
+}
+
+}

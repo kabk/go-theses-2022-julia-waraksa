@@ -191,10 +191,17 @@ width: 60%;
   padding: 5% 20% 5% 20%;
 }
 
+.bibliography {
+  padding: 0 25% 0 25%;
+}
+
+.mobile-hidden {
+  display: none;
+}
 
 
 /* Amended styling for mobile browsers */
-@media (max-width: 960px) {
+@media (max-width: 600px) {
 
   .chapter .column {
     width: 100%;
@@ -203,13 +210,28 @@ width: 60%;
   .chapter .two-columns {
     flex-direction: column;
   }
+  .chapter {
+    display: flex;
+    flex-direction: column;
+    padding: 2% 5% 15% 5%;
+  }
+  
+  .chapter .quote {
+    padding: 2% 8% 2% 8%;
+  }
+
+  .chapter-footnotes li .number {
+    font-size: 10pt;
+    line-height: 13pt;
+    font-family: 'ITC Mendoza Roman', Times, serif;
+    margin-right: 8px;
+    padding: 0 10px 0 20px;
+  }
+  
+  .chapter .img-container {
+    padding: 1% 2% 1% 2%;
+  }
+  
 
 }
 
-.bibliography {
-  padding: 0 25% 0 25%;
-}
-
-.mobile-hidden {
-  display: none;
-}

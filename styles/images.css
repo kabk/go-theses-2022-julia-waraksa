@@ -62,5 +62,16 @@ a[href="#figure"]:hover {
 }
 
 .image-data .details {
- 
+
+}
+
+@media (max-width: 600px) {
+
+  .image-data {
+   text-align: center;
+   padding-top: 63px;
+  }
+  
+
+  
 }
