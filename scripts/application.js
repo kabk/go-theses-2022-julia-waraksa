@@ -3,6 +3,7 @@ import { Navigator } from './navigator.js'
 import { Footnotes } from './footnotes.js'
 import { Tooltips } from './tooltips.js'
 import { Images } from './images.js'
+import { Gallery } from './gallery.js'
 import { delay } from "./utilities.js"
 
 export const Application = {
@@ -11,13 +12,16 @@ export const Application = {
       // Indicates whether the application is still loading
       isLoading: true,
       // Set this to true to display loading overlay
-      showLoadingProgress: false,
+      showLoadingProgress: true,
+      // Slight delay between loading stages, otherwise it all just blinks too fast
+      loadingDelay: 100,
       // Application services
       Content,
       Navigator,
       Footnotes,
       Tooltips,
-      Images
+      Images,
+      Gallery
     }
   },
 
@@ -29,8 +33,9 @@ export const Application = {
       await this.Content.initialize(this.progress)
       await this.Navigator.initialize(this.progress)
       await this.Footnotes.initialize(this.progress)
-      await this.Tooltips.initialize(this.progress)
       await this.Images.initialize(this.progress)
+      await this.Gallery.initialize(this.progress)
+      await this.Tooltips.initialize(this.progress)
 
       this.isLoading = false
     },
@@ -38,7 +43,7 @@ export const Application = {
     // Reports initialization progress
     async progress () {
       if (this.showLoadingProgress) {
-        await delay(500)
+        await delay(this.loadingDelay)
       }
     }
   },

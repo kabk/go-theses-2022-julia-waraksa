@@ -66,12 +66,8 @@ a[href="#figure"]:hover {
 }
 
 @media (max-width: 600px) {
-
   .image-data {
    text-align: center;
    padding-top: 63px;
   }
-  
-
-  
 }

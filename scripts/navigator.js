@@ -68,7 +68,6 @@ export const Navigator = reactive({
 
   // Triggered when chapter comes in view
   onChapterShown(entries) {
-    console.log(entries)
     const visibleChapter = entries.find((e) => e.isIntersecting)
 
     if (visibleChapter) {
