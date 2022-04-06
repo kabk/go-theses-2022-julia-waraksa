@@ -11,7 +11,7 @@ export const Content = reactive({
     { title: 'Abstract', file: '01-abstract.md', text: '', chapterClass: 'center' },
     { title: 'Introduction', file: '02-introduction.md', text: '', chapterClass: 'separator' },
     { title: 'Formation of Memory', file: '03-formation-of-memory.md', text: '', chapterClass: 'separator' },
-    { title: 'Case Study - Babyn Yar', file: '04-babyn-yar.md', text: '', chapterClass: 'separator center no-padding' },
+    { title: 'Case Study - Babyn Yar', file: '04-babyn-yar.md', text: '', chapterClass: 'separator center' },
     { title: 'Conclusion', file: '05-conclusion.md', text: '', chapterClass: 'separator' },
     { title: 'Bibliography', file: '06-bibliography.md', text: '', chapterClass: 'separator' },
   ],

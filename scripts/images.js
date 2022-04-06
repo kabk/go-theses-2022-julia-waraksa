@@ -54,6 +54,36 @@ export const Images = reactive({
       name: "The Soviet memorial at Babyn Yar in December",
       file: '04-babyn-yar-december.jpg',
       text: ['Caption', '2019'],
+    },
+    {
+      name: "3D Model Babyn Yar Ravine",
+      file: '04-babyn-yar-december.jpg',
+      text: ['Caption', '2019'],
+    },
+    {
+      name: "The Crystal Wall of Crying",
+      file: '04-babyn-yar-december.jpg',
+      text: ['Caption', '2019'],
+    },
+    {
+      name: "A Place for Reflection",
+      file: '04-babyn-yar-december.jpg',
+      text: ['Caption', '2019'],
+    },
+    {
+      name: "Mound of Memory or Museum of the History of the Tragedy",
+      file: '04-babyn-yar-december.jpg',
+      text: ['Caption', '2019'],
+    },
+    {
+      name: "The Crystal Wall of Crying",
+      file: '04-babyn-yar-december.jpg',
+      text: ['Caption', '2019'],
+    },
+    {
+      name: "Babyn Yar Masterplan Open Ideas Competition",
+      file: '04-babyn-yar-december.jpg',
+      text: ['Caption', '2019'],
     }
     
     

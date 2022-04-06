@@ -91,6 +91,12 @@ h2 {
   font-weight: normal;
 }
 
+h5 {
+  font-size: 40px;
+  font-family: 'ITC Mendoza Roman', Times, serif;
+  font-weight: normal;
+}
+
 .text-left {
   text-align: left;
 }
