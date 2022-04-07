@@ -15,12 +15,6 @@ It is less than a century ago that we, as humankind, vowed never again to embody
   It would be useless to turn one’s back on the past in order simply to concentrate on the future. It is a dangerous illusion to believe that such a thing is even possible. The opposition of future to past or past to future is absurd. The future brings us nothing, gives us nothing; it is we who in order to build it have to give it everything, our very life. But to be able to give, one has to possess; and we possess no other life, no other living sap, than the treasures stored up from the past and digested, assimilated and created afresh by us. Of all the human soul’s needs, none is more vital than this one of the past. (Weil 48)
 </div>
 
-<div id="gallery1" class="gallery">
-  <img src="content/images/04-babyn-yar-soviet-memorial-2.jpg" label="Photo # 1<br>abc">
-  <img src="content/images/04-babyn-yar-soviet-memorial.jpg" label="Photo # 2">
-  <img src="content/images/04-ravines-of-babyn-yar.jpg">
-  <img src="content/images/04-babyn-yar-genesis-stone.jpg" label="Photo # 4">
-</div>
 
 The trouble of false narratives and memory loss become most evident when a long-forgotten trauma is unearthed, such as recently the discovery of the remains of Indigenous children buried across residential schools in Canada.[^2] A discovery of this gravity leads to immediate uproar on a global scale: how is it possible that we diverted our eyes away from such acts of violence? How is it possible that these sites were simply “forgotten”? How do we collectively address, and if needed, re-narrate their histories that is our collective history in fact? And how then do we edit the dominant narrative that was incomplete or false in the first place? Perhaps the greater question is to ask, how is our contemporary memory culture complicit to the formation and the safeguarding of these false narratives?
 

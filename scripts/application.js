@@ -12,7 +12,7 @@ export const Application = {
       // Indicates whether the application is still loading
       isLoading: true,
       // Set this to true to display loading overlay
-      showLoadingProgress: true,
+      showLoadingProgress: false,
       // Slight delay between loading stages, otherwise it all just blinks too fast
       loadingDelay: 100,
       // Application services

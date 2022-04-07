@@ -40,6 +40,8 @@ The Wretched of the Earth. Translation by Richard Philcrox. 60th Anniversary Edi
 ## Essays/Articles
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Babyn Yar Holocaust Memorial Center</u> • Spatializing History. A spatial research of Babyn Yar with a description of influential events in its history and a glimpse at its current state. <researchen.babynyar.org> [Accessed December 18, 2021]
+<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <u>Benjamin, Walter</u> • On the Concept of History. Frankfurt School: On the Concept of History by Walter Benjamin</u>. <marxists.org/reference/archive/benjamin/1940/history.html> [Accessed January 12, 2022]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <u>Mulvey, Stephen</u> • The Long Echo of WW2 Trauma. BBC News, BBC, 7 June 2019, <bbc.com/news/stories-48528841> [Accessed March 28, 2022]

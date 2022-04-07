@@ -1,9 +1,10 @@
 /* Gallery container */
 .gallery {
-  height: 75vh;
+  height: 55vh;
   display: flex;
   flex-direction: column;
   visibility: hidden;
+  
 }
 
 /* Image container */
@@ -12,10 +13,14 @@
   display: flex;
   flex-direction: row;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-position: top;
+  background-size: contain;
   opacity: 1;
-  border: solid black 1px;
-  margin-bottom: 16px;
+}
+
+
+.gallery main:hover {
+  cursor: pointer;
 }
 
 /* Left click container */
@@ -30,13 +35,16 @@
 /* Image label on the bottom */
 .gallery footer {
   flex: 0;
-  text-align: center;
-  padding: 0 100px 0 0;
+  text-align: left;
+  padding: 0;
   font-size: 10pt;
   line-height: 13pt;
   font-family: 'ITC Mendoza Roman', Times, serif;
   margin: 0;
-  padding: 0;
+}
+
+
+.gallery .reveal {
 }
 
 /* Transition of images shown/hidden */

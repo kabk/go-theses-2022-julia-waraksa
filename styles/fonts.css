@@ -95,6 +95,8 @@ h5 {
   font-size: 20px;
   font-family: 'ITC Mendoza Roman', Times, serif;
   font-weight: normal;
+  margin: 0;
+  line-height: 28px;
 }
 
 .text-left {

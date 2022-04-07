@@ -41,36 +41,42 @@ The nearest memorials on site, located at approximately 300 metres from the TV t
 
 ## A history of erasure
 Babyn Yar is the name ascribed to the site of the largest killing in Kyiv, Ukraine, that happened on September 29 and September 30 in 1941, eradicating the capital’s entire Jewish population over the span of two days.[^17] Often termed “Holocaust by Bullets”, Babyn Yar is symbolic to the “forgotten” victims of the Holocaust: 2.5 million individuals who were not systematically killed in concentration camps, but instead were hastily shot and buried in mass graves all around Eastern Europe. In the years following the massacre, other groups such as Jews, Roma, underground fighters, the mentally ill and Ukrainian nationalists were brought to this site to be shot and killed in the ravines. In total, an estimated 100.000 to 150.000 people lost their lives at Babyn Yar. Due to the lack of posthumous registry, exact figures are impossible to conclude and rely on estimations of local populace, historians and researchers of the site.
-
-
 <div class="img-container">
-<img class="align-self" src="content/images/04-babyn-yar-haehle-footage-4.jpg">
-          <div class="img-caption">
-          
- Figure 1. October 29 and 30, 1941. Color slides of photographs taken by Johannes Hähle, Wehrmacht propaganda photographer. The photographs show the POWs levelling the ravine out to the surface after the mass killings. 
-</div>          
+<div id="gallery0" class="gallery">
+  <img src="content/images/04-babyn-yar-haehle-footage.jpg" label="">
+  <img src="content/images/04-babyn-yar-haehle-footage-9.jpg" label="">
+    
+</div>
+  <div class="img-caption">      
+ Figure 1. October 29 and 30, 1941. Color slides of photographs taken by Johannes Hähle, Wehrmacht propaganda photographer. The photographs show the POWs levelling the ravine out to the surface after the mass killings at Babyn Yar. 
+</div>  
 </div>
 
 The original geography of the site resembled a large pit; [large, naturally formed ravines](#figure "Ravines of Babyn Yar") that had been on the outskirts of Kyiv. A landscape that lent itself to be utilized by the perpetrators. The violence initiated during the National Socialist (Nazi) occupation had opened up a pathway of permanent, unrecognizable alterations to the site. After the first Jewish killings by the Nazis, Russian Prisoners of War (POWs) were ordered to staple the bodies in the ravines and then to level the soil out to the surface. It was the first step of many to come, in attempt to erase Babyn Yar from the collective memory. When in 1943 the Soviet troops were nearing Kyiv, the Nazis made a hasty attempt to clear out the evidence they had buried in the ground. The POWs were ordered to unearth the remains in order to incinerate them. According to witness testimony, the fire burned for two days to reach the bottom of the grave.[^18] Rendered to ashes, most of the physical traces of the massacre were virtually obliterated. The memory now leaned only on the testimony of survivors, witnesses and records – all vulnerable to incompleteness (of memory), political manipulation or human error. The idea of large-scale excavations to retrieve material witnesses became practically absurd.[^19] 
 
+<br><br>
+
 <div class="img-container">
-<img class="align-self" src="content/images/04-babyn-yar-haehle-footage.jpg">
-          <div class="img-caption">
-          
- Figure 1. October 29 and 30, 1941. Color slides of photographs taken by Johannes Hähle, Wehrmacht propaganda photographer. The photographs show the POWs levelling the ravine out to the surface after the mass killings. 
-</div>          
+<div id="gallery1" class="gallery">
+  <img src="content/images/04-babyn-yar-haehle-footage-5.jpg" label="">
+  <img src="content/images/04-babyn-yar-haehle-footage-6.jpg" label="">
+    <img src="content/images/04-babyn-yar-haehle-footage-8.jpg" label="">
 </div>
-
-
+ <div class="img-caption">      
+Figure 1. October 16, 1941. Following the 'success' of the Einsatzgruppen at Babyn Yar, a month later the Jewish civilians of Lubny (Central Ukraine) were called to gather together with all their belongings. They too, thought that they will be deported, but instead, were subjected to the same brute violence and erasure as happened at Babyn Yar. Photographs by Johannes Hähle, Wehrmacht propaganda photographer.
+</div>  
+</div>
+<br><br>
 
 ## Erasure as a Political Tool
 The Soviets, who had liberated Kyiv, by the ethos of their collective and homogenous idea of history did not formally recognize (ethnic) minorities and therefore had no interest to publicly acknowledge their losses at Babyn Yar.[^20] But the collective loss, raw in its grief, survived in the living memory of those after. Survivors, witnesses, relatives and sympathizers would gather around the site to mourn. The Soviets preferred to erase the site and made further attempts to bury it under a landfill. Later, the site was filled with liquid waste by the neighboring brick factories. 
+
+The master plan was to drain the waste in order for the remaining mud and pulp to fill the ravine, and thus flatten it out evenly. The site literally was attempted to be physically erased by filling it, masking it, by altering the landscape and surface. But on March 12, 1961, due to heavy rain and pump failure, the dam at the station failed. The next morning, four million cubic meters of waste, mud and human remains that had been dumped into the site  broke through towards the neighboring Kurenivka district, [creating a tsunami](#figure "Aftermath of the Kurenivka mudslide")that would destroy everything in its path.[^21] The incident claimed the estimated lives of 145 victims, whose cause of death was suppressed by the authorities, forbidding any mention of the mudslide.[^22] Some people called the flood “the revenge of those shot” in Babyn Yar.[^23] [Monument to the victims of the 1961 Kurenivka mudslide](#figure "Monument to the Kurenivka Mudslide"). After the mudslide, the site was again levelled out. The once steep ravines became small hills, overgrown with trees, grass fields and shrubs. 
 
 <div class="quote">
 “Science goes fast and straight in its path ; but collective representations do not follow, they are centuries back, kept stagnant in error by power, the mass press and the values of order.” <br>(Barthes et al. 60-63) 
 </div>
 
-The master plan was to drain the waste in order for the remaining mud and pulp to fill the ravine, and thus flatten it out evenly. The site literally was attempted to be physically erased by filling it, masking it, by altering the landscape and surface. But on March 12, 1961, due to heavy rain and pump failure, the dam at the station failed. The next morning, four million cubic meters of waste, mud and human remains that had been dumped into the site  broke through towards the neighboring Kurenivka district, [creating a tsunami](#figure "Aftermath of the Kurenivka mudslide")that would destroy everything in its path.[^21] The incident claimed the estimated lives of 145 victims, whose cause of death was suppressed by the authorities, forbidding any mention of the mudslide.[^22] Some people called the flood “the revenge of those shot” in Babyn Yar.[^23] [Monument to the victims of the 1961 Kurenivka mudslide](#figure "Monument to the Kurenivka Mudslide"). After the mudslide, the site was again levelled out. The once steep ravines became small hills, overgrown with trees, grass fields and shrubs. 
 <br><br><br>
 <img class="align-self" src="content/images/04-kurenivka-mudslide-3.jpg">
 
@@ -92,15 +98,19 @@ The voice of thy brother's blood is crying to me from the ground. <br><br>
 [Genesis 4:10](#figure "A stone inscription at the site of Babyn Yar")
 
 </div>
-Invisible to the eye, the memory of the site had been formally neglected up until 1966 when a series of protests erupted in demand for a memorial. It took a decade until later the Soviets acquiesced and erected a national monument. But it was not to serve the minorities. The inscription on the monument reads: “For the commemoration of the ‘Kyiv residents and prisoners of war’ murdered by the ‘German fascists invaders’” – an umbrella term. Moreover, the monument stands not on the approximate site of the former ravine, but in a small park in a carved-out hill that is separated from the former ravines by a busy road. Observing the monument, people standing in front of the statue become mere miniatures. The statue itself impresses only by its sheer size, for it is a fact that the people who died here did not live to become part of the Soviet Union. Whose citizens then are we commemorating here? [Monument to Soviet citizens and prisoners of war executed by the firing squad in Babyn Yar](#figure "Monument to Soviet citizens and prisoners of war"). The oppression of the Soviet Union sought to rewrite the history, to reclaim the past, of both of the living and the deceased.
+Invisible to the eye, the memory of the site had been formally neglected up until 1966 when a series of protests erupted in demand for a memorial. It took a decade until later the Soviets acquiesced and erected a national monument. But it was not to serve the minorities. The inscription on the monument reads: “For the commemoration of the ‘Kyiv residents and prisoners of war’ murdered by the ‘German fascists invaders’” – an umbrella term. Moreover, the monument stands not on the approximate site of the former ravine, but in a small park in a carved-out hill that is separated from the former ravines by a busy road. Observing the monument, people standing in front of the statue become mere miniatures. The statue itself impresses only by its sheer size, for it is a fact that the people who died here did not live to become part of the Soviet Union. Whose citizens then are we commemorating here? The oppression of the Soviet Union sought to rewrite the history, to reclaim the past, of both of the living and the deceased.
+
+<div id="gallery1" class="gallery" style="height: 65vh !important; margin-top: 45px;">
+  <img src="content/images/04-babyn-yar-soviet-memorial.jpg" label="">
+  <img src="content/images/04-babyn-yar-soviet-memorial-2.jpg" label="">
+</div>
 
 <div class="img-container">
-<img class="align-self vertical-img" src="content/images/04-babyn-yar-soviet-memorial.jpg">
-          <div class="img-caption">
-          
- Figure 1 Stolpersteine
-</div>          
-</div>
+ <div class="img-caption">      
+Figure 1. Inauguration on July 2, 1976 of the monument to Soviet citizens and prisoners of war killed at Babyn Yar. The place where the enormous monument stands is not where the executions actually happened. Depicted in granite are figures falling off a cliff: a woman, a child, a soldier and a man amongst others. As was common to Soviet monuments, there figures are of a strong, heavy-boned build.
+</div> 
+</div> 
+
 
 In this line, the function of the memorial becomes to fuse every fallen citizen with the identity of the nation, for which the death of the individual serves as a pledge.[^24] The fluidity of history, multiplicity of events and perspectives becomes ossified in a form that is officially accepted, rendering the monument as the only acceptable vision into the past. The monument becomes not a metallic and long-lasting obituary, but a political tool that is used in order to amplify a specific voice while silencing the others. The losses are reappropriated as national losses. This cruel act only further emphasizes the exclusion of the minorities in the building of a national identity.  Therefore, the monument could be considered unbuilt, and an appropriate honoring of the victims would be for this monument not to be marked as “the first to commemorate the events of Babyn Yar” as it still is termed in 2021.
 
@@ -122,16 +132,20 @@ Gradually, the memorial landscape of Babyn Yar became more and more disjointed. 
 <br><br>
 
 ## 80 Years of Silence
-In 2016, the Babyn Yar Holocaust Memorial Center Foundation (BHMYC) was established. Since its foundation, it terms itself an educational institution which aims to broaden and sustain the memory of the Holocaust in Eastern Europe. Essentially, BHYMC symbolizes the site of Babyn Yar as the shared losses of the greater region. Besides the plans for a large-scale Holocaust museum, the foundation builds and funds other memorial projects on site, including many installations, memorial days, international competitions and memorial performances. By the use of cartographic reconstruction,  the BHYMC after 79 years has the exact locations of the mass killings on September 29 and 30, 1941. The ravine has been reconstructed in a [3D model](#figure '3D Model Babyn Yar Ravine'), which then was overlayed using photographic footage, paying particular notice to geographic landmarks (a lone tree)] and the positioning of the sun.[^25]
+In 2016, the Babyn Yar Holocaust Memorial Center Foundation (BHMYC) was established. Since its foundation, it terms itself an educational institution which aims to broaden and sustain the memory of the Holocaust in Eastern Europe. Essentially, BHYMC symbolizes the site of Babyn Yar as the shared losses of the greater region. Besides the plans for a large-scale Holocaust museum, the foundation builds and funds other memorial projects on site, including many installations, memorial days, international competitions and memorial performances. By the use of cartographic reconstruction,  the BHYMC after 79 years has the exact locations of the mass killings on September 29 and 30, 1941. The ravine has been reconstructed in a [3D model](#figure '3D Model of the Babyn Yar site'), which then was overlayed using photographic footage, paying particular notice to geographic landmarks (a lone tree) and the positioning of the sun.[^25]
 
 In stark contrast to the lack of commemoration over the preceding period of 79 years, the haste of the BHYMC foundation is remarkable. In September 2021, on the occasion of the 80th anniversary of Babyn Yar, multiple installations and monuments were revealed. [The Crystal Wall of Crying](#figure 'The Crystal Wall of Crying') is a 40-meter long structure with extruding rock quartz crystals by  Marina Abramović, the world-renowned performance artist of Serbian origin. [A place for reflection](#figure 'A Place for Reflection') – a foldable, wooden synagogue by Manuel Herz, an Austrian architecture bureau.[^26] [Mound of Memory](#figure 'Mound of Memory or Museum of the History of the Tragedy'), representing a [kurgan](#tooltip 'A Kurgan is a historical type of burial, constituted of a mound of earth and stones raised over a grave or graves. It was popularised in its use by Soviet archaeology.'), or the Museum of the History of the Tragedy designed by SUB, a German architecture bureau. Later, in January 2022, the BHYMC launches the [Babyn Yar Masterplan Open Ideas Competition](#figure 'Babyn Yar Masterplan Open Ideas Competition'), launched for the development of an artistic plan of “how to connect the scattered memories of the park” and “make it one cohesive experience and story”.[^27]
-
 <br><br>
+<img class="img-hidden img-margin-top" src="content/images/04-a-place-for-reflection-blueprint.jpg">
+  <div class="img-caption img-caption-padding">
+          <u>Figure 1</u> The unfolding of the wooden synagogue. It is unfolded only for Jewish commemorative performances. 
+          </div>
+
 
 ## Political motivations
-One cannot help but wonder behind the motives for both the haste and the excessive funding: a sum of approximately $100 million, the largest ever such funding for a Holocaust memorial project. The funding is secured by famous and prestigious figures in Ukraine, as well a significant few of which (Jewish) businessmen with close ties to Russia. Participation in such a project almost guarantees a certain level of prestige, thus local media are not shy to scrutinize the supporters of the organization. Some journalists infamously term the educational center “Putin’s Trojan Horse,” for at the current height of the hybrid war between Russia and Ukraine, the influence of Russian funding risks to affect the autonomy of the center, allowing for tampering with historical facts or the eschewing of the facts altogether.  Critics fear that the narrative pursued by the center, in order to secure the funding, may highlight the participation of Ukrainian Nazi collaborators whilst diverting from the fact that the Soviet Union, by the agreements of the historic Molotov-Ribbentrop pact, was equally complicit to the Nazis for forming the conditions that allowed many of the crimes to occur in first place.  One public demand is for the BHYMC’s rights to the future of the park to be more distributed in order to leave place for smaller, not lesser significant, local initiatives and artistic figures. Yet with little effect – the BHYMC still holds the decisive say over the site.
+One cannot help but wonder behind the motives for both the haste and the excessive funding: a sum of approximately $100 million, the largest ever such funding for a Holocaust memorial project. The funding is secured by famous and prestigious figures in Ukraine, as well a significant few of which (Jewish) businessmen with close ties to Russia. Participation in such a project almost guarantees a certain level of prestige, thus local media are not shy to scrutinize the supporters of the organization. Some journalists infamously term the educational center “Putin’s Trojan Horse,” for at the current height of the hybrid war between Russia and Ukraine, the influence of Russian funding risks to affect the autonomy of the center, allowing for tampering with historical facts or the eschewing of the facts altogether.[^28]  Critics fear that the narrative pursued by the center, in order to secure the funding, may highlight the participation of Ukrainian Nazi collaborators whilst diverting from the fact that the Soviet Union, by the agreements of the historic Molotov-Ribbentrop pact, was equally complicit to the Nazis for forming the conditions that allowed many of the crimes to occur in first place.[^29] One public demand is for the BHYMC’s rights to the future of the park to be more distributed in order to leave place for smaller, not lesser significant, local initiatives and artistic figures. Yet with little effect – the BHYMC still holds the decisive say over the site.
 
-One of the BHYMC’s projects, [The Mirror Field](#figure 'The Mirror Field'), is a newly erected audiovisual monument placed in the midst of an abandoned soccer field. One of the columns blends with the TV tower in the back.[^30] The informative plaque dates 2021, exactly 80 years after the massacre. Representing the Kabbalah, the Tree of Life, the monument consists of 10 metal columns shot through by bullets.[^31] The material is of a glossy steel which reflects like a mirror – looking into the columns, ones face is distorted by the deformations caused by the bullet holes. The icy floor trembles as a multiple voices sing a Yiddish song, coming out of the bullet holes. The reverberations give off an eerie impression, as if the ground is alive, a faint heart beating. No number is ascribed to the monument – from the plaque in front, it is unclear whether the installation is temporary. Could this monument, too, in x years become simply another ruin as many of the former ones on site?
+One of the BHYMC’s projects, [The Mirror Field](#figure 'The Mirror Field'), is a newly erected audiovisual monument placed in the midst of an abandoned soccer field. One of the columns blends with the TV tower in the back.[^30] The informative plaque dates 2021, exactly 80 years after the massacre. Representing the Kabbalah, the Tree of Life, the monument consists of 10 metal columns shot through by bullets.[^31] The material is of a glossy steel which reflects like a mirror – looking into the columns, ones face is distorted by the deformations caused by [the bullet holes](#figure 'Bullet holes in the Mirror Field'). The icy floor trembles as a multiple voices sing a Yiddish song, coming out of the bullet holes. The reverberations give off an eerie impression, as if the ground is alive, a faint heart beating. At night, bright white lights [light up the installation](#figure 'The Mirror Field at Night'). No number is ascribed to the monument – from the plaque in front, it is unclear whether the installation is temporary. Could this monument, too, in x years become simply another ruin as many of the former ones on site?
 
 <div class="quote">
 
@@ -179,3 +193,4 @@ But can the human interference of geographic site be reverted from destruction a
 [^30]: It is interesting that for the city of Kyiv, the TV tower is located on the site of the massacre. Was the tower built there precisely to divert away from the memory of the tragedy, and instead allocate the site to industrial purposes? 
 [^31]: The plaque specifies that the bullets used to make the “gun wounds” are of the same caliber used by the Nazis during the executions.
 [^32]: Stojanovic, Branimir. “Sacrificing the Victim,” <u>The Case of the Belgrade Monument</u>. 2002.
+[^33]: “Normally, the earth over a Jew’s grave should not be disturbed, and disinterment is forbidden; where a grave is opened or disturbed by the elements, desecration, or other causes, customs impose the immediate re-burial of the remains.” From Jewish Traditions for Death, Burial, and Mourning. [Rohatyn Jewish Heritage](https://rohatynjewishheritage.org/en/culture/death-burial-mourning).
