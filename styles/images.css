@@ -2,11 +2,10 @@
 a[href="#figure"] {
   margin: 0;
   color: var(--black);
-  margin: 0;
+  margin: 0 2px 0 2px;
   padding: 0 4px 0 4px;
   cursor: pointer;
-  border-top: 1px solid var(--black);
-  border-bottom: 1px solid var(--black);
+  border: 1px solid var(--black); 
   text-decoration: none;
 }
 

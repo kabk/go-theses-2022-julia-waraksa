@@ -68,27 +68,32 @@ export const Images = reactive({
     {
       name: "A Place for Reflection",
       file: '04-a-place-for-reflection.jpg',
-      text: ['(From the caption at the site) A Place for Reflection is a symbolic synagogue designed in the shape of a book that opens and closes with the help of special machinery. The structure stands 11 meters tall and is made of century-old oak wood harvested from old derelict buildings all accross Ukraine. The ceiling inside the synagogue is a map of the Northern Sky and reproduces the position of the stars on 29 September, 1941, the day the mass shootings began at Babyn Yar.', '2019'],
+      text: ['(From the caption at the site) A Place for Reflection is a symbolic synagogue designed in the shape of a book that opens and closes with the help of special machinery. The structure stands 11 meters tall and is made of century-old oak wood harvested from old derelict buildings all accross Ukraine. The ceiling inside the synagogue is a map of the Northern Sky and reproduces the position of the stars on 29 September, 1941, the day the mass shootings began at Babyn Yar.', '2021'],
     },
     {
       name: "Mound of Memory or Museum of the History of the Tragedy",
       file: '04-mound-of-memory.jpg',
-      text: ['Render view by SUB Architects. The memorial is currently in progress of construction.', '2019'],
+      text: ['Render view by SUB Architects. The memorial is currently in progress of construction.', '2021'],
+    },
+    {
+      name: "The Mirror Field and the TV Tower",
+      file: '04-mirror-field-blending-tv-tower.jpg',
+      text: ['From a certain perspective, the Mirror Field blends with the TV tower in the back of the site. The TV tower was bombed on March 1, 2022 by the Russian Army.', '2022'],
     },
     {
       name: "The Mirror Field",
-      file: '04-the-mirror-field.jpg',
-      text: ['At the heart of the installation is the symbol of the tree of life, which is found in most religions and mythologies. The tree of life symbolizes the unity of the world: life and death, the earth and the sky, the past and the future. The tree of life is of particular importance to Judaism. The arrangement of the columns is borrowed from its graph image, in the form of the connected sephirot. The Babyn Yar tragedy shows how easily the tree can be destroyed; how easily its branches are broken. The columns are shot through with hundreds of thousands of bullets of the same caliber as those used to kill the victims of Babyn Yar. Here, one meets oneself and sees their reflection riddled with bullet holes.', '2019'],
+      file: '04-the-mirror-field-4.jpg',
+      text: ['The installation in September 2021. Image by the BHYMC.', '2021'],
     },
     {
       name: "The Mirror Field at Night",
       file: '04-the-mirror-field-2.jpg',
-      text: ['At night the light and sound of memory passes through the holes.', '2019'],
+      text: ['At night the light and sound of memory passes through the holes.', '2021'],
     },
     {
       name: "Bullet holes in the Mirror Field",
       file: '04-mirror-field-bullet-hole-2.jpg',
-      text: ['The bullet holes are made using the same caliber as those during the killings.', '2019'],
+      text: ['The bullet holes are made using the same caliber as those during the killings.', '2021'],
     },
     {
       name: "Babyn Yar Masterplan Open Ideas Competition",
@@ -96,9 +101,9 @@ export const Images = reactive({
       text: ['Due to the war, the competition has been (temporarily) cancelled.', '2022'],
     },
     {
-      name: "Abandoned soccer field in Babyn Yar",
+      name: "The abandoned soccer field at Babyn Yar",
       file: '04-abandoned-soccer-field.jpg',
-      text: ['Due to the war, the competition has been (temporarily) cancelled.', '2022'],
+      text: ['A rusty frame remains in the fenced field, since September 2021 the site for the Mirror Field installation.', '2021'],
     },
     {
       name: "3D Model of the Babyn Yar site",
