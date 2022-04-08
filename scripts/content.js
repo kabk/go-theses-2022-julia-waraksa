@@ -7,7 +7,7 @@ const { markdownit, markdownitFootnote } = window
 export const Content = reactive({
   // Content chapters
   chapters: [
-    { title: 'Topography of Violence', file: '00-title.md', text: '', chapterClass: 'full-height center text-center' },
+    { title: 'Topography of Violence', file: '00-title.md', text: '', chapterClass: 'full-height center text-center', showInMenu: false },
     { title: 'Abstract', file: '01-abstract.md', text: '', chapterClass: 'center' },
     { title: 'Introduction', file: '02-introduction.md', text: '', chapterClass: 'separator' },
     { title: 'Formation of Memory', file: '03-formation-of-memory.md', text: '', chapterClass: 'separator' },
@@ -16,6 +16,12 @@ export const Content = reactive({
     { title: 'Visual Essay', file: '06-visual-essay.md', text: '', chapterClass: 'separator' },
     { title: 'Bibliography', file: '07-bibliography.md', text: '', chapterClass: 'separator bibliography' },
   ],
+
+  // List of chapters which should be visible in the main menu.
+  // To hide a chapter, set its showInMenu flag to false
+  get menuChapters () {
+    return this.chapters.filter(chapter => chapter.showInMenu != false)
+  },
   
   // Chapter count
   get count () {

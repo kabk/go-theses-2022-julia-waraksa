@@ -6,64 +6,54 @@ const { reactive } = window.Vue
 export const Images = reactive({
   images: [
     {
-      name: 'Figure 1',
-      file: '00-image.jpg',
-      text: ['Caption', '2009'],
-    },
-    {
-      name: 'Figure 2',
-      file: '01-cat.jpg',
-      text: ['Caption', '2019'],
-    },
-    {
       name: 'Monument to the Kurenivka Mudslide',
       file: '04-kurenivka-mudslide-monument.jpg',
-      text: ['Caption', '2019'],
+      text: ['', '2019'],
     },
     {
       name: 'Aftermath of the Kurenivka mudslide',
       file: '04-kurenivka-mudslide-2.jpg',
-      text: ['Caption', '1961'],
+      text: ['', '1961'],
     },
     {
       name: 'The Road by Oskar Hansen',
       file: '02-oskar-hansen.jpg',
-      text: ['Caption', '2019'],
+      text: ['', '2019'],
     },
     {
       name: "Denazification bomb falls in vicinity of Holocaust memorial site",
-      file: '04-babyn-yar-missile-attack-2.jpg',
-      text: ['Caption', '2019'],
+      file: '04-babyn-yar-missile-attack-3.jpg',
+      text: ['', '2019'],
     },
     {
       name: "A stone inscription at the site of Babyn Yar",
       file: '04-babyn-yar-genesis-stone.jpg',
-      text: ['Caption', '2019'],
+      text: ['', '2019'],
     },
     {
       name: "Ravines of Babyn Yar",
       file: '04-ravines-of-babyn-yar.jpg',
-      text: ['Caption', '2019'],
+      text: ['', '2019'],
     },
     {
       name: "Monument to Soviet citizens and prisoners of war",
       file: '04-babyn-yar-soviet-memorial-2.jpg',
-      text: ['Caption', '2019'],
+      text: ['', '2019'],
     },
     {
       name: "The Soviet memorial at Babyn Yar in December",
       file: '04-babyn-yar-december.jpg',
-      text: ['Caption', '2019'],
+      text: ['', '2019'],
     },
     {
       name: "3D Model Babyn Yar Ravine",
       file: '04-babyn-yar-december.jpg',
-      text: ['Caption', '2019'],
+      text: ['', '2019'],
     },
     {
       name: "The Crystal Wall of Crying",
       file: '04-crystal-wall-of-crying.jpg',
-      text: ['Caption', '2019'],
+      text: ['', '2019'],
     },
     {
       name: "A Place for Reflection",
@@ -116,9 +106,9 @@ export const Images = reactive({
       text: ['Due to the war, the competition has been (temporarily) cancelled.', '2022'],
     },
     {
-      name: "Abandoned soccer field in Babyn Yar",
-      file: '04-abandoned-soccer-field.jpg',
-      text: ['Due to the war, the competition has been (temporarily) cancelled.', '2022'],
+      name: "Map of Babyn Yar Park",
+      file: '04-map-of-babyn-yar-park.jpg',
+      text: ['', '2022'],
     }
     
     
