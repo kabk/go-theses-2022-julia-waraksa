@@ -42,7 +42,7 @@ The nearest memorials on site, located at approximately 300 metres from the TV t
 ## A history of erasure
 Babyn Yar is the name ascribed to the site of the largest killing in Kyiv, Ukraine, that happened on September 29 and September 30 in 1941, eradicating the capital’s entire Jewish population over the span of two days.[^17] Often termed “Holocaust by Bullets”, Babyn Yar is symbolic to the “forgotten” victims of the Holocaust: 2.5 million individuals who were not systematically killed in concentration camps, but instead were hastily shot and buried in mass graves all around Eastern Europe. In the years following the massacre, other groups such as Jews, Roma, underground fighters, the mentally ill and Ukrainian nationalists were brought to this site to be shot and killed in the ravines. In total, an estimated 100.000 to 150.000 people lost their lives at Babyn Yar. Due to the lack of posthumous registry, exact figures are impossible to conclude and rely on estimations of local populace, historians and researchers of the site.
 <div class="img-container">
-<div id="gallery0" class="gallery">
+<div id="gallery-einsatzgruppen-1" class="gallery">
   <img src="content/images/04-babyn-yar-haehle-footage.jpg" label="">
   <img src="content/images/04-babyn-yar-haehle-footage-9.jpg" label="">
     
@@ -57,7 +57,7 @@ The original geography of the site resembled a large pit; [large, naturally form
 <br><br>
 
 <div class="img-container">
-<div id="gallery1" class="gallery">
+<div id="gallery-einsatzgruppen-2" class="gallery">
   <img src="content/images/04-babyn-yar-haehle-footage-5.jpg" label="">
   <img src="content/images/04-babyn-yar-haehle-footage-6.jpg" label="">
     <img src="content/images/04-babyn-yar-haehle-footage-8.jpg" label="">
@@ -100,7 +100,7 @@ The voice of thy brother's blood is crying to me from the ground. <br><br>
 </div>
 Invisible to the eye, the memory of the site had been formally neglected up until 1966 when a series of protests erupted in demand for a memorial. It took a decade until later the Soviets acquiesced and erected a national monument. But it was not to serve the minorities. The inscription on the monument reads: “For the commemoration of the ‘Kyiv residents and prisoners of war’ murdered by the ‘German fascists invaders’” – an umbrella term. Moreover, the monument stands not on the approximate site of the former ravine, but in a small park in a carved-out hill that is separated from the former ravines by a busy road. Observing the monument, people standing in front of the statue become mere miniatures. The statue itself impresses only by its sheer size, for it is a fact that the people who died here did not live to become part of the Soviet Union. Whose citizens then are we commemorating here? The oppression of the Soviet Union sought to rewrite the history, to reclaim the past, of both of the living and the deceased.
 
-<div id="gallery1" class="gallery" style="height: 65vh !important; margin-top: 45px;">
+<div id="gallery-soviet-memorial" class="gallery" style="height: 65vh !important; margin-top: 45px;">
   <img src="content/images/04-babyn-yar-soviet-memorial.jpg" label="">
   <img src="content/images/04-babyn-yar-soviet-memorial-2.jpg" label="">
 </div>

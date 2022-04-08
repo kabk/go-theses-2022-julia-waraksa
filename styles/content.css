@@ -123,11 +123,15 @@ background-position: bottom  , 4px 0;
   height: auto;
   flex: 1;
   align-self: center;
-  padding: 0 0 20px 0;
+  padding: 0;
 }
 
 .chapter .img-margin-top {
   margin-top: 30px;
+}
+
+.chapter .img-caption {
+  padding-top: 10px;
 }
 
 .chapter .img-caption-padding {

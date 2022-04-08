@@ -54,7 +54,6 @@ The [historicity](#tooltip "the quality of being part of history instead of bein
           </div>
 </div>
 
-
 Therefore, the challenging of our biases in public space is potentially synonymous to the erection of collective memorials not as places of worship or sympathy, but as places that allow for intense self-criticism and self-examination. The landscape of traditional monuments needs the critical countering of [anti-monuments](#figure "The Road by Oskar Hansen") – only in the contradiction of their opposing narratives can the struggle actively reside.[^13] Regardless of race, identity or nation, they are to be memorials that represent a place of mourning reach towards our shared conditions: mortality, often senseless mortality inflicted by violence. Reaching towards the [banality of evil](#tooltip "This spare phrase captures the idea that evil acts are not necessarily perpetrated by evil people. Instead, they can simply be the result of bureaucrats dutifully obeying orders."), a term coined by Hannah Arendt, for these monuments it is not a simple question of who terrorized who, but rather, what are the conditions that allowed for the violence to occur? And are we in our present day complicit to the formation of those very same conditions? As Walter Benjamin writes in <u>On the Concept of History</u>, “We are touched by the same air that was before.”[^14]
 
 

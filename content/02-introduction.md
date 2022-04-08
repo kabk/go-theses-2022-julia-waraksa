@@ -22,7 +22,6 @@ To rob a people of their past is an act of the highest violence imaginable. The 
 
 In this paper, I will investigate instances of forced migration and cultural genocide by drawing an analogy between memory and site. In order to put face to the discussion, I will investigate the geography and the memory of [Babyn Yar](#tooltip "grandmother's ravine (Ukrainian)"), the site of the massacre that took place in the year 1941 in Ukraine. For 80 years its memory had been suppressed, misrepresented and re-narrated in the ultimate aim for its crimes to be forgotten and its socio-political significance to be diminished. Attempts to retrieve its buried history have brought the topic of its commemoration to the disjointed, politically- and emotionally-laden discussion that still surrounds the site today. Through this site and through the discussion surrounding it, I will investigate how one may engage with the trauma of a collective past, and its effect on collective memory. Centrally I pose the question, how may a memorial site bring to terms the past that it represents?
 
-
 Note: Some of the theories that will be introduced in this thesis were developed together with [Füsun Türetken](https://www.fusunturetken.com). Thank you for your guidance and your many words of encouragement through these challenging times.
 
 
