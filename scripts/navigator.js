@@ -22,6 +22,12 @@ export const Navigator = reactive({
     return currentChapter ? currentChapter.title : ''
   },
 
+  // Returns true if title of the current chapter should be visible in top-left of the page
+  get isCurrentChapterTitleVisible() {
+    const { currentChapter } = this
+    return currentChapter ? currentChapter.showTitle != false : false
+  },
+
   // Scrolling observer
   observer: null,
   // Scroll position

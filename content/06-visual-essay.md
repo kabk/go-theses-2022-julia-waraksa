@@ -32,12 +32,7 @@
 
 <div class="img-container">
 <div class="img-caption">      
-<u>Figure 1</u> The Road by Oskar Hansen is a withdrawn proposal for the memorial site of Auschwitz. Hansen himself terms it an Anti-Monument. The design features a black-paved road that cuts diagonally through the entire site of the camp, fossilising everything in its path. Everything outside the road — the barracks, the fences, the chimneys — are left to decay over time. 
-<br><br>
-
-The Road <br>
-Oskar Hansen, 1958
-
+<u>Figure 1</u> A granite monument of Stalin, in front of a line of anonymous workers and “heroes of the proletariat”, rises tall upon the Letná park in Prague. The largest one ever built, it is designed by sculptor Otakar Svec who committed suicide before the unveiling of the monument in 1955, two years after the death of the dictator. Locals soon took to calling it fronta na maso, translated as the “meat queue”. Nobody needed the monument, but it stood in the park for seven years. It was destroyed in 1962 following the dismantling of the Stalin’s cult of personality. <br><br><u>Figure 1</u> In 2021, excavations at the Letná park in Prague revealed the foundations of forced labour camp housing for politically unreliable conscripts, who helped build the giant Stalin monument. The area revealed remnants of ceramics, tools and building materials submerged deep within the soil. With such facilities, if they were liquidated by the same regime that built them, the authorities generally took great care to erase all traces of the sites.
 </div>  
 </div>
 

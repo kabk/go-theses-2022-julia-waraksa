@@ -4,6 +4,7 @@ import { Footnotes } from './footnotes.js'
 import { Tooltips } from './tooltips.js'
 import { Images } from './images.js'
 import { Gallery } from './gallery.js'
+import { Links } from './links.js'
 import { delay } from "./utilities.js"
 
 export const Application = {
@@ -21,7 +22,8 @@ export const Application = {
       Footnotes,
       Tooltips,
       Images,
-      Gallery
+      Gallery,
+      Links
     }
   },
 
@@ -36,6 +38,7 @@ export const Application = {
       await this.Images.initialize(this.progress)
       await this.Gallery.initialize(this.progress)
       await this.Tooltips.initialize(this.progress)
+      await this.Links.initialize(this.progress)
 
       this.isLoading = false
     },

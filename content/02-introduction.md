@@ -26,8 +26,8 @@ Note: Some of the theories that will be introduced in this thesis were developed
 
 
 
-[^1]: Mulvey, Stephen. <u>The Long Echo of WW2 Trauma</u>. BBC News, BBC, 7 June 2019, [Web](bbc.com/news/stories-48528841)
-[^2]: Honderich, Holly. <u>Why Canada Is Mourning the Deaths of Hundreds of Children</u>. BBC News, 15 July 2021. [Web](bbc.com/news/world-us-canada-57325653).
+[^1]: Mulvey, Stephen. <u>The Long Echo of WW2 Trauma</u>. BBC News, BBC, 7 June 2019, [Web](https://bbc.com/news/stories-48528841)
+[^2]: Honderich, Holly. <u>Why Canada Is Mourning the Deaths of Hundreds of Children</u>. BBC News, 15 July 2021. [Web](https://bbc.com/news/world-us-canada-57325653)
 [^3]: A concept explored by Edward Said in <u>Orientalism</u>, 1985. Orientalism consists of the European representation that is far from accurate or objective of the Orient itself – the ‘rational’ West versus the ‘irrational’ East. But the study of Orientalism is not entirely exclusive to former colonies: the act of “Othering” is crucial to the self-establishment of the oppressor. It is the framework for colonial and military conquest, oppression and occupation of the inferior culture. It is a radical shift in representation conducted by the dominant culture, who speaks for and in place of the Other, replacing any values that may have been established with their own interpretations.
 [^4]: The term diaspora was earliest used in describing the expulsion of the Jews from Babylon. Historically it has been used to refer to people forced into exile such as Jews, Kurds, former Yugoslavians, Palestinians and so forth, but nowadays it is also popularly used to describe any community which identify strongly with a "homeland", while living outside of it.
 
