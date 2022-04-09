@@ -1,18 +1,21 @@
 /* Gallery container */
 .gallery {
-  height: 55vh;
+    height: 54vh;
   display: flex;
   flex-direction: column;
   visibility: hidden;
   cursor: pointer;
+  
 }
 
 .gallery-visual-essay {
   height: 60vh;
-  display: flex;
-  flex-direction: column;
-  visibility: hidden;
-  cursor: pointer;
+}
+
+
+.gallery-map {
+  height: 75vh;
+
 }
 
 
@@ -28,9 +31,8 @@
 }
 
 
-.gallery main:hover {
+.gallery:hover {
   cursor: pointer;
-  
   transition: .3s;
   animation: both;
 }
@@ -43,6 +45,26 @@
   cursor: pointer;
   position: relative;
 }
+
+/* .gallery .left {
+  background-color: transparent;
+}
+
+
+.gallery .left:hover {
+  background-color: white;
+  transition: .2s;
+  opacity: .2;
+}
+.gallery .right {
+  background-color: transparent;
+}
+
+.gallery .right:hover {
+  background-color: white;
+  transition: .2s;
+  opacity: .2;
+} */
 
 /* Image label on the bottom */
 .gallery footer {
@@ -59,22 +81,23 @@
 
 
 .gallery .reveal {
+
 }
 
 /* Transition of images shown/hidden */
 .gallery main.reveal {
   animation-name: 'image-reveal';
-  animation-duration: 0.1s;
+  animation-duration: 0.4s;
 }
 
 .gallery main.hide {
   animation-name: 'image-hide';
-  animation-duration: 0.1s;
+  animation-duration: 0.4s;
 }
 
 @keyframes image-reveal {
   0% {
-    opacity: 0.95;
+    opacity: 0.85;
   }
 
   100% {
@@ -88,6 +111,24 @@
   }
 
   100% {
-    opacity: 0.5;
+    opacity: 0.85;
+  }
+}
+
+
+
+/* Amended styling for mobile browsers */
+@media (max-width: 600px) {
+  .gallery {
+    height: 35vh;
+  }
+ 
+  
+  .gallery-visual-essay {
+    height: 30vh;
+    margin-top: 30px;
+  }
+  .gallery footer {
+    margin-top: -30px;
   }
 }

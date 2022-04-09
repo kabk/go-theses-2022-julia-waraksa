@@ -18,6 +18,18 @@
 
 A granite monument of Stalin, in front of a line of anonymous workers and “heroes of the proletariat”, rises tall upon the Letná park in Prague. The largest one ever built, it is designed by sculptor Otakar Svec who committed suicide before the unveiling of the monument in 1955, two years after the death of the dictator. Locals soon took to calling it fronta na maso, translated as the “meat queue”. Nobody needed the monument, but it stood in the park for seven years. It was destroyed in 1962 following the dismantling of the Stalin’s cult of personality. <br><br>In 2021, excavations at the Letná park in Prague revealed the foundations of forced labour camp housing for politically unreliable conscripts, who helped build the giant Stalin monument. The area revealed remnants of ceramics, tools and building materials submerged deep within the soil. With such facilities, if they were liquidated by the same regime that built them, the authorities generally took great care to erase all traces of the sites.
 
+<!-- Auschwitz Memorial -->
+
+<div class="img-container">
+<div id="gallery-alexander-brodsky" class="gallery gallery-visual-essay">
+  <img src="content/images/04-oskar-hansen.jpg" label="Figure 1 of 2">
+  <img src="content/images/04-oskar-hansen.jpg" label="Figure 1 of 2">
+</div>
+</div>
+
+The Russian Revolution of 1917–1923 forced some 2 million people into exile. Due to their political affiliation and the effects of war and famine, people chose, or were forced, to flee their homes. Amongst them were highly educated individuals and artists forced to be émigrés, as the Bolsheviks forced a ‘cultural purification’ that would provide a clean slate for the state to establish new values after the Revolution. Of those who stayed and continued their practice, if not corresponding to the revolutionary ideals, were at risk of detainment and deportation to labor camps. As some argue, constructivism was the only good thing to come out of the Revolution.<br><br> In 2017, in the Bloombsury Square in London, the Pushkin house opened a pavilion dedicated to Russian poetry in exile. On the plywood partitions, there are paper sheets with poetry by Mandelstam, Tsvetaeva, Khodasevich, Pasternak, and Joseph Brodsky. The sheets rustle in the wind that enters from below the structure. In the center, a video of railroad tracks is projected. According to the narrative, the pavilion is a metaphor of a train car that rides beyond the 101st kilometer, a concept well known in Russia, which refers to the distance that poets and other politically unreliable citizens were forced to maintain from major cities, often after returning from the labor camps.
+<br><br><br>
+
 <!-- Tiananmen Square Massacre -->
 
 

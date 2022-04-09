@@ -15,6 +15,7 @@ export const Content = reactive({
     { title: 'Conclusion', file: '05-conclusion.md', text: '', chapterClass: 'separator' },
     { title: 'Visual Essay', file: '06-visual-essay.md', text: '', chapterClass: 'separator' },
     { title: 'Bibliography', file: '07-bibliography.md', text: '', chapterClass: 'separator bibliography' },
+    { title: 'Credits', file: '08-credits.md', text: '', chapterClass: 'separator' },
   ],
 
   // Chapter count

@@ -7,6 +7,7 @@
 
 .footnote-ref {
   line-height: 0.5;
+  font-family: 'ITC Mendoza Roman';
 }
 
 /* Footnotes container under the chapter */
@@ -28,6 +29,12 @@
   margin-bottom: 8px;
   cursor: pointer;
 }
+
+.chapter-footnotes a {
+  font-family: 'ITC Mendoza Roman Italic';
+  border-bottom: 0.5px solid black;
+}
+
 
 
 

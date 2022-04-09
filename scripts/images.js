@@ -119,8 +119,38 @@ export const Images = reactive({
       name: "Kabbalah, Tree of Life",
       file: '04-kabbalah.jpg',
       text: ['', '13th Century'],
+    },
+    {
+      name: "National competition for the Memorial park of Babyn Yar",
+      file: '04-babyn-yar-memorial-competition-1965.jpg',
+      text: ['Participating figures were famous Soviet architects, sculptors and artists, mostly of Jewish origin. Archival footage courtesy of the Babyn Yar Holocaust Memorial Centre. ', '1965'],
+    },
+    {
+      name: "Plaster model of the ideologically approved monument",
+      file: '04-babyn-yar-plaster-model.jpg',
+      text: ['The model displays the typical Soviet propaganda figures of a soldier, worker, and sailor.', '1968'],
+    },
+    {
+      name: "Construction of the Park at Babyn Yar",
+      file: '04-park-of-babyn-yar-1980s.jpg',
+      text: ['In 1980s, pedestrian routes were laid through the entire park, paved with cement and rubble. Its original appearance was lost already before the construction.', '1980s'],
+    },
+    {
+      name: "Unsuggestive sculptures at Babyn Yar",
+      file: '04-sculpture-at-babyn-yar-park.jpg',
+      text: ['', '1980s'],
+    },
+    {
+      name: "Inscription below the Soviet memorial",
+      file: '04-babyn-yar-soviet-memorial-inscription.jpg',
+      text: ['The multilingual inscription reads dedicated to the Kyiv residents and prisoners of war murdered by the German fascist invaders.', '1980s'],
+    },
+    {
+      name: " The first Babyn Yar memorial stands far away from the massacres",
+      file: '04-babyn-yar-soviet-memorial-inscription.jpg',
+      text: ['The multilingual inscription reads dedicated to the Kyiv residents and prisoners of war murdered by the German fascist invaders.', '1980s'],
     }
-    
+   
     
     
     

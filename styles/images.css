@@ -2,18 +2,19 @@
 a[href="#figure"] {
   margin: 0;
   color: var(--black);
-  margin: 0 2px 0 2px;
-  padding: 0 4px 0 4px;
+  /* margin: 0 2px 0 2px;
+  padding: 0 4px 0 4px; */
   cursor: pointer;
-  border: 1px solid var(--black); 
-  text-decoration: none;
+  border-bottom: 1px solid var(--black);
+  /*text-decoration: none; */
 }
 
 a[href="#figure"]:hover {
   color: var(--interactive);
-  border-top: 1px solid var(--interactive);;
-  border-bottom: 1px solid var(--interactive);;
+  /* border-top: 1px solid var(--interactive);*/
+  border-bottom: 1px solid var(--interactive);
   text-decoration: none;
+  cursor: pointer;
 }
 
 /* Image overlay */
@@ -26,6 +27,7 @@ a[href="#figure"]:hover {
   bottom: 0;
   background-color: white;
   opacity: 1;
+  cursor: pointer;
 }
 
 /* Image popup */
@@ -41,6 +43,7 @@ a[href="#figure"]:hover {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
 }
 
 .image-popup img {

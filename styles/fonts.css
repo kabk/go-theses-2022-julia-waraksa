@@ -9,27 +9,9 @@
 }
 
 @font-face {
-  font-family: 'Suisse Neue';
-  src: url('../fonts/SuisseNeue-Regular.woff2') format('woff2'),
-      url('../fonts/SuisseNeue-Regular.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Suisse Works';
-  src: url('../fonts/SuisseWorks-Book.woff2') format('woff2'),
-      url('../fonts/SuisseWorks-Book.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Suisse Works Italic';
-  src: url('../fonts/SuisseWorks-BookItalic.woff2') format('woff2'),
-      url('../fonts/SuisseWorks-BookItalic.woff') format('woff');
+  font-family: 'ITC Mendoza Roman Italic';
+  src: url('../fonts/MendozaRoman-BookItalic.woff2') format('woff2'),
+      url('../fonts/MendozaRoman-BookItalic.woff') format('woff');
   font-weight: normal;
   font-style: italic;
   font-display: swap;
@@ -45,13 +27,51 @@
 }
 
 @font-face {
-  font-family: 'Serapion';
+  font-family: 'Serapion Italic';
   src: url('../fonts/Serapion-Italic.woff2') format('woff2'),
       url('../fonts/Serapion-Italic.woff') format('woff');
   font-weight: normal;
   font-style: italic;
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'JJannon';
+  src: url('JJannon-BoldItalic.woff2') format('woff2'),
+      url('JJannon-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'JJannon Book';
+  src: url('JJannon-BookItalic.woff2') format('woff2'),
+      url('JJannon-BookItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'JJannon Book';
+  src: url('JJannon-Book.woff2') format('woff2'),
+      url('JJannon-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'JJannon';
+  src: url('JJannon-Bold.woff2') format('woff2'),
+      url('JJannon-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+
 
 
 

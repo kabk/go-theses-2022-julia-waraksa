@@ -1,6 +1,4 @@
-.chapter .red {
-  background-color: red;
-}
+
 
 .chapter {
   display: flex;
@@ -142,6 +140,11 @@ background-position: bottom  , 4px 0;
 width: 60%;
 }
 
+.chapter .padding-top {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .chapter .img-container {
   flex: 0;
   display: flex;
@@ -177,11 +180,10 @@ width: 60%;
 }
 
 .chapter .img-container-full-width {
-  flex: 1;
+  flex: 0;
   display: flex;
   flex-direction: column;
   padding: 0;
-  object-fit: contain;
 }
 
 .chapter .img-caption {
@@ -195,13 +197,28 @@ width: 60%;
   margin-bottom: 20px;
 }
 
+.chapter i {
+  font-family: 'ITC Mendoza Roman Italic';
+}
+
+
+.chapter b {
+  font-family: 'ITC Mendoza Roman Italic';
+  font-weight: normal;
+  /* letter-spacing: 0.005em; */
+}
 
 .chapter .padding {
   padding: 5% 20% 5% 20%;
 }
 
 .bibliography {
-  padding: 0 25% 0 25%;
+  padding: 5% 25% 13% 25%;
+}
+
+.bibliography b {
+  font-family: 'ITC Mendoza Roman';
+  font-weight: normal;
 }
 
 .mobile-hidden {
@@ -211,6 +228,15 @@ width: 60%;
 
 /* Amended styling for mobile browsers */
 @media (max-width: 600px) {
+
+  .chapter .full-height {
+    max-height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: top;
+  }
+  
 
   .chapter .column {
     width: 100%;
@@ -238,12 +264,19 @@ width: 60%;
   }
   
   .chapter .img-container {
-    padding: 1% 2% 1% 2%;
+    padding: 5% 2% 5% 2%;
   }
+
+
+.chapter .img-caption {
+  padding-top: 10px;
+}
 
   .img-hidden {
    display: hidden;
   }
+
+  
   
 
     

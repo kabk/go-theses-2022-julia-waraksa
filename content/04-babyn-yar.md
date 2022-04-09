@@ -10,14 +10,11 @@
 <div class="full-height ">
 
 <div class="img-container-full-width">
-<img class="align-self" src="content/images/04-babyn-yar-aerial-footage-by-germans.jpg">
+<img class="align-self" src="content/images/04-babyn-yar-map.jpg">
 </div>
 <div class="img-caption text-center">
 
- An aerial photograph of the Babi Yar ravine taken by the German Einsatzgruppen.
-<br>Aerial photographs were common practice during WW2 to ensure the removal of war-crime evidence.
-<br>
- <br>September 26, 1943
+ View of the Babyn Yar ravine from Google Maps taken in March 2022, overlaid with a map drawn in 1932.
 
 </div>
 
@@ -27,7 +24,7 @@
 
 # MARCH 1, 2022
 
-The geographic site of Babyn Yar, after eighty years believed to finally have reached a fixed state, was once again disturbed when on this day [a missile launched by the Russian Army fell on the TV tower](#figure "Denazification bomb falls in vicinity of Holocaust memorial site")located at the site. The disturbance of this missile created a crater in the soil and dispersed a multitude of shards. Additionally, five people were killed within the vicinity of the impact. Ukrainian President Volodymyr Zelenskyy responded to the tragedy:
+The geographic site of Babyn Yar, after eighty years believed to finally have reached a fixed state, was once again disturbed when on this day [a missile](#figure "Denazification bomb falls in vicinity of Holocaust memorial site") launched by the Russian Army fell on the TV tower located at the site. The disturbance of this missile created a crater in the soil and dispersed a multitude of shards. Additionally, five people were killed within the vicinity of the impact. Ukrainian President Volodymyr Zelenskyy responded to the tragedy:
 <div class="quote quote-no-padding centered-text">
 
  To the world: what is the point of saying “never again” for 80 years, if the world stays silent when a bomb drops on the same site of Babyn Yar? At least five killed. History repeating…[^15]
@@ -36,45 +33,36 @@ The geographic site of Babyn Yar, after eighty years believed to finally have re
 
 The nearest memorials on site, located at approximately 300 metres from the TV tower, were later confirmed still to be intact.[^16] But the memory of Babyn Yar is not so much deposited in the memorials that stand above the ground. It is the ground itself, the elastic movement of the soil caused both by humans as well as the agency of the earth, that over the course of time reveal the multitude of horrific events that occurred on this site. With excavations and forensic reading impossible, the reading of the history of the site depends on cartography and cartographic reconstruction, photographic archives, witness testimonies or other [sonic imaging technologies](#tooltip "The localization of sound sources in three-dimensional space"). Maps drawn in different years have demonstrated the changing landscape, each movement following the massacre creating a disturbance to the victims who were killed there. The events currently unfolding in the vicinity of the park force yet another cartographic layer upon the site. Yet it is one that is, at this moment, still actively unfolding. Layer after layer creates a site most complex and intertwined, the current events multiplying the historical atrocities.
 
-
 </div>
 
 ## A history of erasure
 Babyn Yar is the name ascribed to the site of the largest killing in Kyiv, Ukraine, that happened on September 29 and September 30 in 1941, eradicating the capital’s entire Jewish population over the span of two days.[^17] Often termed “Holocaust by Bullets”, Babyn Yar is symbolic to the “forgotten” victims of the Holocaust: 2.5 million individuals who were not systematically killed in concentration camps, but instead were hastily shot and buried in mass graves all around Eastern Europe. In the years following the massacre, other groups such as Jews, Roma, underground fighters, the mentally ill and Ukrainian nationalists were brought to this site to be shot and killed in the ravines. In total, an estimated 100.000 to 150.000 people lost their lives at Babyn Yar. Due to the lack of posthumous registry, exact figures are impossible to conclude and rely on estimations of local populace, historians and researchers of the site.
 <div class="img-container">
-<div id="gallery-einsatzgruppen-1" class="gallery">
-  <img src="content/images/04-babyn-yar-haehle-footage.jpg" label="Figure 1 of 2">
-  <img src="content/images/04-babyn-yar-haehle-footage-9.jpg" label="Figure 2 of 2">
-
-</div>
+  <img src="content/images/04-babyn-yar-haehle-footage-9.jpg">
+<img src="content/images/04-babyn-yar-haehle-footage.jpg" class="padding-top">
   <div class="img-caption">
-October 29 and 30, 1941. Color slides of photographs taken by Johannes Hähle, Wehrmacht propaganda photographer. The photographs show the POWs levelling the ravine out to the surface after the mass killings at Babyn Yar.
+September 29 and 30, 1941. The photographs show the POWs levelling the ravine out to the surface after the mass killings at Babyn Yar. Color slides taken by Johannes Hähle, Wehrmacht propaganda photographer. 
 </div>
 </div>
 
-The original geography of the site resembled a large pit; [large, naturally formed ravines](#figure "Ravines of Babyn Yar") that had been on the outskirts of Kyiv. A landscape that lent itself to be utilized by the perpetrators. The violence initiated during the National Socialist (Nazi) occupation had opened up a pathway of permanent, unrecognizable alterations to the site. After the first Jewish killings by the Nazis, Russian Prisoners of War (POWs) were ordered to staple the bodies in the ravines and then to level the soil out to the surface. It was the first step of many to come, in attempt to erase Babyn Yar from the collective memory. When in 1943 the Soviet troops were nearing Kyiv, the Nazis made a hasty attempt to clear out the evidence they had buried in the ground. The POWs were ordered to unearth the remains in order to incinerate them. According to witness testimony, the fire burned for two days to reach the bottom of the grave.[^18] Rendered to ashes, most of the physical traces of the massacre were virtually obliterated. The memory now leaned only on the testimony of survivors, witnesses and records – all vulnerable to incompleteness (of memory), political manipulation or human error. The idea of large-scale excavations to retrieve material witnesses became practically absurd.[^19]
-
-<br><br>
+The original geography of the site resembled a large pit; large, naturally formed [ravines](#figure "Ravines of Babyn Yar") that had been on the outskirts of Kyiv. A landscape that lent itself to be utilized by the perpetrators. The violence initiated during the National Socialist (Nazi) occupation had opened up a pathway of permanent, unrecognizable alterations to the site. After the first Jewish killings by the Nazis, Russian Prisoners of War (POWs) were ordered to staple the bodies in the ravines and then to level the soil out to the surface. It was the first step of many to come, in attempt to erase Babyn Yar from the collective memory. When in 1943 the Soviet troops were nearing Kyiv, the Nazis made a hasty attempt to clear out the evidence they had buried in the ground. The POWs were ordered to unearth the remains in order to incinerate them. According to witness testimony, the fire burned for two days to reach the bottom of the grave.[^18] Rendered to ashes, most of the physical traces of the massacre were virtually obliterated. The memory now leaned only on the testimony of survivors, witnesses and records – all vulnerable to incompleteness (of memory), political manipulation or human error. The idea of large-scale excavations to retrieve material witnesses became practically absurd.[^19]
 
 <div class="img-container">
-<div id="gallery-einsatzgruppen-2" class="gallery">
-  <img src="content/images/04-babyn-yar-haehle-footage-5.jpg" label="Figure 1 of 3">
-  <img src="content/images/04-babyn-yar-haehle-footage-6.jpg" label="Figure 2 of 3">
-    <img src="content/images/04-babyn-yar-haehle-footage-8.jpg" label="Figure 3 of 3">
-</div>
+  <img src="content/images/04-babyn-yar-haehle-footage-6.jpg">
+    <img src="content/images/04-babyn-yar-haehle-footage-8.jpg" class="padding-top">
  <div class="img-caption">
-October 16, 1941. Following the 'success' of the Einsatzgruppen at Babyn Yar, a month later the Jewish civilians of Lubny (Central Ukraine) were called to gather together with all their belongings. They too, thought that they will be deported, but instead, were subjected to the same brute violence and erasure as happened at Babyn Yar. Photographs by Johannes Hähle, Wehrmacht propaganda photographer.
+October 16, 1941. Following the 'success' of the Einsatzgruppen at Babyn Yar, a month later the Jewish civilians of Lubny (Central Ukraine) were called to gather together with all their belongings. They too, thought that they will be deported, but instead, were subjected to the same brute violence and erasure as happened at Babyn Yar. The legacy of both operations continued throughout Eastern Europe, spurring hundreds to thousands of "Babyn Yars" in villages, forests and remote regions.
 </div>
 </div>
-<br><br>
+<br><br><br>
 
 ## Erasure as a Political Tool
 The Soviets, who had liberated Kyiv, by the ethos of their collective and homogenous idea of history did not formally recognize (ethnic) minorities and therefore had no interest to publicly acknowledge their losses at Babyn Yar.[^20] But the collective loss, raw in its grief, survived in the living memory of those after. Survivors, witnesses, relatives and sympathizers would gather around the site to mourn. The Soviets preferred to erase the site and made further attempts to bury it under a landfill. Later, the site was filled with liquid waste by the neighboring brick factories.
 
-The master plan was to drain the waste in order for the remaining mud and pulp to fill the ravine, and thus flatten it out evenly. The site literally was attempted to be physically erased by filling it, masking it, by altering the landscape and surface. But on March 12, 1961, due to heavy rain and pump failure, the dam at the station failed. The next morning, four million cubic meters of waste, mud and human remains that had been dumped into the site  broke through towards the neighboring Kurenivka district, [creating a tsunami](#figure "Aftermath of the Kurenivka mudslide")that would destroy everything in its path.[^21] The incident claimed the estimated lives of 145 victims, whose cause of death was suppressed by the authorities, forbidding any mention of the mudslide.[^22] Some people called the flood “the revenge of those shot” in Babyn Yar.[^23] [Monument to the victims of the 1961 Kurenivka mudslide](#figure "Monument to the Kurenivka Mudslide"). After the mudslide, the site was again levelled out. The once steep ravines became small hills, overgrown with trees, grass fields and shrubs.
+The master plan was to drain the waste in order for the remaining mud and pulp to fill the ravine, and thus flatten it out evenly. The site literally was attempted to be physically erased by filling it, masking it, by altering the landscape and surface. But on March 12, 1961, due to heavy rain and pump failure, the dam at the station failed. The next morning, four million cubic meters of waste, mud and human remains that had been dumped into the site  broke through towards the neighboring Kurenivka district, creating a [tsunami](#figure "Aftermath of the Kurenivka mudslide") that would destroy everything in its path.[^21] The incident claimed the estimated lives of 145 victims, whose cause of death was suppressed by the authorities, forbidding any mention of the mudslide.[^22] Some people called the flood “the revenge of those shot” in Babyn Yar.[^23] [Monument to the victims of the 1961 Kurenivka mudslide](#figure "Monument to the Kurenivka Mudslide"). After the mudslide, the site was again levelled out. The once steep ravines became small hills, overgrown with trees, grass fields and shrubs. 
 
 <div class="quote">
-“Science goes fast and straight in its path ; but collective representations do not follow, they are centuries back, kept stagnant in error by power, the mass press and the values of order.” <br>(Barthes et al. 60-63)
+“Science goes fast and straight in its path ; but collective representations do not follow, they are centuries back, kept stagnant in error by power, the mass press and the values of order.” (Barthes et al. 60-63)
 </div>
 
 <br><br><br>
@@ -98,17 +86,18 @@ The voice of thy brother's blood is crying to me from the ground. <br><br>
 [Genesis 4:10](#figure "A stone inscription at the site of Babyn Yar")
 
 </div>
-Invisible to the eye, the memory of the site had been formally neglected up until 1966 when a series of protests erupted in demand for a memorial. It took a decade until later the Soviets acquiesced and erected a national monument. But it was not to serve the minorities. The inscription on the monument reads: “For the commemoration of the ‘Kyiv residents and prisoners of war’ murdered by the ‘German fascists invaders’” – an umbrella term. Moreover, the monument stands not on the approximate site of the former ravine, but in a small park in a carved-out hill that is separated from the former ravines by a busy road. Observing the monument, people standing in front of the statue become mere miniatures. The statue itself impresses only by its sheer size, for it is a fact that the people who died here did not live to become part of the Soviet Union. Whose citizens then are we commemorating here? The oppression of the Soviet Union sought to rewrite the history, to reclaim the past, of both of the living and the deceased.
+
+Invisible to the eye, the memory of the site had been formally neglected up until 1965. A national competition was held by the state in 1965, but none of the [proposals](#figure 'National competition for the Memorial park of Babyn Yar') were chosen and the discussion was discontinued. But the people refused to be silenced. In 1966, a series of protests erupted in demand for a memorial. With each such consequent eruption being met with neutralization by the authorities, it took a decade until the Soviet state acquiesced to cease the debate and erected a national monument. But it was not to serve the minorities. The [inscription](#figure 'Inscription below the Soviet memorial') below the monument reads: “For the commemoration of the ‘Kyiv residents and prisoners of war’ murdered by the ‘German fascists invaders’” – an umbrella term. Moreover, the monument stands not on the approximate site of the former ravine, but in a small park in a carved-out hill that is [separated](#figure 'The first Babyn Yar memorial stands far away from the massacres') from the former ravines by a busy road. Observing the monument, people standing in front of the statue become mere miniatures. The statue itself impresses only by its sheer size, for it is a fact that the people who died here did not live to become part of the Soviet Union. Whose citizens then are we commemorating here? The oppression of the Soviet Union sought to rewrite the history, to reclaim the past, of both of the living and the deceased. The true site of the massacre was [masked under a peaceful park](#figure 'Construction of the Park at Babyn Yar'), paved with pedestrian routes and decorated by [unsuggestive sculptures](#figure 'Unsuggestive sculptures at Babyn Yar').
 
 
 <div class="img-container">
-<div id="gallery-soviet-memorial" class="gallery" style="height: 65vh !important; margin-top: 45px;">
+<div id="gallery-soviet-memorial" class="gallery" style="height: 72vh !important; margin-top: 45px;">
   <img src="content/images/04-babyn-yar-soviet-memorial.jpg" label="Figure 1 of 2">
   <img src="content/images/04-babyn-yar-soviet-memorial-2.jpg" label="Figure 2 of 2">
 </div>
 
  <div class="img-caption">
-Inauguration on July 2, 1976 of the monument to Soviet citizens and prisoners of war killed at Babyn Yar. The place where the enormous monument stands is not where the executions actually happened. Depicted in granite are figures falling off a cliff: a woman, a child, a soldier and a man amongst others. As was common to Soviet monuments, there figures are of a strong, heavy-boned build.
+Inauguration on July 2, 1976 of the monument to Soviet citizens and prisoners of war killed at Babyn Yar. The place where the enormous monument stands is not where the executions actually happened. Depicted in granite are figures falling off a cliff: a sailor, a woman, a baby, a soldier and a man amongst others. As was common to Soviet monuments, there figures are of a strong, heavy-boned build.
 </div>
 </div>
 
@@ -173,6 +162,7 @@ It is this crack, this open wound, this rupture that makes visible the entangled
 It is almost cynical that the rupture of the earth’s crust’s and the motion of a slide of mud would have been an accomplice in the erasure of the memory of the people who were killed at this specific site. As was the topographical formation of the landscape as mentioned earlier in chapter two. The tragic history of this site emphasizes the agency of the earth, which can be both accomplice and adversary to human intentions. In the case of Babyn Yar, with human intentions geared fully towards destruction, the disturbance to the soil became accomplice to suffering. A suffering that is of a deep, invisible wound – a hidden ravine symbolically. Equated with its own erasure, the suffering becomes a suffering that cannot be quelled. The erasure of the site by burning, burial and a mudslide disinhibits from any possibility of forensic reading.
 
 But can the human interference of geographic site be reverted from destruction and into creation? The earth itself as it moves, destroys in order to create. Forest fires remove low-growing thicket, clean the forest floors, open them up to sunlight and nourish the soil, allowing established trees to grow healthier. Even at Babyn Yar, the forests returned and the shrubs grew back stronger and healthier. But they had to be removed first. In this case, metallic memory, inserted into a geographic landscape, negates itself from the moment of its conception. It is built to withstand time: it resists the natural processes of destruction, and therefore, also those of creation. What if monuments could move together with the earth?
+
 
 <div class="img-container">
 <img class="align-self" src="content/images/04-victims-john-hejduk-1.jpg">

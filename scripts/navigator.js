@@ -52,7 +52,7 @@ export const Navigator = reactive({
     this.container = document.querySelector('main')
     let options = {
       root: this.container,
-      threshold: 0.1,
+      threshold: 0,
     }
 
     this.observer = new IntersectionObserver((entries) => this.onChapterShown(entries), options)
