@@ -35,6 +35,11 @@
   border-bottom: 0.5px solid black;
 }
 
+.chapter-footnotes b {
+  font-family: 'ITC Mendoza Roman Italic';
+  font-style: italic;
+}
+
 
 
 
@@ -45,12 +50,12 @@
   line-height: 16px;
   font-family: 'ITC Mendoza Roman', Times, serif;
   margin-right: 8px;
-  padding: 0 0px 0 0px;
+  padding: 0;
 }
 
 /* Footnote text */
 .chapter-footnotes p {
-  padding: 0 125px 0 90px;
+  padding: 0 0 0 90px;
   display: inline-block;
   font-size: 13.5px;
   line-height: 16px;

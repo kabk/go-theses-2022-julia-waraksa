@@ -7,7 +7,7 @@
 
 </div>
 
-<div class="full-height ">
+<div class="half-height padding-bottom">
 
 <div class="img-container-full-width">
 <img class="align-self" src="content/images/04-babyn-yar-map.jpg">
@@ -89,15 +89,15 @@ The voice of thy brother's blood is crying to me from the ground. <br><br>
 
 Invisible to the eye, the memory of the site had been formally neglected up until 1965. A national competition was held by the state in 1965, but none of the [proposals](#figure 'National competition for the Memorial park of Babyn Yar') were chosen and the discussion was discontinued. But the people refused to be silenced. In 1966, a series of protests erupted in demand for a memorial. With each such consequent eruption being met with neutralization by the authorities, it took a decade until the Soviet state acquiesced to cease the debate and erected a national monument. But it was not to serve the minorities. The [inscription](#figure 'Inscription below the Soviet memorial') below the monument reads: “For the commemoration of the ‘Kyiv residents and prisoners of war’ murdered by the ‘German fascists invaders’” – an umbrella term. Moreover, the monument stands not on the approximate site of the former ravine, but in a small park in a carved-out hill that is [separated](#figure 'The first Babyn Yar memorial stands far away from the massacres') from the former ravines by a busy road. Observing the monument, people standing in front of the statue become mere miniatures. The statue itself impresses only by its sheer size, for it is a fact that the people who died here did not live to become part of the Soviet Union. Whose citizens then are we commemorating here? The oppression of the Soviet Union sought to rewrite the history, to reclaim the past, of both of the living and the deceased. The true site of the massacre was [masked under a peaceful park](#figure 'Construction of the Park at Babyn Yar'), paved with pedestrian routes and decorated by [unsuggestive sculptures](#figure 'Unsuggestive sculptures at Babyn Yar').
 
-
-<div class="img-container">
-<div id="gallery-soviet-memorial" class="gallery" style="height: 72vh !important; margin-top: 45px;">
-  <img src="content/images/04-babyn-yar-soviet-memorial.jpg" label="Figure 1 of 2">
-  <img src="content/images/04-babyn-yar-soviet-memorial-2.jpg" label="Figure 2 of 2">
+<div class="img-container-two-images">
+  <img class="left-img" src="content/images/04-babyn-yar-soviet-memorial.jpg" label="Figure 1 of 2">
+  <img class="right-img" src="content/images/04-babyn-yar-soviet-memorial-2.jpg" label="Figure 2 of 2">
 </div>
 
+<div class="img-container">
+
  <div class="img-caption">
-Inauguration on July 2, 1976 of the monument to Soviet citizens and prisoners of war killed at Babyn Yar. The place where the enormous monument stands is not where the executions actually happened. Depicted in granite are figures falling off a cliff: a sailor, a woman, a baby, a soldier and a man amongst others. As was common to Soviet monuments, there figures are of a strong, heavy-boned build.
+Inauguration of the monument on July 2, 1976. Depicted in granite are unambigous figures falling off a cliff: a sailor, a woman, a baby, a soldier and a man. During the socialist realism movement, key to the artistic development of the USSR, monuments were used as material carriers of ideology, expressions of power as well as places of strengthening collective identity.
 </div>
 </div>
 
@@ -107,7 +107,7 @@ In this line, the function of the memorial becomes to fuse every fallen citizen 
 <br><br>
 
 ## Is forgiveness desirable?
-When the Soviet Union fell in 1991, the Jewish community grasped the new-found independence to step forward in demand for a Jewish memorial. Subsequently, a[menorah statue](#figure "Menorah Memorial to the Jewish Victims of Babyn Yar")was erected upon a small hill. By doing so, the Jewish community had essentially opened up a blueprint for the site; other minorities followed to finally lay their claim for a memorial. In 2012,[a monument](#figure "Vardo in Memory of Romani executed in Babyn Yar")to commemorate the Sinti and Roma killed during Babi Yar was brought from another location in the city into the park. With no one to formally oversee the site, many others would soon follow. Here and there, small memorials appeared in the park, though many of them were left unfinished due to lack of funding or dispute.
+When the Soviet Union fell in 1991, the Jewish community grasped the new-found independence to step forward in demand for a Jewish memorial. Subsequently, a menorah statue figure was erected upon a small hill. By doing so, the Jewish community had essentially opened up a blueprint for the site; other minorities followed to finally lay their claim for a memorial. In 2012, a monument to commemorate the [Sinti and Roma](#figure "Vardo in Memory of Romani executed in Babyn Yar") killed during Babi Yar was brought from another location in the city into the park. With no one to formally oversee the site, many others would soon follow. Here and there, small memorials appeared in the park, though many of them were left unfinished due to lack of funding or dispute.
 
 <div class="img-container">
 <img class="align-self" src="content/images/04-babyn-yar-menorah-monument-1991.jpg">
@@ -117,7 +117,7 @@ Opening Ceremony of the Menorah Monument, 1991
 </div>
 </div>
 
-Gradually, the memorial landscape of Babyn Yar became more and more disjointed. Rather than binding together as by common fate, the memorials served to establish their separate identities by fixating on their differences. Each monument, surrounded by shrubs and trees, stands in isolation. There is nothing to bind them but a blind path forward. With the memorials [scattered over the park](#figure 'Babyn Yar Memorials Map'), one quickly experiences the feeling of entering a maze. The navigation becomes overwhelming as the path at times becomes unclear; different timelines overlay. In the [December landscape](#figure 'The Soviet memorial at Babyn Yar in December'), mud and snow obliterates the footsteps of those who passed here before. A hill leads to another, which then leads to a closed fence – a dead end – up, backwards and repeat again.
+Gradually, the memorial landscape of Babyn Yar became more and more disjointed. Rather than binding together as by common fate, the memorials served to establish their separate identities by fixating on their differences. Each monument, surrounded by shrubs and trees, stands in isolation. There is nothing to bind them but a blind path forward. With the memorials scattered over the park, one quickly experiences the feeling of entering a maze. The navigation becomes overwhelming as the path at times becomes unclear; different timelines overlay. In the [December landscape](#figure 'The Soviet memorial at Babyn Yar in December'), mud and snow obliterates the footsteps of those who passed here before. A hill leads to another, which then leads to a closed fence – a dead end – up, backwards and repeat again.
 
 <br><br>
 
@@ -175,22 +175,22 @@ But can the human interference of geographic site be reverted from destruction a
 
 
 
-[^15]: Zelenskyy, Volodymyr. “To the World: What Is the Point of Saying ‘Never Again’ for 80 Years, If the World Stays Silent When a Bomb Drops on the Same Site of Babyn Yar? At Least 5 Killed. History Repeating...” Twitter, 1 Mar. 2022, [Web](https://twitter.com/ZelenskyyUa/status/1498697538085568514?s=20).
-[^16]: Yishai, Ron Ben. סיירתי באתר ההנצחה בבאבי יאר. שום דבר לא נפגע שם אתמול. <u>I toured the Babi Yar Memorial Site. Nothing was damaged there yesterday</u>, Ynet. 2n Mar. 2022, [Web](https://ynet.co.il/news/article/sky0frhg5).
+[^15]: <b>Zelenskyy, Volodymyr</b>. “To the World: What Is the Point of Saying ‘Never Again’ for 80 Years, If the World Stays Silent When a Bomb Drops on the Same Site of Babyn Yar? At Least 5 Killed. History Repeating...” Twitter, 1 Mar. 2022, [Web](https://twitter.com/ZelenskyyUa/status/1498697538085568514?s=20).
+[^16]: <b>Yishai, Ron Ben</b>. סיירתי באתר ההנצחה בבאבי יאר. שום דבר לא נפגע שם אתמול. I toured the Babi Yar Memorial Site. Nothing was damaged there yesterday, Ynet. 2n Mar. 2022, [Web](https://ynet.co.il/news/article/sky0frhg5).
 [^17]: Considering the history and nature of the place, I use the spelling originating from the Ukrainian, Бабин Яр translated as “Babyn Yar”. The spelling Бабий Яр translated as “Babi Yar”, which is more popularly used in foreign media and discussion, originates from the Russian.
-[^18]: From the sworn testament of Paul Blobel, a German SS Commander, on 18 June 1947. Erhard Roy Wein. <u>Jewish Fates in Kiev, 1941-1943</u>. [Web](https://www.ess.uwe.ac.uk/genocide/publ_intro.html).
-[^19]: A material witness is essentially the record of an event that is captured in human-made and natural material.  “Material witnesses enable us to perceive contested orders of knowledge and their corresponding truth claims.” Schuppli, Susan. <u>Material Witness: Media, Forensics, Evidence</U>. 2020. Print. p.40.
+[^18]: From the sworn testament of Paul Blobel, a German SS Commander, on 18 June 1947. <b>Erhard Roy Wein</b>. Jewish Fates in Kiev, 1941-1943. [Web](https://www.ess.uwe.ac.uk/genocide/publ_intro.html).
+[^19]: A material witness is essentially the record of an event that is captured in human-made and natural material.  “Material witnesses enable us to perceive contested orders of knowledge and their corresponding truth claims.” <b>Schuppli, Susan</b>. Material Witness: Media, Forensics, Evidence. 2020. Print. p.40.
 [^20]: The true reason, however, is of state-sponsored antisemitism.
 [^21]: Speculation arose whether the site was still used as a mass-burial – not by the Fascist oppressors, but by the later Soviet oppressors. Captured Nazi officers and soldiers who were present at the massacre provided sworn testaments that they had made sure the fire, which did not stop for a full two days, burnt down to the bottom of the pit. How could there be any human remains left on the site?
 [^22]: "The true death toll was concealed by the authorities. A later study in 2012 estimates a more accurate count, which is based on the amount of houses destroyed and persons reported missing, to approximately 1,500 victims." Harran, Marilyn. "Epilogue: The Aftermath". <U>The Holocaust Chronicle (1st ed.)</u>. Publications International, 2000. pp. 655–698.
-[^23]: Dzhulay, Dmytro. <u>Babyn Yar's 'Revenge'? the Deadly Mudslide the KGB Tried to Cover Up</u>. Radio Free Europe, 16 Mar. 2021, [Web](https://rferl.org/a/ukraine-kurenivka-1961-babyn-yar-mudslide-deaths/31151981.html)
+[^23]: <b>Dzhulay, Dmytro</b>. Babyn Yar's 'Revenge'? the Deadly Mudslide the KGB Tried to Cover Up. Radio Free Europe, 16 Mar. 2021, [Web](https://rferl.org/a/ukraine-kurenivka-1961-babyn-yar-mudslide-deaths/31151981.html)
 [^24]: Koselleck, Reinhart, Sean Franzel, and Stefan-Ludwig Hoffmann. <u>Sediments of Time: On Possible Histories</u>. Stanford University Press, 2020. Print. 218.
-[^25]: Dean, Martin. <u>Explaining the Location of the Mass Shootings at Babyn Yar on September 29-30, 1941</u>. 28 September, 2020. Babyn Yar Holocaust Memorial Centre (BHYMC). [Web](https://babynyar.org/storage/main/c8/ca/c8caa28de0c4d05ae26829b2e0d85150a772b7465d3fd5d6df08083108f0db97.pdf).
-[^26]: “The construction of the synagogue was approved to take place on the land of the Kirillov Orthodox cemetery. Bones were found during the excavations. Later they said that they were “moved to the garbage, in order to make way for the construction of the synagogue.” Suprun, Maria. <u>“Crystal Wailing Wall” and "Mound of Memory" will be opened in Babyn Yar</u>. Big Kyiv, 16 June, 2021. [Web](https://bigkyiv.com.ua/u-babynomu-yaru-kryshtalevu-stina-plachu-ta-kurgan-pamyati-foto).
+[^25]: <b>Dean, Martin</b>. Explaining the Location of the Mass Shootings at Babyn Yar on September 29-30, 1941. 28 September, 2020. Babyn Yar Holocaust Memorial Centre (BHYMC). [Web](https://babynyar.org/storage/main/c8/ca/c8caa28de0c4d05ae26829b2e0d85150a772b7465d3fd5d6df08083108f0db97.pdf).
+[^26]: “The construction of the synagogue was approved to take place on the land of the Kirillov Orthodox cemetery. Bones were found during the excavations. Later they said that they were “moved to the garbage, in order to make way for the construction of the synagogue.” <b>Suprun, Maria</b>. “Crystal Wailing Wall” and "Mound of Memory" will be opened in Babyn Yar. Big Kyiv, 16 June, 2021. [Web](https://bigkyiv.com.ua/u-babynomu-yaru-kryshtalevu-stina-plachu-ta-kurgan-pamyati-foto).
 [^27]: Babyn Yar Masterplan Open Ideas Competition. [Web](https://babynyarmasterplan.com).
-[^28]: Petrovsky-Shtern, Johanan. <u>The new Babyn Yar Holocaust Memorial Centre is a Trojan horse for Putin’s hybrid war: an interview by Aleksander Palikot and Jerzy Sobotta</u>. The Road to PAX Caucasia, New Eastern Europe Magazine No.6 (XLIX) November–December, 2021. The Jan Nowak-Jeziorański College of Eastern Europe in Wrocław, 2021. Print.
+[^28]: <b>Petrovsky-Shtern, Johanan</b>. The new Babyn Yar Holocaust Memorial Centre is a Trojan horse for Putin’s hybrid war: an interview by Aleksander Palikot and Jerzy Sobotta. The Road to PAX Caucasia, New Eastern Europe Magazine No.6 (XLIX) November–December, 2021. The Jan Nowak-Jeziorański College of Eastern Europe in Wrocław, 2021. Print.
 [^29]: The agreement of dividing the territories of Eastern-Europe between two oppressors (Nazi Germany and the Soviet Union) essentially established a double occupation, which allowed for a double destruction. This destruction rendered the territories in-between a “void” – a “black hole” in which was permitted the use of extreme violence and where mass murder, under the harrowing conditions of the occupations, became feasible.
 [^30]: It is interesting that for the city of Kyiv, the TV tower is located on the site of the massacre. Was the tower built there precisely to divert away from the memory of the tragedy, and instead allocate the site to industrial purposes?
 [^31]: The plaque specifies that the bullets used to make the “gun wounds” are of the same caliber used by the Nazis during the executions.
-[^32]: Stojanovic, Branimir. “Sacrificing the Victim,” <u>The Case of the Belgrade Monument</u>. 2002.
+[^32]: <b>Stojanovic, Branimir</b>. Sacrificing the Victim, The Case of the Belgrade Monument. 2002.
 [^33]: “Normally, the earth over a Jew’s grave should not be disturbed, and disinterment is forbidden; where a grave is opened or disturbed by the elements, desecration, or other causes, customs impose the immediate re-burial of the remains.” From Jewish Traditions for Death, Burial, and Mourning. [Rohatyn Jewish Heritage](https://rohatynjewishheritage.org/en/culture/death-burial-mourning).

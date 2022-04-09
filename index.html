@@ -36,6 +36,7 @@
 
       <!-- content pages -->
       <main>
+  
         <article v-for="(chapter, index) in Content.chapters" class="chapter" :class="Content.getCustomClass(index)" :index="index">
           <div class="chapter-text" v-html="chapter.text"> </div>
           <div class="chapter-footnotes" :id="`chapter-${index}-footnotes`" v-if="Footnotes.chapterHasFootnotes(index)">

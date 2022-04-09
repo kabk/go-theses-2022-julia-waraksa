@@ -42,18 +42,18 @@ The Wretched of the Earth. Translation by Richard Philcrox. 60th Anniversary Edi
 ## Essays/Articles
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Babyn Yar Holocaust Memorial Center</b> • Spatializing History. A spatial research of Babyn Yar with a description of influential events in its history and a glimpse at its current state. <researchen.babynyar.org> [Accessed December 18, 2021]
+<b>Babyn Yar Holocaust Memorial Center</b> • Spatializing History. A spatial research of Babyn Yar with a description of influential events in its history and a glimpse at its current state. [Web](https://www.researchen.babynyar.org) [Accessed December 18, 2021]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Benjamin, Walter</b> • On the Concept of History. Frankfurt School: On the Concept of History by Walter Benjamin</b>. <tinyurl.com/23nauh29> [Accessed January 12, 2022]
+<b>Benjamin, Walter</b> • On the Concept of History. Frankfurt School: On the Concept of History by Walter Benjamin</b>. [Web](https://www.tinyurl.com/23nauh29) [Accessed January 12, 2022]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Mulvey, Stephen</b> • The Long Echo of WW2 Trauma. BBC News, BBC, 7 June 2019, <tinyurl.com/yucrkrwk> [Accessed March 28, 2022]
+<b>Mulvey, Stephen</b> • The Long Echo of WW2 Trauma. BBC News, BBC, 7 June 2019, [Web](https://www.tinyurl.com/yucrkrwk) [Accessed March 28, 2022]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Honderich, Holly</b> • Why Canada Is Mourning the Deaths of Hundreds of Children. BBC News, 15 July 2021. <tinyurl.com/77ebbha5> [Accessed January 12th, 2022]
+<b>Honderich, Holly</b> • Why Canada Is Mourning the Deaths of Hundreds of Children. BBC News, 15 July 2021. [Web](https://www.tinyurl.com/77ebbha5) [Accessed January 12th, 2022]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Dzhulay, Dmytro</b> • Babyn Yar's 'Revenge'? the Deadly Mudslide the KGB Tried to Cover Up. Radio Free Europe, 16 Mar. 2021, <https://tinyurl.com/2svdbtd7>  [Accessed January 17, 2022]
+<b>Dzhulay, Dmytro</b> • Babyn Yar's 'Revenge'? the Deadly Mudslide the KGB Tried to Cover Up. Radio Free Europe, 16 Mar. 2021, [Web](https://www.tinyurl.com/2svdbtd7)  [Accessed January 17, 2022]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Petrovsky-Shtern, Johanan</b> • The new Babyn Yar Holocaust Memorial Centre is a Trojan horse for Putin’s hybrid war: an interview by Aleksander Palikot and Jerzy Sobotta. The Road to PAX Caucasia, New Eastern Europe Magazine No.6 (XLIX) November–December, 2021. The Jan Nowak-Jeziorański College of Eastern Europe in Wrocław, 2021. <tinyurl.com/4kmz6mns>  [Accessed January 17, 2022]
+<b>Petrovsky-Shtern, Johanan</b> • The new Babyn Yar Holocaust Memorial Centre is a Trojan horse for Putin’s hybrid war: an interview by Aleksander Palikot and Jerzy Sobotta. The Road to PAX Caucasia, New Eastern Europe Magazine No.6 (XLIX) November–December, 2021. The Jan Nowak-Jeziorański College of Eastern Europe in Wrocław, 2021. [Web](https://www.tinyurl.com/4kmz6mns) [Accessed January 17, 2022]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Evans, Gareth</b>. Lessons from the Cambodia Genocide. Global Centre for the Responsibility to Protect, 28 July 2020. <tinyurl.com/3j8474ua> [Accessed January 25th, 2022.]
+<b>Evans, Gareth</b>. Lessons from the Cambodia Genocide. Global Centre for the Responsibility to Protect, 28 July 2020. [Web](https://www.tinyurl.com/3j8474ua) [Accessed January 25th, 2022.]
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<b>Stojanovic, Branimir</b>. Sacrificing the Victim – The Case of the Belgrade Monument. 2002. <tinyurl.com/5h82e3xy> [Accessed January 25th, 2022.]
+<b>Stojanovic, Branimir</b>. Sacrificing the Victim – The Case of the Belgrade Monument. 2002. [Web](https://www.tinyurl.com/5h82e3xy) [Accessed January 25th, 2022.]

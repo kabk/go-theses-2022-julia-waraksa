@@ -149,10 +149,13 @@ export const Images = reactive({
       name: " The first Babyn Yar memorial stands far away from the massacres",
       file: '04-babyn-yar-soviet-memorial-inscription.jpg',
       text: ['The multilingual inscription reads dedicated to the Kyiv residents and prisoners of war murdered by the German fascist invaders.', '1980s'],
+    },
+    {
+      name: "Vardo in Memory of Romani executed in Babyn Yar",
+      file: '04-babyn-yar-vardo-memorial.jpg',
+      text: ['The memorial commemorates the Sinti and Roma who were killed at Babyn Yar. The monument was moved from another location in the city into the park.', '2016'],
     }
-   
-    
-    
+
     
   ],
 

@@ -79,3 +79,53 @@ body a:hover {
   justify-content: center;
 }
 
+
+
+@media screen and (max-width: 600px) {
+  .mobile-hidden {
+    display: none;
+  }
+
+
+  #app > main {
+  padding: 0;
+  }
+
+  .full-height {
+    padding: 2%;
+  }
+
+  #app > header {
+    margin-bottom: 20px;
+    text-align: center;
+    justify-content: center;
+  }
+
+
+#app > header {
+  flex: 0;
+  display: flex;
+  font-family: 'ITC Mendoza Roman', Times, serif;
+  padding: 10px;
+  padding-top: 18px;
+  padding-bottom: 10px;
+}
+
+
+#app > nav {
+  flex: 0;
+  background-color: #ffffff;
+  width: 97.25%;
+  align-self: center;
+}
+
+#app > nav > .progress {
+  height: 1px;
+  background-color: var(--black);
+  margin-top: 34px;
+  transition: all ease-in-out 0.2s;
+}
+
+
+
+}

@@ -7,7 +7,7 @@
 
 
 ## Individual Memory
-Memory, on the individual level, is the processing of physical sensations into cognition. From the point of departure of our body, memory sets us against who we were in the past and defines us into who we are in the present.[^5] But memory formation also alters us on a physical level. The study of engrams reveals memories not only as something ephemeral, but rather as something physical that is stored in the brain or in the body.[^6] Metaphorically speaking memories are inscribed into the material tissue of our brain structures, its cells and its cognitive system. But beyond that memories are inscribed into a body memory, on a synaptic level.[^7] Controversial animal trials have shown that even in instances where the brain was unrecognizably altered, meaning that the synapses in the brain were erased completely, the body still held on to associations of previously encountered danger. Fight or flight responses were literally encoded in their body. Similarly, systematically oppressed people show signs of intergenerational trauma through symptoms of heightened alert systems, increased anxiety, hypervigilance and psychiatric disorders.[^8] Consequently, these biological symptoms translate themselves into learnt and ingrained behaviors, beliefs and patterns, allowing the trauma to continue as it takes on a subconscious position in the brain.
+Memory, on the individual level, is the processing of physical sensations into cognition. From the point of departure of our body, memory sets us against who we were in the past and defines us into who we are in the present.[^5] But memory formation also alters us on a physical level. The study of engrams reveals memories not only as something ephemeral, but rather as something physical that is stored in the brain or in the body.[^6] Metaphorically speaking memories are inscribed into the material tissue of our brain structures, its cells and its cognitive system. But beyond that memories are inscribed into a body memory, on a [synaptic](#tooltip "relating to the point at which electrical signals move from one nerve cell to another") level.[^7] Controversial animal trials have shown that even in instances where the brain was unrecognizably altered, meaning that the synapses in the brain were erased completely, the body still held on to associations of previously encountered danger. Fight or flight responses were literally encoded in their body. Similarly, systematically oppressed people show signs of intergenerational trauma through symptoms of heightened alert systems, increased anxiety, hypervigilance and psychiatric disorders.[^8] Consequently, these biological symptoms translate themselves into learnt and ingrained behaviors, beliefs and patterns, allowing the trauma to continue as it takes on a subconscious position in the brain.
 <br><br><br>
 
 ## To Alter a Memory
@@ -68,15 +68,15 @@ Therefore, the challenging of our biases in public space is potentially synonymo
 
 
 
-[^5]: <b>Zlotnik, Gregorio, and Aaron Vansintjan</b>. Memory: An Extended Definition. Frontiers, 1 Jan. 1AD, [Web](https://frontiersin.org/articles/10.3389/fpsyg.2019.02523/full#B29).
+[^5]: &nbsp;&nbsp;<b>Zlotnik, Gregorio, and Aaron Vansintjan</b>. Memory: An Extended Definition. Frontiers, 1 Jan. 1AD, [Web](https://frontiersin.org/articles/10.3389/fpsyg.2019.02523/full#B29).
 
-[^6]: First termed by Richard Sermon in 1904, an engram is a hypothetical change in the brain that accounts for the existence of memory. Engrams can be silent or dormant – when reactivated, they may induce memory retrieval.
+[^6]: &nbsp;&nbsp;First termed by Richard Sermon in 1904, an engram is a hypothetical change in the brain that accounts for the existence of memory. Engrams can be silent or dormant – when reactivated, they may induce memory retrieval.
 
-[^7]: The study of engrams is still an unexplored field in medical sciences.
+[^7]: &nbsp;&nbsp;The study of engrams is still an unexplored field in medical sciences.
 
-[^8]: The theory that trauma may permanently alter how a gene functions. Originating from the field of epigenetics, which is the study of how environment or behavior alters the genes.
+[^8]: &nbsp;&nbsp;The theory that trauma may permanently alter how a gene functions. Originating from the field of epigenetics, which is the study of how environment or behavior alters the genes.
 
-[^9]: Eye Movement Desensitization and Reprocessing (EMDR) Therapy. American Psychological Association, American Psychological Association. [Web](https://apa.org/ptsd-guideline/treatments/eye-movement-reprocessing).
+[^9]: &nbsp;&nbsp;Eye Movement Desensitization and Reprocessing (EMDR) Therapy. American Psychological Association, American Psychological Association. [Web](https://apa.org/ptsd-guideline/treatments/eye-movement-reprocessing).
 
 [^10]: <b>Fanon, Frantz</b>. Black Skin, White Masks. Translation by Richard Philcrox. New York: Grove Press, 2008. Print. 204.
 

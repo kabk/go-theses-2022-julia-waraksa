@@ -10,7 +10,7 @@
 
 
 <div class="img-container">
-<div id="gallery-stalin-monument" class="gallery">
+<div id="gallery-stalin-monument" class="gallery gallery-visual-essay">
   <img src="content/images/06-stalin-monument-in-prague.jpg" label="Figure 1 of 2">
   <img src="content/images/06-stalin-monument-in-prague-2.jpg" label="Figure 2 of 2">
 </div>
@@ -18,17 +18,6 @@
 
 A granite monument of Stalin, in front of a line of anonymous workers and “heroes of the proletariat”, rises tall upon the Letná park in Prague. The largest one ever built, it is designed by sculptor Otakar Svec who committed suicide before the unveiling of the monument in 1955, two years after the death of the dictator. Locals soon took to calling it fronta na maso, translated as the “meat queue”. Nobody needed the monument, but it stood in the park for seven years. It was destroyed in 1962 following the dismantling of the Stalin’s cult of personality. <br><br>In 2021, excavations at the Letná park in Prague revealed the foundations of forced labour camp housing for politically unreliable conscripts, who helped build the giant Stalin monument. The area revealed remnants of ceramics, tools and building materials submerged deep within the soil. With such facilities, if they were liquidated by the same regime that built them, the authorities generally took great care to erase all traces of the sites.
 
-<!-- Auschwitz Memorial -->
-
-<div class="img-container">
-<div id="gallery-alexander-brodsky" class="gallery gallery-visual-essay">
-  <img src="content/images/04-oskar-hansen.jpg" label="Figure 1 of 2">
-  <img src="content/images/04-oskar-hansen.jpg" label="Figure 1 of 2">
-</div>
-</div>
-
-The Russian Revolution of 1917–1923 forced some 2 million people into exile. Due to their political affiliation and the effects of war and famine, people chose, or were forced, to flee their homes. Amongst them were highly educated individuals and artists forced to be émigrés, as the Bolsheviks forced a ‘cultural purification’ that would provide a clean slate for the state to establish new values after the Revolution. Of those who stayed and continued their practice, if not corresponding to the revolutionary ideals, were at risk of detainment and deportation to labor camps. As some argue, constructivism was the only good thing to come out of the Revolution.<br><br> In 2017, in the Bloombsury Square in London, the Pushkin house opened a pavilion dedicated to Russian poetry in exile. On the plywood partitions, there are paper sheets with poetry by Mandelstam, Tsvetaeva, Khodasevich, Pasternak, and Joseph Brodsky. The sheets rustle in the wind that enters from below the structure. In the center, a video of railroad tracks is projected. According to the narrative, the pavilion is a metaphor of a train car that rides beyond the 101st kilometer, a concept well known in Russia, which refers to the distance that poets and other politically unreliable citizens were forced to maintain from major cities, often after returning from the labor camps.
-<br><br><br>
 
 <!-- Tiananmen Square Massacre -->
 
@@ -47,7 +36,7 @@ Pro-democracy protest at the Tiananmen square in 1989. At the height of the prot
 <div class="img-container">
 <img class="align-self" src="content/images/06-tiananmen-massacre-pillar-of-shame.jpg">
           <div class="img-caption">
-          <u>December 2021</u> The nearest monument for Tiananmen was the Pillar of Shame gifted by Danish artist Jens Galschiøt. Between 1997 to 2021 it stood on permanent loan at the campus and provided an important site for public gathering for the 4th of June commemoration of Tiananmen. The inscription on the pillar read “The Old Cannot Kill The Young Forever.” The statue was removed in 2021 upon the grounds of a legal battle, causing significant uproar, criticism and shock by both the student and international communities. The removal of the statue signifies yet another defeat in the pro-democracy movements that have taken place in the city since 2014.
+          <b>December 2021</b> The nearest monument for Tiananmen was the Pillar of Shame gifted by Danish artist Jens Galschiøt. Between 1997 to 2021 it stood on permanent loan at the campus and provided an important site for public gathering for the 4th of June commemoration of Tiananmen. The inscription on the pillar read “The Old Cannot Kill The Young Forever.” The statue was removed in 2021 upon the grounds of a legal battle, causing significant uproar, criticism and shock by both the student and international communities. The removal of the statue signifies yet another defeat in the pro-democracy movements that have taken place in the city since 2014.
 
           
 </div>
@@ -82,7 +71,7 @@ Forced labour camps, called gulags, were set up under Lenin’s rule and were co
 <div class="img-container">
 <img class="align-self" src="content/images/06-memorial-organisation-liquidation.jpg">
           <div class="img-caption">
-          <u>November 2021</u> A protester’s plaque reads “Hands off from the Memorial – Freedom to Political Prisoners.” Memorial is a human rights organization which was founded in 1987 by political dissidents and activists, amongst which Nobel Peace Prize winner Andrei Sakharov. It has been researching the history of political repression in the Soviet regime, providing assistance to victims of this repression and other countries in the region, as well as defending human rights. During its 30 years of operation, it has published hundreds of brilliant publications and archives and has organized eye-opening exhibitions, memorials and monuments amongst which the Last Address project. In December 2021, the Russian court, under Putin’s rule, filed a lawsuit to liquidate the Memorial organization and render its activities illegal under the guise of an attempt “to eliminate the influence of so-called foreign agents.” (Memorial is an internationally funded NGO) By doing so, the current leadership of Russia seeks to minimize the crimes of the Soviet Union. Silencing the Memorial organization is a first step in falsifying the past and may prove fatal to the freedom of speech in an increasingly repressive political atmosphere.
+          <b>November 2021</b> A protester’s plaque reads “Hands off from the Memorial – Freedom to Political Prisoners.” Memorial is a human rights organization which was founded in 1987 by political dissidents and activists, amongst which Nobel Peace Prize winner Andrei Sakharov. It has been researching the history of political repression in the Soviet regime, providing assistance to victims of this repression and other countries in the region, as well as defending human rights. During its 30 years of operation, it has published hundreds of brilliant publications and archives and has organized eye-opening exhibitions, memorials and monuments amongst which the Last Address project. In December 2021, the Russian court, under Putin’s rule, filed a lawsuit to liquidate the Memorial organization and render its activities illegal under the guise of an attempt “to eliminate the influence of so-called foreign agents.” (Memorial is an internationally funded NGO) By doing so, the current leadership of Russia seeks to minimize the crimes of the Soviet Union. Silencing the Memorial organization is a first step in falsifying the past and may prove fatal to the freedom of speech in an increasingly repressive political atmosphere.
           </div>
 </div>
 </div>

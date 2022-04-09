@@ -36,40 +36,14 @@
 }
 
 @font-face {
-  font-family: 'JJannon';
-  src: url('JJannon-BoldItalic.woff2') format('woff2'),
-      url('JJannon-BoldItalic.woff') format('woff');
-  font-weight: bold;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'JJannon Book';
-  src: url('JJannon-BookItalic.woff2') format('woff2'),
-      url('JJannon-BookItalic.woff') format('woff');
-  font-weight: normal;
-  font-style: italic;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'JJannon Book';
-  src: url('JJannon-Book.woff2') format('woff2'),
-      url('JJannon-Book.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'JJannon';
-  src: url('JJannon-Bold.woff2') format('woff2'),
-      url('JJannon-Bold.woff') format('woff');
+  font-family: 'ITC Mendoza Bold';
+  src: url('MendozaRoman-Bold.woff2') format('woff2'),
+      url('MendozaRoman-Bold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
+
 
 
 
@@ -86,6 +60,10 @@ html, body {
   font-weight: normal;
   letter-spacing: -0.005em;
   color:var(--black);
+}
+
+html, body b {
+  font-family: 'ITC Mendoza Bold';
 }
 
 html, body a {
@@ -117,6 +95,7 @@ h5 {
   font-weight: normal;
   margin: 0;
   line-height: 28px;
+  letter-spacing: 0.25em;
 }
 
 .text-left {
