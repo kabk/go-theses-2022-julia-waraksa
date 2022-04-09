@@ -34,6 +34,8 @@ The Wretched of the Earth. Translation by Richard Philcrox. 60th Anniversary Edi
 <u>Olufemi, Lola</u> • Experiments in Imagining Otherwise. Maidstone: Hajar Press, 2021. Print.
 <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <u>Schuppli, Susan</u> • Material Witness: Media, Forensics, Evidence. 2020. Print.
+<br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<u>Bouanani, Ahmed</u> • The Shutters, VII. New Directions Publishing, 2018. Print.
 
 
 <br><br>

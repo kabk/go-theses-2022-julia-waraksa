@@ -11,7 +11,8 @@ export const Links = reactive({
     const links = document.querySelectorAll('a')
     for (const link of Array.from(links)) {
       // All external links should open in a new tab
-      if (!link.href.startsWith('#')) {
+      const url = link.getAttribute('href') || ''
+      if (!url.startsWith('#')) {
         link.setAttribute('target', '_blank')
       }
     }

@@ -26,7 +26,7 @@ Traditionally, memorial sites are official narrations of immaterial history, pro
 <img class="align-self" src="content/images/02-stolpersteine-berlin-3.jpg">
           <div class="img-caption">
 
- Figure 1 Stolpersteine
+Stolpersteine
 
 </div>
 </div>
@@ -50,7 +50,7 @@ The [historicity](#tooltip "the quality of being part of history instead of bein
 <div class="img-container">
 <img class="align-self" src="content/images/02-wall-of-sorrow-in-moscow.jpg">
           <div class="img-caption">
-          <u>Figure 1</u> The artist Georgy Frangulyan in front of his “Wall of Sorrow,” a government-sponsored work commemorating victims of political repression that was unveiled in 2017. Several words are incised on two big stone slabs standing behind the bronze wall. On one of them are the words “REMEMBER” and “BE AWARE”, and on the other, the words “CONDEMN” and “FORGIVE.” The president’s reasoning for erecting the monument is that “the events must never be forgotten” and “let it be a lesson to future generations”. However, the inscription of “FORGIVE” has garnished intense criticism especially in light of the President recent claims that Stalin’s rule has wrongly been exaggerated; his crimes against humanity were supposedly “not as severe as portrayed” and can therefore be “forgiven” in the light of moving on and learning from one’s mistakes. The monument controversially serves to milden the societal impact of Soviet repressions by framing it as "a thing of the past", while repressions are still actively equipped by the present regime.
+          The artist Georgy Frangulyan in front of his “Wall of Sorrow,” a government-sponsored work commemorating victims of political repression that was unveiled in 2017. Several words are incised on two big stone slabs standing behind the bronze wall. On one of them are the words “REMEMBER” and “BE AWARE”, and on the other, the words “CONDEMN” and “FORGIVE.” The president’s reasoning for erecting the monument is that “the events must never be forgotten” and “let it be a lesson to future generations”. However, the inscription of “FORGIVE” has garnished intense criticism especially in light of the President recent claims that Stalin’s rule has wrongly been exaggerated; his crimes against humanity were supposedly “not as severe as portrayed” and can therefore be “forgiven” in the light of moving on and learning from one’s mistakes. The monument controversially serves to milden the societal impact of Soviet repressions by framing it as "a thing of the past", while repressions are still actively equipped by the present regime.
           </div>
 </div>
 

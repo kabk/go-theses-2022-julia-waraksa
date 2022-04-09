@@ -32,7 +32,7 @@ export const Images = reactive({
     },
     {
       name: "Denazification bomb falls in vicinity of Holocaust memorial site",
-      file: '04-babyn-yar-missile-attack-2.jpg',
+      file: '04-babyn-yar-missile-attack-3.jpg',
       text: ['Caption', '2019'],
     },
     {
@@ -56,8 +56,8 @@ export const Images = reactive({
       text: ['Caption', '2019'],
     },
     {
-      name: "3D Model Babyn Yar Ravine",
-      file: '04-babyn-yar-december.jpg',
+      name: "Reconstruction of the ravine",
+      file: '04-babyn-yar-3d-model-2.jpg',
       text: ['Caption', '2019'],
     },
     {
@@ -111,14 +111,14 @@ export const Images = reactive({
       text: ['Model and research by the Centre for Spatial Technologies and BHYMC.', '2021'],
     },
     {
-      name: "Abandoned soccer field in Babyn Yar",
-      file: '04-abandoned-soccer-field.jpg',
-      text: ['Due to the war, the competition has been (temporarily) cancelled.', '2022'],
+      name: "Babyn Yar Memorials Map",
+      file: '04-babyn-yar-memorials-map.jpg',
+      text: ['', '2021'],
     },
     {
-      name: "Abandoned soccer field in Babyn Yar",
-      file: '04-abandoned-soccer-field.jpg',
-      text: ['Due to the war, the competition has been (temporarily) cancelled.', '2022'],
+      name: "Kabbalah, Tree of Life",
+      file: '04-kabbalah.jpg',
+      text: ['', '13th Century'],
     }
     
     

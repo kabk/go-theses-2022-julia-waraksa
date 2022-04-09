@@ -8,7 +8,7 @@
 }
 
 .gallery-visual-essay {
-  height: 65vh;
+  height: 60vh;
   display: flex;
   flex-direction: column;
   visibility: hidden;
@@ -30,6 +30,9 @@
 
 .gallery main:hover {
   cursor: pointer;
+  
+  transition: .3s;
+  animation: both;
 }
 
 /* Left click container */
@@ -46,6 +49,7 @@
   flex: 0;
   text-align: left;
   padding: 0;
+  padding-top: 20px;
   font-size: 10pt;
   line-height: 13pt;
   font-family: 'ITC Mendoza Roman', Times, serif;
@@ -70,7 +74,7 @@
 
 @keyframes image-reveal {
   0% {
-    opacity: 0.5;
+    opacity: 0.95;
   }
 
   100% {
