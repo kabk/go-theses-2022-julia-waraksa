@@ -54,15 +54,15 @@ The original geography of the site resembled a large pit; large, naturally forme
 October 16, 1941. Following the 'success' of the Einsatzgruppen at Babyn Yar, a month later the Jewish civilians of Lubny (Central Ukraine) were called to gather together with all their belongings. They too, thought that they will be deported, but instead, were subjected to the same brute violence and erasure as happened at Babyn Yar. The legacy of both operations continued throughout Eastern Europe, spurring hundreds to thousands of "Babyn Yars" in villages, forests and remote regions.
 </div>
 </div>
-<br><br><br>
 
 ## Erasure as a Political Tool
 The Soviets, who had liberated Kyiv, by the ethos of their collective and homogenous idea of history did not formally recognize (ethnic) minorities and therefore had no interest to publicly acknowledge their losses at Babyn Yar.[^20] But the collective loss, raw in its grief, survived in the living memory of those after. Survivors, witnesses, relatives and sympathizers would gather around the site to mourn. The Soviets preferred to erase the site and made further attempts to bury it under a landfill. Later, the site was filled with liquid waste by the neighboring brick factories.
 
 The master plan was to drain the waste in order for the remaining mud and pulp to fill the ravine, and thus flatten it out evenly. The site literally was attempted to be physically erased by filling it, masking it, by altering the landscape and surface. But on March 12, 1961, due to heavy rain and pump failure, the dam at the station failed. The next morning, four million cubic meters of waste, mud and human remains that had been dumped into the site  broke through towards the neighboring Kurenivka district, creating a [tsunami](#figure "Aftermath of the Kurenivka mudslide") that would destroy everything in its path.[^21] The incident claimed the estimated lives of 145 victims, whose cause of death was suppressed by the authorities, forbidding any mention of the mudslide.[^22] Some people called the flood “the revenge of those shot” in Babyn Yar.[^23] [Monument to the victims of the 1961 Kurenivka mudslide](#figure "Monument to the Kurenivka Mudslide"). After the mudslide, the site was again levelled out. The once steep ravines became small hills, overgrown with trees, grass fields and shrubs. 
-
+<br><br>
 <div class="quote">
-“Science goes fast and straight in its path ; but collective representations do not follow, they are centuries back, kept stagnant in error by power, the mass press and the values of order.” (Barthes et al. 60-63)
+“Science goes fast and straight in its path ; but collective representations do not follow, they are centuries back, kept stagnant in error by power, the mass press and the values of order.” <br><br>
+<b>Roland Barthes</b>, Mythologies (60-63)
 </div>
 
 <br><br><br>
@@ -102,9 +102,7 @@ Inauguration of the monument on July 2, 1976. Depicted in granite are unambigous
 </div>
 
 
-In this line, the function of the memorial becomes to fuse every fallen citizen with the identity of the nation, for which the death of the individual serves as a pledge.[^24] The fluidity of history, multiplicity of events and perspectives becomes ossified in a form that is officially accepted, rendering the monument as the only acceptable vision into the past. The monument becomes not a metallic and long-lasting obituary, but a political tool that is used in order to amplify a specific voice while silencing the others. The losses are reappropriated as national losses. This cruel act only further emphasizes the exclusion of the minorities in the building of a national identity.  Therefore, the monument could be considered unbuilt, and an appropriate honoring of the victims would be for this monument not to be marked as “the first to commemorate the events of Babyn Yar” as it still is termed in 2021.
-
-<br><br>
+In this line, the function of the memorial becomes to fuse every fallen citizen with the identity of the nation, for which the death of the individual serves as a pledge.[^24] The fluidity of history, multiplicity of events and perspectives becomes ossified in a form that is officially accepted, rendering the monument as the only acceptable vision into the past. The monument becomes not a metallic and long-lasting obituary, but a political tool that is used in order to amplify a specific voice while silencing the others. The losses are reappropriated as national losses. This cruel act only further emphasizes the exclusion of the minorities in the building of a national identity.  Therefore, the monument could be considered unbuilt, and an appropriate honoring of the victims would be for this monument not to be marked as “the first to commemorate the events of Babyn Yar” as it still is termed in 2021.<br><br>
 
 ## Is forgiveness desirable?
 When the Soviet Union fell in 1991, the Jewish community grasped the new-found independence to step forward in demand for a Jewish memorial. Subsequently, a menorah statue figure was erected upon a small hill. By doing so, the Jewish community had essentially opened up a blueprint for the site; other minorities followed to finally lay their claim for a memorial. In 2012, a monument to commemorate the [Sinti and Roma](#figure "Vardo in Memory of Romani executed in Babyn Yar") killed during Babi Yar was brought from another location in the city into the park. With no one to formally oversee the site, many others would soon follow. Here and there, small memorials appeared in the park, though many of them were left unfinished due to lack of funding or dispute.
@@ -119,7 +117,7 @@ Opening Ceremony of the Menorah Monument, 1991
 
 Gradually, the memorial landscape of Babyn Yar became more and more disjointed. Rather than binding together as by common fate, the memorials served to establish their separate identities by fixating on their differences. Each monument, surrounded by shrubs and trees, stands in isolation. There is nothing to bind them but a blind path forward. With the memorials scattered over the park, one quickly experiences the feeling of entering a maze. The navigation becomes overwhelming as the path at times becomes unclear; different timelines overlay. In the [December landscape](#figure 'The Soviet memorial at Babyn Yar in December'), mud and snow obliterates the footsteps of those who passed here before. A hill leads to another, which then leads to a closed fence – a dead end – up, backwards and repeat again.
 
-<br><br>
+<br>
 
 ## 80 Years of Silence
 In 2016, the Babyn Yar Holocaust Memorial Center Foundation (BHMYC) was established. Since its foundation, it terms itself an educational institution which aims to broaden and sustain the memory of the Holocaust in Eastern Europe. Essentially, BHYMC symbolizes the site of Babyn Yar as the shared losses of the greater region. Besides the plans for a large-scale Holocaust museum, the foundation builds and funds other memorial projects on site, including many installations, memorial days, international competitions and memorial performances. By the use of cartographic reconstruction,  the BHYMC after 79 years has the exact locations of the mass killings on September 29 and 30, 1941. The ravine has been reconstructed in a [3D model](#figure '3D Model of the Babyn Yar site'), which then was overlayed using [photographic footage](#figure 'Reconstruction of the ravine'), paying particular notice to geographic landmarks (a lone tree) and the positioning of the sun.[^25]
@@ -130,7 +128,6 @@ In stark contrast to the lack of commemoration over the preceding period of 79 y
   <div class="img-caption img-caption-padding">
           The unfolding of the wooden synagogue. It is unfolded only for Jewish commemorative performances.
           </div>
-
 
 ## Political motivations
 One cannot help but wonder behind the motives for both the haste and the excessive funding: a sum of approximately $100 million, the largest ever such funding for a Holocaust memorial project. The funding is secured by famous and prestigious figures in Ukraine, as well a significant few of which (Jewish) businessmen with close ties to Russia. Participation in such a project almost guarantees a certain level of prestige, thus local media are not shy to scrutinize the supporters of the organization. Some journalists infamously term the educational center “Putin’s Trojan Horse,” for at the current height of the hybrid war between Russia and Ukraine, the influence of Russian funding risks to affect the autonomy of the center, allowing for tampering with historical facts or the eschewing of the facts altogether.[^28]  Critics fear that the narrative pursued by the center, in order to secure the funding, may highlight the participation of Ukrainian Nazi collaborators whilst diverting from the fact that the Soviet Union, by the agreements of the historic Molotov-Ribbentrop pact, was equally complicit to the Nazis for forming the conditions that allowed many of the crimes to occur in first place.[^29] One public demand is for the BHYMC’s rights to the future of the park to be more distributed in order to leave place for smaller, not lesser significant, local initiatives and artistic figures. Yet with little effect – the BHYMC still holds the decisive say over the site.
@@ -153,7 +150,6 @@ The Monument, as an object of public memory in the post-historical age, becomes 
 </div>
 
 The foundation admits to the controversy regarding the erection of new monuments and memorials, most of which will require a foundations to be built into the soil, thus once again tampering with the geographic site. How can one justify further disturbance, keeping respect to the ground that, being a mass burial of Jews, is considered holy by Jewish tradition?  As the last generation who witnessed and survived Babyn Yar is nearing death, what could be a lasting, appropriate body for their stories to inhabit – one that does not require further disturbance of the sacred soil?[^33] If memory, in order to progress must continuously negate itself, should memorials too be temporal, rather than something eternally ossified in concrete? If not, how can collective and individual histories interact and permeate each other on the shared grounds of a public memorial? Whose voice should be amplified, and who has the agency to decide? The commemorative park of Babyn Yar is visibly still in progress, and the local community, including those of direct and indirect survivors, is struggling to find unity over its commemoration. It is as though each attempt to suture the deep wounds of Babyn Yar, does not accomplish to initiate any healing process. Instead it appears that these attempts each create more conflict in the narration of Babyn Yar as each for their own decide who, and what, is most important to remember.
-
 <br><br>
 
 ## The Formation of Elastic Memory
