@@ -73,29 +73,37 @@ html, body a {
 
 
 h1 {
+  font-size: 16.85px;
   font-family: 'ITC Mendoza Roman', Times, serif;
   text-transform: uppercase;
-  font-size: 16.5px;
   font-weight: normal;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.1em;
   text-align: center;
   line-height: 0;
   margin-bottom: 25px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  padding-left: 2px;
+  padding-right: 2px;
+  border-top: 1.15px solid black;
+  border-bottom: 1.15px solid black;
 }
 
 h2 {
   font-family: 'ITC Mendoza Roman', Times, serif;
   font-size: 17px;
   font-weight: normal;
+  
 }
 
 h5 {
-  font-size: 20px;
+  font-size: 17px;
   font-family: 'ITC Mendoza Roman', Times, serif;
   font-weight: normal;
+  text-transform: uppercase;
   margin: 0;
   line-height: 28px;
-  letter-spacing: 0.25em;
+  letter-spacing: 0.05em;
 }
 
 .text-left {
@@ -112,5 +120,110 @@ h5 {
 
 .sans-serif {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
+/* Testing styles */
+
+
+@font-face {
+  font-family: 'Revivl555 BT';
+  src: url('../fonts/Revival555BT-RomanA.woff2') format('woff2'),
+      url('../fonts/Revival555BT-RomanA.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AsdanteExpert';
+  src: url('../fonts/AsdanteExpert.woff2') format('woff2'),
+      url('../fonts/AsdanteExpert.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'AsdanteRegular';
+  src: url('../fonts/AsdanteRegular.woff2') format('woff2'),
+      url('../fonts/AsdanteRegular.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ivar Text';
+  src: url('../fonts/IvarText-Regular.woff2') format('woff2'),
+      url('../fonts/IvarText-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ivar Headline';
+  src: url('../fonts/IvarHeadline-Regular.woff2') format('woff2'),
+      url('../fonts/IvarHeadline-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Equity Caps B';
+  src: url('../fonts/EquityCapsB.woff2') format('woff2'),
+      url('../fonts/EquityCapsB.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Equity Text B';
+  src: url('../fonts/EquityTextB.woff2') format('woff2'),
+      url('../fonts/EquityTextB.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Louize';
+  src: url('../fonts/Louize.woff2') format('woff2'),
+      url('../fonts/Louize.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'JJannon Book';
+  src: url('../fonts/JJannon-BookItalic.woff2') format('woff2'),
+      url('../fonts/JJannon-BookItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'JJannon Book';
+  src: url('../fonts/JJannon-Book.woff2') format('woff2'),
+      url('../fonts/JJannon-Book.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'JJannon';
+  src: url('../fonts/JJannon-Bold.woff2') format('woff2'),
+      url('../fonts/JJannon-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
 }
 

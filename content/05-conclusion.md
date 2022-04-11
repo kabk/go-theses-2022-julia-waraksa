@@ -31,9 +31,10 @@ When we remember, we remember only fragments which we then subconsciously proces
 <img class="align-self" src="content/images/05-rachel-whiteread-1.jpg">
           <div class="img-caption">
           
-Rachel Whiteread, Judenplatz Memorial in Vienna, Austria.
+Rachel Whiteread, <i>Judenplatz Memorial</i>  (2000) in Vienna, Austria. The monument measures 10 × 7 × 3.8m. It features a library made of concrete books whose spines are shown outwards, therefore, the titles are illegible. It can be understood as the appreciation of Judaism as the religion of the "book" but it demonstrates also a cultural space of memory loss caused by the genocide. The monument sits atop of the remains of a medieval synagogue.
 </div>          
 </div>
+
 
 [^34]: <b>Bouanani, Ahmed</b>. The Shutters. VII. New Directions Publishing, 2018. p.56
 [^35]: <b>Butler, Judith</b>. Precarious Life: The Powers of Mourning and Violence. London New York: Verso, 2020. Print. p.23

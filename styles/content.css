@@ -29,10 +29,21 @@
 .chapter.full-height {
   min-height: 95vh;
   
+  
 }
+
 
 .chapter .half-height {
   min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.chapter .remove-height {
+  min-height: 0vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -88,6 +99,8 @@ background-position: bottom  , 4px 0;
 /* Quotes inside chapter text */
 .chapter .quote {
   padding: 25px 110px 25px 110px;
+  border-left: 1.15px solid black;
+  border-right: 1.15px solid black;
 }
 
 .chapter .quote-no-padding {
@@ -200,6 +213,15 @@ width: 60%;
   font-family: 'ITC Mendoza Roman Italic';
 }
 
+.chapter .border-left-right {
+  margin-top: 50px;
+  border-left: 1.15px solid black;
+  border-right: 1.15px solid black;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: 50px;
+}
+
 
 .chapter b {
   font-family: 'ITC Mendoza Roman Italic';
@@ -209,6 +231,10 @@ width: 60%;
 
 .chapter .padding {
   padding: 5% 20% 5% 20%;
+}
+
+.visual-essay {
+
 }
 
 .bibliography {
@@ -237,12 +263,29 @@ width: 60%;
 @media (max-width: 600px) {
 
   .chapter .full-height {
-    max-height: 75vh;
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: top;
     align-items: top;
   }
+
+  .chapter .full-height {
+    min-height: 95vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .chapter .half-height {
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
   
 
   .chapter .column {
@@ -257,10 +300,6 @@ width: 60%;
     flex-direction: column;
     padding: 2% 5% 15% 5%;
   }
-  
-  .chapter .quote {
-    padding: 2% 8% 2% 8%;
-  }
 
   .chapter-footnotes li .number {
     font-size: 10pt;
@@ -274,6 +313,11 @@ width: 60%;
     padding: 5% 0 5% 0;
   }
 
+  .chapter .quote {
+    padding: 25px 40px 25px 40px;
+    border-left: 1.15px solid black;
+    border-right: 1.15px solid black;
+  }
 
 .chapter .img-caption {
   padding-top: 10px;
@@ -302,6 +346,7 @@ width: 60%;
   flex: 1;
   padding: 3% 0 3% 0;
 }
+
 
 
 

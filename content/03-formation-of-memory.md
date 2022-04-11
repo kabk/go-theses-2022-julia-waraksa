@@ -26,7 +26,7 @@ Traditionally, memorial sites are official narrations of immaterial history, pro
 <img class="align-self" src="content/images/02-stolpersteine-berlin-3.jpg">
           <div class="img-caption">
 
-Stolpersteine, metaphorically named "stumbling stones", are 10cm concrete cubes containing a brass plate, inscribed with the name and life dates of a victim of Nazi extermination or persecution. They are placed in front of the last registered address of the deceased person. As per the words of the Talmud, "a person is not forgotten until their name is forgotten". Essentially, the placing of a small stumbling stone turns its vicinities into a memorial; victims of Nazism stepped and lived on these same streets. There are already more than 32.000 stolpersteine in over 700 locations accross Europe, effectively demonstrating the sheer scale and the impact of the Second World War.
+Stolpersteine, metaphorically named "stumbling stones", are 10cm concrete cubes containing a brass plate, inscribed with the name and life dates of a victim of Nazi extermination or persecution. They are placed in front of the last registered address of the deceased person. As per the words of the Talmud, "a person is not forgotten until their name is forgotten". Essentially, the placing of a small stumbling stone turns its vicinities into a memorial; victims of Nazism stepped and lived on these same streets. There are already more than 32.000 stolpersteine in over 700 locations accross Europe, effectively demonstrating the sheer scale and the impact of WWII.
 </div>
 </div>
 
@@ -61,9 +61,14 @@ Therefore, the challenging of our biases in public space is potentially synonymo
           The Platz des Unsichtbaren Mahnmals, or The Place of the Invisible Memorial, is a memorial to Jewish cemeteries located in Saarbrücken, Germany. The memorial is an anti-monument: it is invisible to visitors, appearing only as a sign reading "Platz des Unsichtbaren Mahnmals". In 1990, art students began, piece by piece, to dig up the cobblestones in front of the Saarbrücken Castle (a former location of the Gestapo). The cobblestones were engraved with the names of Jewish cemeteries and then returned to their original location, with the engraving facing downwards. A total of 2146 locations and names were engraved. The invisible memorial portrays the neglect of Germany towards its past. 
           </div>
 </div>
-<div class="img-container">
-</div>
 
+<div class="img-container">
+<img class="align-self" src="content/images/06-miroslaw-balka-how-it-is.jpg">
+          <div class="img-caption">
+          
+Miroslaw Balka, <i>How it is</i> (2009) at Tate Modern, London. <i>How it is</i> is an installation featuring a giant steel container with a dark chamber made of light-absorbing material. Visitors entering the structure quickly loose their sense of space. Balka's work questions what it is to perceive darkness, challenging the ambigiuty of the concept of seeing. The installation is reminiscent of the containers used during the mass deportations of WWII and allows the visitor to enliven both the fear and the uncertainty of being trapped in an unknown destination.
+</div>          
+</div>
 
 
 

@@ -79,4 +79,8 @@ a[href="#figure"]:hover {
    padding-left: 15px;
    width: 100%;
   }
+  .image-popup img {
+  align-self: flex-end;
+  padding-bottom: 30px;
+  }
 }

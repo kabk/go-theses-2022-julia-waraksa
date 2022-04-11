@@ -50,7 +50,7 @@ body a:hover {
 }
 
 #app > nav > .progress {
-  height: 1px;
+  height: 1.15px;
   background-color: var(--black);
   margin-top: 34px;
   transition: all ease-in-out 0.2s;
@@ -95,12 +95,6 @@ body a:hover {
     padding: 2%;
   }
 
-  #app > header {
-    margin-bottom: 20px;
-    text-align: center;
-    justify-content: center;
-  }
-
 
 #app > header {
   flex: 0;
@@ -108,7 +102,12 @@ body a:hover {
   font-family: 'ITC Mendoza Roman', Times, serif;
   padding: 10px;
   padding-top: 18px;
+  padding-left: 20px;
   padding-bottom: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    justify-content: center;
+
 }
 
 
@@ -120,7 +119,7 @@ body a:hover {
 }
 
 #app > nav > .progress {
-  height: 1px;
+  height: 1.15px;
   background-color: var(--black);
   margin-top: 34px;
   transition: all ease-in-out 0.2s;

@@ -20,7 +20,7 @@
 
 </div>
 
-<div class="full-height">
+<div class="full-height border-left-right">
 
 # MARCH 1, 2022
 
@@ -148,7 +148,7 @@ One of the BHYMC’s projects, [The Mirror Field](#figure 'The Mirror Field'), i
 
 <div class="quote">
 
-The Monument, as an object of public memory in the post-historical age, becomes an impossible object. And more precisely, if it does exist, it is rather a monument to oblivion than to remembrance; rather an object that threatens than one upon which our gaze can calmly rest so as to experience it as the screen of (a) memory which hides the trauma to which it is dedicated. Moreover, the monument is a trauma for-itself and in-itself.<br>Stojanovic, <u>The Case of the Belgrade Monument</u>[^32]
+The Monument, as an object of public memory in the post-historical age, becomes an impossible object. And more precisely, if it does exist, it is rather a monument to oblivion than to remembrance; rather an object that threatens than one upon which our gaze can calmly rest so as to experience it as the screen of (a) memory which hides the trauma to which it is dedicated. Moreover, the monument is a trauma for-itself and in-itself.<br><i>Stojanovic</i>, The Case of the Belgrade Monument[^32]
 
 </div>
 

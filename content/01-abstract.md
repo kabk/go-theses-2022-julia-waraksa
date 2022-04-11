@@ -1,5 +1,5 @@
 
-<div class="full-height center">
+<div class="full-height center border-left-right">
 
 
 
@@ -10,7 +10,14 @@ While writing this thesis, Ukraine, which is at the center of one of my chapters
 
 </div>
 
+
+
+<div class="remove-height">
+
 # Abstract
+
+</div>
+
 <br><br>
 Topography of Violence places an analogy between individual and collective memory through sites that have witnessed ethnic and historical cleansing. The remembering of these sites, as well as the questioning of what should be their designated influence on our contemporary value system is gaining increasing attention in academic discussion. But ultimately, there is need for the discussion to break free from academia. I believe that looking critically at monuments and what they selectively represent, could be an important way to collectively reconsider the values that we choose to embed in public space. My research question concentrates on how the culture of memorizing and remembering is performed, or purposely not performed, through the site of the incident: by the erection of monuments, the lack thereof, the inadequacy of their representation, or their strategic misrepresentation.
 

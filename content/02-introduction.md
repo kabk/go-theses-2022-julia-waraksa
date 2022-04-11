@@ -1,8 +1,8 @@
-<div class="centered">
 
 
-# INTRODUCTION
+<div class="remove-height">
 
+# Introduction
 
 </div>
 
