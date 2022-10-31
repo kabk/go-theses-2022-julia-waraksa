@@ -1,21 +1,18 @@
-<div class="half-height">
+<div class="quarter-height">
 
-# Credits
+##### Credits
 
 </div>
-<div class="center">
-
 Graphic Design BA Thesis<br>
 for the Royal Academy of Art, The Hague<br>
-Written by [Julia Waraksa](https://www.juliawaraksa.com/)
+Written by Julia Waraksa
 <br>
 <br>
-
-Thesis Supervisor • [Füsun Türetken](https://www.fusunturetken.com)
+Thesis Supervisor: Füsun Türetken
 <br>
-Typeface • ITC Mendoza Roman<br><br>
+Typeface: FT Kunst Grotesk<br><br>
 This website has been made for educational purposes.<br>
 All images belong to their rightful authors.
-<br><br><br>
+<br><br>
 2022
 </div>

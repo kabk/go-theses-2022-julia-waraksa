@@ -1,13 +1,10 @@
 
 
-<div class="remove-height">
+<div class="quarter-height">
 
-# Introduction
+##### Introduction
 
 </div>
-
-<br><br>
-
 
 It is less than a century ago that we, as humankind, vowed never again to embody the ideals that led to the atrocities of World War II. These memories now seem to belong to the previous century, as if the turning of the millennium marked the turning of a new page.[^1] The linear passing of time permits us to speak of the “past” as a fixed entity; we presume that the troubles of the past have resolved as the memory is long laid to rest. The memory becomes settled, buried in facts, cemented in memorials and national days of remembrance. But the farther the memory regresses and the farther we allocate it to a certain site, shape or form – and therefore consider its sociopolitical conditions exclusive to its historical circumstances – the more we diminish its significance in the active forming of our present. Past remains past, as we turn our eyes towards the present and the future. But one cannot exist without the other. One renders the past as singular, for that allows for the formation of false narratives. As <b>Simone Weil</b> writes in The Need for Roots,
 
@@ -22,10 +19,6 @@ The trouble of false narratives and memory loss become most evident when a long-
 To rob a people of their past is an act of the highest violence imaginable. The violence of a people towards the [Other](#tooltip "term used to denote a person or thing that is different or distinct from one already mentioned or known about"), leaves a shallow, pitted memory: a disintegration between what one is and what one is perceived as.[^3] Such violence employs obliteration, leaves memory to decay and removes it from the real and the tangible. From medicine we know how trauma can cause the mind to separate itself from certain embodied inflictions of pain – so too, can the forced loss or obliteration of physical site afflict the individual with a separation from their identity. Victims of forced migration or ethnocide often form diasporic communities in their countries of exile: groups that live in displacement and which are characterized by strong feelings of nostalgia, [uprooting](#tooltip "to move (someone) from their home or a familiar location") and alienation.[^4] Their binding fate becomes a collective search for (physical) embodiments of their shared identity.
 
 In this paper, I will investigate instances of forced migration and cultural genocide by drawing an analogy between memory and site. In order to put face to the discussion, I will investigate the geography and the memory of [Babyn Yar](#tooltip "grandmother's ravine (Ukrainian)"), the site of the massacre that took place in the year 1941 in Ukraine. For 80 years its memory had been suppressed, misrepresented and re-narrated in the ultimate aim for its crimes to be forgotten and its socio-political significance to be diminished. Attempts to retrieve its buried history have brought the topic of its commemoration to the disjointed, politically- and emotionally-laden discussion that still surrounds the site today. Through this site and through the discussion surrounding it, I will investigate how one may engage with the trauma of a collective past, and its effect on collective memory. Centrally I pose the question, how may a memorial site bring to terms the past that it represents?
-
-Note: Some of the theories that will be introduced in this thesis were developed together with <b>[Füsun Türetken](https://www.fusunturetken.com)</b>. Thank you for your guidance and your many words of encouragement through these challenging times.
-
-
 
 [^1]: <b>Mulvey, Stephen</b>. The Long Echo of WW2 Trauma. BBC News, BBC, 7 June 2019, [Web](https://bbc.com/news/stories-48528841)
 [^2]: Honderich, Holly. Why Canada Is Mourning the Deaths of Hundreds of Children. BBC News, 15 July 2021. [Web](https://bbc.com/news/world-us-canada-57325653)

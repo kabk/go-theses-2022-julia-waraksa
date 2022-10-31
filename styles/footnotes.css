@@ -7,7 +7,8 @@
 
 .footnote-ref {
   line-height: 0.5;
-  font-family: 'ITC Mendoza Roman';
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
 }
 
 /* Footnotes container under the chapter */
@@ -26,19 +27,13 @@
 .chapter-footnotes li {
   display: flex;
   flex-direction: row;
-  margin-bottom: 8px;
   cursor: pointer;
 }
 
 .chapter-footnotes a {
-  font-family: 'ITC Mendoza Roman Italic';
-  border-bottom: 0.5px solid black;
+
 }
 
-.chapter-footnotes b {
-  font-family: 'ITC Mendoza Roman Italic';
-  font-style: italic;
-}
 
 
 
@@ -46,25 +41,33 @@
 
 /* Footnote number */
 .chapter-footnotes li .number {
-  font-size: 13.5px;
-  line-height: 16px;
-  font-family: 'ITC Mendoza Roman', Times, serif;
-  margin-right: 8px;
-  padding: 0;
+  font-size: 11.5px;
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
+
+}
+
+
+.chapter-footnotes li .number:hover {
+  cursor: alias;
 }
 
 /* Footnote text */
 .chapter-footnotes p {
-  padding: 0 0 0 90px;
+  padding: 0 0 0 20px;
+  line-height: 1.2;
   display: inline-block;
   font-size: 13.5px;
-  line-height: 16px;
-  font-family: 'ITC Mendoza Roman', Times, serif;
+  line-height: 1.2;
+  font-family: 'FT Kunst Grotesk';
+  font-weight: normal;
   margin: 0;
+
 }
 
 .chapter-footnotes p:hover {
   cursor: alias;
+  opacity: 0.5;
 }
 
 /* Amended styling for mobile browsers */
@@ -76,7 +79,8 @@
   display: inline-block;
   font-size: 13.5px;
   line-height: 16px;
-  font-family: 'ITC Mendoza Roman', Times, serif;
+  font-family: 'FT Kunst Grotesk';
+  font-weight: normal;
   margin: 0;
 }
 

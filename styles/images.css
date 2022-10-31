@@ -1,24 +1,31 @@
 /* Figure link */
 a[href="#figure"] {
   margin: 0;
-  color: var(--black);
   /* margin: 0 2px 0 2px;
   padding: 0 4px 0 4px; */
   cursor: pointer;
-  border-bottom: 1px solid var(--black);
+  color: #ffffff;
+  padding-left: 3px;
+  font-weight: bold;
+  padding-bottom: 1px;
+  padding-right: 3px;
+  text-decoration: none;
+  background-color: rgb(0, 0, 0);
   /*text-decoration: none; */
 }
 
 a[href="#figure"]:hover {
-  color: var(--interactive);
+  color: black;
   /* border-top: 1px solid var(--interactive);*/
-  border-bottom: 1px solid var(--interactive);
+
   text-decoration: none;
+
   cursor: pointer;
 }
 
 /* Image overlay */
 .image-popup-overlay {
+  
   position: absolute;
   z-index: 10000000;
   left: 0;
@@ -26,19 +33,19 @@ a[href="#figure"]:hover {
   top: 0;
   bottom: 0;
   background-color: white;
-  opacity: 1;
+  opacity: 0.95;
   cursor: pointer;
 }
 
 /* Image popup */
 .image-popup {
   position: absolute;
+  
   z-index: 10000001;
   left: 0;
   right: 0;
   top: 0;
   bottom: 0;
-  opacity: 1;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -47,8 +54,8 @@ a[href="#figure"]:hover {
 }
 
 .image-popup img {
-  max-width: 75vw;
-  max-height: 75vh;
+  max-width: 65vw;
+  max-height: 65vh;
 }
 
 .image-data {
@@ -57,14 +64,15 @@ a[href="#figure"]:hover {
   padding-left: 20px;
   padding-top: 25px;
   list-style: none;
-  width: 19%;
-  font-size: 10pt;
+  width: 50%;
+  font-size: 16.85px;
   line-height: 13pt;
-  font-family: 'ITC Mendoza Roman', Times, serif;
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
 }
 
 .image-data .title {
-  padding-bottom: 22px;
+  padding-bottom: 0px;
 }
 
 .image-data .details {

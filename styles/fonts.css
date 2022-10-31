@@ -37,12 +37,68 @@
 
 @font-face {
   font-family: 'ITC Mendoza Bold';
-  src: url('MendozaRoman-Bold.woff2') format('woff2'),
-      url('MendozaRoman-Bold.woff') format('woff');
+  src: url('../fonts/MendozaRoman-Bold.woff2') format('woff2'),
+      url('../fonts/MendozaRoman-Bold.woff') format('woff');
   font-weight: bold;
   font-style: normal;
   font-display: swap;
 }
+
+@font-face {
+  font-family: 'CharterITC Italic';
+  src: url('../fonts/CharterITC-Italic.woff2') format('woff2'),
+      url('../fonts/CharterITC-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CharterITC';
+  src: url('../fonts/CharterITC-Regular.woff2') format('woff2'),
+      url('../fonts/CharterITC-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FT Kunst Grotesk Italic';
+  src: url('../fonts/FTKunstGrotesk-RegularItalic.woff2') format('woff2'),
+      url('FTKunstGrotesk-RegularItalic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FT Kunst Grotesk';
+  src: url('../fonts/FTKunstGrotesk-Regular.woff2') format('woff2'),
+      url('../fonts/FTKunstGrotesk-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FT Kunst Grotesk Black';
+  src: url('../fonts/FTKunstGrotesk-Black.woff2') format('woff2'),
+      url('../fonts/FTKunstGrotesk-Black.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'FT Kunst Grotesk Bold';
+  src: url('../fonts/FTKunstGrotesk-Bold.woff2') format('woff2'),
+      url('../fonts/FTKunstGrotesk-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+
 
 
 
@@ -54,16 +110,15 @@
 html, body {
   /* text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased; */
-  font-family: 'ITC Mendoza Roman', Times, serif;
+  font-family: 'FT Kunst Grotesk', Helvetica, sans-serif;
   font-size: 16.85px;
   line-height: 21.75px;
   font-weight: normal;
-  letter-spacing: -0.005em;
   color:var(--black);
 }
 
 html, body b {
-  font-family: 'ITC Mendoza Bold';
+  font-family: 'FT Kunst Grotesk';
 }
 
 html, body a {
@@ -74,10 +129,9 @@ html, body a {
 
 h1 {
   font-size: 16.85px;
-  font-family: 'ITC Mendoza Roman', Times, serif;
-  text-transform: uppercase;
-  font-weight: normal;
-  letter-spacing: 0.1em;
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
+  letter-spacing: 0.02em;
   text-align: center;
   line-height: 0;
   margin-bottom: 25px;
@@ -85,25 +139,39 @@ h1 {
   padding-bottom: 35px;
   padding-left: 2px;
   padding-right: 2px;
-  border-top: 1.15px solid black;
-  border-bottom: 1.15px solid black;
+  /* border-top: 1.15px solid black;
+  border-bottom: 1.15px solid black; */
 }
 
 h2 {
-  font-family: 'ITC Mendoza Roman', Times, serif;
   font-size: 17px;
-  font-weight: normal;
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
+  text-align: center;
   
 }
 
 h5 {
-  font-size: 17px;
-  font-family: 'ITC Mendoza Roman', Times, serif;
-  font-weight: normal;
-  text-transform: uppercase;
+  font-size: 35px;
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
+
+
+  line-height: 600px;
+  letter-spacing: 0.015em;
+  color: black;
   margin: 0;
-  line-height: 28px;
-  letter-spacing: 0.05em;
+}
+
+h6 {
+  font-size: 80px;
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
+  padding-top: 50px;
+  line-height: 200px;
+  letter-spacing: -0.015em;
+  color: black;
+  margin: 0;
 }
 
 .text-left {
@@ -123,3 +191,30 @@ h5 {
 }
 
 
+@media (max-width: 600px) {
+
+h5 {
+  font-size: 35px;
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
+  line-height: 650px;
+  letter-spacing: 0.015em;
+  color: black;
+  margin: 0;
+}
+
+
+h6 {
+  font-size: 90px;
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
+  padding-top: 150px;
+  line-height: 100px;
+  padding-bottom: 100px;
+  letter-spacing: -0.015em;
+  color: black;
+  opacity: 1;
+  margin: 0;
+}
+
+}

@@ -1,7 +1,7 @@
-<div class="full-height">
+<div class="half-height">
 
-# visual essay
-# Monument and Site
+##### Visual Essay – Monument and Site
+
 
 </div>
 
@@ -23,20 +23,13 @@ A granite monument of Stalin, in front of a line of anonymous workers and “her
 <div class="img-container">
   <img src="content/images/06-tiananmen-massacre.jpg" >
   <img src="content/images/06-tiananmen-massacre-2.jpg" class="padding-top">
+  <img class="align-self" src="content/images/06-tiananmen-massacre-pillar-of-shame.jpg">
+
 </div>
 
 Pro-democracy protest at the Tiananmen square in 1989. At the height of the protests, about 1 million people assembled in the Square. The Communist Party at the time believed the protests to be a political threat and resolved to use force, mobilizing as many as 300,000 troops to Beijing. Both demonstrators and bystanders were met with severe violence. The official figures released after the crackdown claimed that the massacre left only 241 dead but the actual death toll, according to the British Intelligence Agency, is estimated to be up to 10.000 victims. <br><br>Nowadays, the memory of Tiananmen is widely associated with questioning the legitimacy of Communist Party rule and remains one of the most sensitive and most widely censored topics in China. Public commemoration is forbidden and there is no memorial nor plaque on the site. The nearest monument at the University of Hong Kong, the Pillar of Shame by artist Jens Galschiøt which was installed on permanent loan in 1997, has been removed in October 2021 with the statement that “the university is concerned about the potential safety issues resulting from the fragile statue”
 
 
-
-<div class="img-container">
-<img class="align-self" src="content/images/06-tiananmen-massacre-pillar-of-shame.jpg">
-          <div class="img-caption">
-          <b>December 2021</b> The nearest monument for Tiananmen was the Pillar of Shame gifted by Danish artist Jens Galschiøt. Between 1997 to 2021 it stood on permanent loan at the campus and provided an important site for public gathering for the 4th of June commemoration of Tiananmen. The inscription on the pillar read “The Old Cannot Kill The Young Forever.” The statue was removed in 2021 upon the grounds of a legal battle, causing significant uproar, criticism and shock by both the student and international communities. The removal of the statue signifies yet another defeat in the pro-democracy movements that have taken place in the city since 2014.
-
-          
-</div>
-</div>
 </div>
 <br><br>
 
@@ -54,16 +47,13 @@ The Russian Revolution of 1917–1923 forced some 2 million people into exile. D
 <div class="img-container">
   <img src="content/images/06-gulag-deportations.jpg" >
   <img src="content/images/06-gulag-deportations-2.jpg" class="padding-top">
+  <img class="align-self" src="content/images/06-memorial-organisation-liquidation.jpg">
+ 
 </div>
 
    
 Forced labour camps, called gulags, were set up under Lenin’s rule and were continued under Stalin’s rule, serving as a major instrument of political repression in the Soviet Union. Cited figures vary from 2–3 million to 40–50 million victims, with up to 2 million (recorded) deaths. Political prisoners, POW’s, criminals and ordinary people convicted under suspicion as an enemy of the state were sent away to complete their sentences by harsh labour under dire conditions. For those who survived, many did not make their way back, for the record of a sentence meant lifelong mistrust by the authorities. <br><br>Designed by Alexander Brodsky, the steel plaques of the Last Address memorial project intervene accross Russia on buildings to commemorate the last known addresses of the victims of Stalin’s deportations. Inspired by the German equivalent, the Stolpersteine which in 25 years has installed more than 75.000 memorials, the fundamental principle of the Last Address project is “one name, one life, one sign”. The building upon which it is placed is reclaimed as a memorial for the victim, thereby lifting them from the banality of a statistic.
 </div>  
 
-<div class="img-container">
-<img class="align-self" src="content/images/06-memorial-organisation-liquidation.jpg">
-          <div class="img-caption">
-          <b>November 2021</b> A protester’s plaque reads “Hands off from the Memorial – Freedom to Political Prisoners.” Memorial is a human rights organization which was founded in 1987 by political dissidents and activists, amongst which Nobel Peace Prize winner Andrei Sakharov. It has been researching the history of political repression in the Soviet regime, providing assistance to victims of this repression and other countries in the region, as well as defending human rights. During its 30 years of operation, it has published hundreds of brilliant publications and archives and has organized eye-opening exhibitions, memorials and monuments amongst which the Last Address project. In December 2021, the Russian court, under Putin’s rule, filed a lawsuit to liquidate the Memorial organization and render its activities illegal under the guise of an attempt “to eliminate the influence of so-called foreign agents.” (Memorial is an internationally funded NGO) By doing so, the current leadership of Russia seeks to minimize the crimes of the Soviet Union. Silencing the Memorial organization is a first step in falsifying the past and may prove fatal to the freedom of speech in an increasingly repressive political atmosphere.
-          </div>
-</div>
+
 </div>

@@ -1,20 +1,8 @@
 
-<div class="full-height">
+<div class="half-height">
 
-# II
+##### II – Babyn Yar
 
-# Babyn Yar
-
-</div>
-
-<div class="half-height padding-bottom">
-
-<div class="img-container-full-width">
-<img class="align-self" src="content/images/04-babyn-yar-map.jpg">
-</div>
-<div class="img-caption text-center">
-
- View of the Babyn Yar ravine from Google Maps taken in March 2022, overlaid with a map drawn in 1932.
 
 </div>
 
@@ -22,7 +10,7 @@
 
 <div class="full-height border-left-right">
 
-# MARCH 1, 2022
+# March 1, 2022
 
 The geographic site of Babyn Yar, after eighty years believed to finally have reached a fixed state, was once again disturbed when on this day [a missile](#figure "Denazification bomb falls in vicinity of Holocaust memorial site") launched by the Russian Army fell on the TV tower located at the site. The disturbance of this missile created a crater in the soil and dispersed a multitude of shards. Additionally, five people were killed within the vicinity of the impact. Ukrainian President Volodymyr Zelenskyy responded to the tragedy:
 <div class="quote quote-no-padding centered-text">
@@ -35,7 +23,10 @@ The nearest memorials on site, located at approximately 300 metres from the TV t
 
 </div>
 
+
+
 ## A history of erasure
+
 Babyn Yar is the name ascribed to the site of the largest killing in Kyiv, Ukraine, that happened on September 29 and September 30 in 1941, eradicating the capital’s entire Jewish population over the span of two days.[^17] Often termed “Holocaust by Bullets”, Babyn Yar is symbolic to the “forgotten” victims of the Holocaust: 2.5 million individuals who were not systematically killed in concentration camps, but instead were hastily shot and buried in mass graves all around Eastern Europe. In the years following the massacre, other groups such as Jews, Roma, underground fighters, the mentally ill and Ukrainian nationalists were brought to this site to be shot and killed in the ravines. In total, an estimated 100.000 to 150.000 people lost their lives at Babyn Yar. Due to the lack of posthumous registry, exact figures are impossible to conclude and rely on estimations of local populace, historians and researchers of the site.
 <div class="img-container">
   <img src="content/images/04-babyn-yar-haehle-footage-9.jpg">
@@ -47,6 +38,17 @@ September 29 and 30, 1941. The photographs show the POWs levelling the ravine ou
 
 The original geography of the site resembled a large pit; large, naturally formed [ravines](#figure "Ravines of Babyn Yar") that had been on the outskirts of Kyiv. A landscape that lent itself to be utilized by the perpetrators. The violence initiated during the National Socialist (Nazi) occupation had opened up a pathway of permanent, unrecognizable alterations to the site. After the first Jewish killings by the Nazis, Russian Prisoners of War (POWs) were ordered to staple the bodies in the ravines and then to level the soil out to the surface. It was the first step of many to come, in attempt to erase Babyn Yar from the collective memory. When in 1943 the Soviet troops were nearing Kyiv, the Nazis made a hasty attempt to clear out the evidence they had buried in the ground. The POWs were ordered to unearth the remains in order to incinerate them. According to witness testimony, the fire burned for two days to reach the bottom of the grave.[^18] Rendered to ashes, most of the physical traces of the massacre were virtually obliterated. The memory now leaned only on the testimony of survivors, witnesses and records – all vulnerable to incompleteness (of memory), political manipulation or human error. The idea of large-scale excavations to retrieve material witnesses became practically absurd.[^19]
 
+<div class="half-height padding-bottom">
+
+<div class="img-container-full-width">
+<img class="align-self" src="content/images/04-babyn-yar-map.jpg">
+</div>
+<div class="img-caption text-center">
+
+ View of the Babyn Yar ravine from Google Maps taken in March 2022, overlaid with a map drawn in 1932.
+
+</div>
+
 <div class="img-container">
   <img src="content/images/04-babyn-yar-haehle-footage-6.jpg">
     <img src="content/images/04-babyn-yar-haehle-footage-8.jpg" class="padding-top">
@@ -56,6 +58,7 @@ October 16, 1941. Following the 'success' of the Einsatzgruppen at Babyn Yar, a 
 </div>
 
 ## Erasure as a Political Tool
+
 The Soviets, who had liberated Kyiv, by the ethos of their collective and homogenous idea of history did not formally recognize (ethnic) minorities and therefore had no interest to publicly acknowledge their losses at Babyn Yar.[^20] But the collective loss, raw in its grief, survived in the living memory of those after. Survivors, witnesses, relatives and sympathizers would gather around the site to mourn. The Soviets preferred to erase the site and made further attempts to bury it under a landfill. Later, the site was filled with liquid waste by the neighboring brick factories.
 
 The master plan was to drain the waste in order for the remaining mud and pulp to fill the ravine, and thus flatten it out evenly. The site literally was attempted to be physically erased by filling it, masking it, by altering the landscape and surface. But on March 12, 1961, due to heavy rain and pump failure, the dam at the station failed. The next morning, four million cubic meters of waste, mud and human remains that had been dumped into the site  broke through towards the neighboring Kurenivka district, creating a [tsunami](#figure "Aftermath of the Kurenivka mudslide") that would destroy everything in its path.[^21] The incident claimed the estimated lives of 145 victims, whose cause of death was suppressed by the authorities, forbidding any mention of the mudslide.[^22] Some people called the flood “the revenge of those shot” in Babyn Yar.[^23] [Monument to the victims of the 1961 Kurenivka mudslide](#figure "Monument to the Kurenivka Mudslide"). After the mudslide, the site was again levelled out. The once steep ravines became small hills, overgrown with trees, grass fields and shrubs. 

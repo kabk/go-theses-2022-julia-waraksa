@@ -1,5 +1,6 @@
-<div class="full-height center">
 
-##### Topography of Violence
+<div class="half-height center">
+
+###### Topography of Violence
 
 </div>

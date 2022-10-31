@@ -1,6 +1,6 @@
-<div class="half-height">
+<div class="quarter-height">
 
-# Conclusion
+##### Conclusion
 
 </div>
 

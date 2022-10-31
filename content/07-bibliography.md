@@ -1,8 +1,10 @@
-<div class="half-height">
+<div class="quarter-height">
 
-# Bibliography
+##### Bibliography
+
 
 </div>
+
 
 ## Books
 

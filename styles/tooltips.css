@@ -1,7 +1,9 @@
 a[href="#tooltip"] {
   color: var(--black);
   text-decoration: none;
-  background-color: rgb(231, 231, 231);
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
+  /* background-color: rgb(231, 231, 231); */
 }
 
 a[href="#tooltip"]:hover {
@@ -13,8 +15,12 @@ a[href="#tooltip"]:hover {
 .tooltip {
   position: absolute;
   padding: 1px 5px 1px 5px;
-  background-color: rgb(231, 231, 231);
-  border: gray;
+  background-color: black;
+  border: none;
+  color: white;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 3px;
   max-width: 400px;
   /* box-shadow: 0 0 5px white; */
   /* border-radius: 7px; */

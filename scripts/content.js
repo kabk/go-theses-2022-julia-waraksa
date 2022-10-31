@@ -7,13 +7,13 @@ const { markdownit, markdownitFootnote } = window
 export const Content = reactive({
   // Content chapters
   chapters: [
-    { title: 'Topography of Violence', file: '00-title.md', text: '', chapterClass: 'full-height center text-center', showTitle: false },
-    { title: 'Abstract', file: '01-abstract.md', text: '', chapterClass: 'center' },
+    { title: 'Topography of Violence', file: '00-title.md', text: '', chapterClass: 'center full-image', showTitle: false },
+    { title: 'Abstract', file: '01-abstract.md', text: '', chapterClass: 'separator' },
     { title: 'Introduction', file: '02-introduction.md', text: '', chapterClass: 'separator' },
     { title: 'Formation of Memory', file: '03-formation-of-memory.md', text: '', chapterClass: 'separator' },
     { title: 'Case Study - Babyn Yar', file: '04-babyn-yar.md', text: '', chapterClass: 'separator' },
     { title: 'Conclusion', file: '05-conclusion.md', text: '', chapterClass: 'separator' },
-    { title: 'Visual Essay', file: '06-visual-essay.md', text: '', chapterClass: 'separator visual-essay' },
+    { title: 'Visual Essay', file: '06-visual-essay.md', text: '', chapterClass: 'separator' },
     { title: 'Bibliography', file: '07-bibliography.md', text: '', chapterClass: 'separator bibliography' },
     { title: 'Credits', file: '08-credits.md', text: '', chapterClass: 'separator' },
   ],

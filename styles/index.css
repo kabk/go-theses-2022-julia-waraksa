@@ -2,6 +2,7 @@
   box-sizing: border-box;
 }
 
+
 html, body {
   width: 100%;
   height: 100%;
@@ -35,10 +36,11 @@ body a:hover {
 #app > header {
   flex: 0;
   display: flex;
-  font-family: 'ITC Mendoza Roman', Times, serif;
-  padding: 28px;
-  padding-left: 20px;
-  padding-bottom: 20px;
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
+  padding-top: 10px;
+  padding-left: 21px;
+  padding-bottom: 8px;
 }
 
 
@@ -50,9 +52,9 @@ body a:hover {
 }
 
 #app > nav > .progress {
-  height: 1.15px;
+  height: 5px;
   background-color: var(--black);
-  margin-top: 34px;
+  margin-top: 25px;
   transition: all ease-in-out 0.2s;
 }
 
@@ -96,14 +98,13 @@ body a:hover {
   }
 
 
+
 #app > header {
   flex: 0;
   display: flex;
-  font-family: 'ITC Mendoza Roman', Times, serif;
-  padding: 10px;
-  padding-top: 18px;
+  padding-top: 5px;
   padding-left: 20px;
-  padding-bottom: 10px;
+  padding-bottom: 5px;
     margin-bottom: 20px;
     text-align: center;
     justify-content: center;
@@ -116,12 +117,13 @@ body a:hover {
   background-color: #ffffff;
   width: 97.25%;
   align-self: center;
+  padding-left: 18px;
+  padding-right: 18px;
 }
 
 #app > nav > .progress {
-  height: 1.15px;
   background-color: var(--black);
-  margin-top: 34px;
+  margin-top: 25px;
   transition: all ease-in-out 0.2s;
 }
 

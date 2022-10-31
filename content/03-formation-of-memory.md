@@ -1,7 +1,6 @@
-<div class="half-height">
+<div class="quarter-height">
 
-# I
-# Formation of Memory
+##### Formation of Memory
 
 </div>
 

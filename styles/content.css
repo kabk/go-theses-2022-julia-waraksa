@@ -19,12 +19,29 @@
 }
 
 .chapter b {
-  font-family: 'ITC Mendoza Roman Italic';
+  /* font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold; */
   font-weight: normal;
-  font-style:italic;
+}
+
+.chapter.text-align-left {
+  text-align: left;
+  padding-top: 100px;
+  min-height: 95vh;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid;
 }
 
 
+.chapter.full-image {
+  background-image: url('../content/images/header.png');
+  background-position: center;
+  background-size: contain;
+  margin-top: -50px;
+  background-repeat: no-repeat;
+  text-align: center;
+}
 
 .chapter.full-height {
   min-height: 95vh;
@@ -35,6 +52,14 @@
 
 .chapter .half-height {
   min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.chapter .quarter-height {
+  max-height: 40vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -73,14 +98,14 @@
 .chapter.separator {
   background-image: linear-gradient(var(--black), var(--black));
 background-repeat: no-repeat;
-background-size: 97.25% 1px, calc(90% - 1px) 100%;
+background-size: 97.25% 5px, calc(90% - 1px) 100%;
 background-position: bottom  , 4px 0;
 }
 
 .chapter .separator {
   background-image: linear-gradient(var(--black), var(--black));
 background-repeat: no-repeat;
-background-size: 97.25% 1px, calc(90% - 1px) 100%;
+background-size: 97.25% 5px, calc(90% - 1px) 100%;
 background-position: bottom  , 4px 0;
 }
 
@@ -99,8 +124,8 @@ background-position: bottom  , 4px 0;
 /* Quotes inside chapter text */
 .chapter .quote {
   padding: 25px 110px 25px 110px;
-  border-left: 1.15px solid black;
-  border-right: 1.15px solid black;
+  border-left: 4.5px solid black;
+  border-right: 4.5px solid black;
 }
 
 .chapter .quote-no-padding {
@@ -133,9 +158,14 @@ background-position: bottom  , 4px 0;
 .chapter .two-columns .right {
   flex: 1;
   display: flex;
+  flex-basis: 100%;
   flex-direction: column;
   padding: 0;
-  padding-left: 1%;
+
+}
+
+.red-border {
+  border: 5px solid red;
 }
 
 /* Images inside chapters */
@@ -200,8 +230,8 @@ width: 60%;
 
 .chapter .img-caption {
   font-size: 10pt;
-  line-height: 13pt;
-  font-family: 'ITC Mendoza Roman', Times, serif;
+  line-height: 1.3;
+  font-family: 'FT Kunst Grotesk';
   margin: 0;
 }
 
@@ -210,24 +240,19 @@ width: 60%;
 }
 
 .chapter i {
-  font-family: 'ITC Mendoza Roman Italic';
+  font-family: 'FT Kunst Grotesk';
 }
 
 .chapter .border-left-right {
   margin-top: 50px;
-  border-left: 1.15px solid black;
-  border-right: 1.15px solid black;
+  border-left: 4.5px solid black;
+  border-right: 4.5px solid black;
   padding-left: 25px;
   padding-right: 25px;
   margin-bottom: 50px;
 }
 
 
-.chapter b {
-  font-family: 'ITC Mendoza Roman Italic';
-  font-weight: normal;
-  /* letter-spacing: 0.005em; */
-}
 
 .chapter .padding {
   padding: 5% 20% 5% 20%;
@@ -242,17 +267,11 @@ width: 60%;
 }
 
 .bibliography b {
-  font-family: 'ITC Mendoza Roman';
-  font-weight: normal;
-  font-style: italic;
+  font-family: 'FT Kunst Grotesk Bold';
+  font-weight: bold;
 }
-.bibliography a {
-  border-bottom: 0.5px solid black;
-} 
-.bibliography a:hover {
-  border-bottom: 0.5px solid var(--interactive);
-  cursor: pointer;
-} 
+
+
 
 .mobile-hidden {
   display: none;
@@ -285,6 +304,17 @@ width: 60%;
     justify-content: center;
     align-items: center;
   }
+
+  .chapter.full-image {
+    background-image: url('../content/images/header-mobile.png');
+    background-position: center;
+    background-size: 70%;
+  
+    background-repeat: no-repeat;
+    text-align: center;
+  }
+
+  
   
   
 
@@ -304,7 +334,8 @@ width: 60%;
   .chapter-footnotes li .number {
     font-size: 10pt;
     line-height: 13pt;
-    font-family: 'ITC Mendoza Roman', Times, serif;
+    font-family: 'FT Kunst Grotesk Bold';
+    font-weight: bold;
     margin-right: 8px;
     padding: 0 10px 0 20px;
   }
@@ -315,8 +346,6 @@ width: 60%;
 
   .chapter .quote {
     padding: 25px 40px 25px 40px;
-    border-left: 1.15px solid black;
-    border-right: 1.15px solid black;
   }
 
 .chapter .img-caption {
@@ -348,6 +377,14 @@ width: 60%;
   padding: 3% 0 3% 0;
 }
 
+.chapter.full-image {
+  background-image: url('../content/images/header.png');
+  background-position: center;
+  background-size: 100%;
+
+  background-repeat: no-repeat;
+  text-align: center;
+}
 
 
 
